@@ -9,12 +9,18 @@
       "Studio"
     ],
     "bills_included": true,
-    "offer": null,
-    "status": "Rooms advertised",
+    "offer": "Up to £1,000 cashback on selected rooms",
+    "status": "Brand new, premium rooms advertised",
     "uob_walk_min": null,
     "source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/prs?utm_source=studentaccommodationbristol&utm_medium=referral&utm_campaign=property_guide",
     "checked": "2026-10-13",
-    "pinned": true
+    "pinned": true,
+    "positioning": [
+      "Brand new",
+      "Modern",
+      "High quality",
+      "Premium"
+    ]
   },
   {
     "name": "Zinc Quarter",
