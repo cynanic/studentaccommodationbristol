@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Zinc Quarter",
+    "provider": "Student Roost",
+    "area": "BS2",
+    "from_price": 185,
+    "room_types": [
+      "Townhouse bedroom",
+      "Ensuite",
+      "Studio"
+    ],
+    "bills_included": true,
+    "offer": null,
+    "status": "Fully booked / wait list",
+    "uob_walk_min": 30,
+    "source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
+    "checked": "2026-10-13"
+  },
+  {
+    "name": "Avon Point",
+    "provider": "Unite Students",
+    "area": "BS2",
+    "from_price": 258,
+    "room_types": [
+      "Ensuite",
+      "Studio"
+    ],
+    "bills_included": true,
+    "offer": null,
+    "status": "Rooms advertised",
+    "uob_walk_min": null,
+    "source": "https://www.unitestudents.com/student-accommodation/bristol",
+    "checked": "2026-10-13"
+  },
+  {
+    "name": "Water Lane House",
+    "provider": "iQ Student Accommodation",
+    "area": "BS1",
+    "from_price": 288,
+    "room_types": [
+      "Ensuite",
+      "Studio"
+    ],
+    "bills_included": true,
+    "offer": "Cashback up to £600 on selected rooms",
+    "status": "Limited availability shown",
+    "uob_walk_min": 25,
+    "source": "https://www.iqstudentaccommodation.com/bristol/water-lane-house",
+    "checked": "2026-10-13"
+  },
+  {
+    "name": "Cathedral Park",
+    "provider": "Unite Students",
+    "area": "BS8",
+    "from_price": 320,
+    "room_types": [
+      "Studio",
+      "One-bed flat",
+      "Ensuite"
+    ],
+    "bills_included": true,
+    "offer": null,
+    "status": "Rooms advertised",
+    "uob_walk_min": null,
+    "source": "https://www.unitestudents.com/student-accommodation/bristol",
+    "checked": "2026-10-13"
+  },
+  {
+    "name": "Phoenix Court",
+    "provider": "Unite Students",
+    "area": "BS1",
+    "from_price": 340,
+    "room_types": [
+      "Ensuite",
+      "Studio"
+    ],
+    "bills_included": true,
+    "offer": null,
+    "status": "Rooms advertised",
+    "uob_walk_min": null,
+    "source": "https://www.unitestudents.com/student-accommodation/bristol",
+    "checked": "2026-10-13"
+  },
+  {
+    "name": "Campbell House",
+    "provider": "Unite Students",
+    "area": "BS1",
+    "from_price": 397,
+    "room_types": [
+      "Ensuite",
+      "Studio"
+    ],
+    "bills_included": true,
+    "offer": "£400 retail voucher on eligible 2026/27 studio bookings",
+    "status": "Rooms advertised",
+    "uob_walk_min": null,
+    "source": "https://www.unitestudents.com/student-accommodation/bristol/campbell-house?academicYear=2026+-+2027",
+    "checked": "2026-10-13"
+  },
+  {
+    "name": "Brunel House",
+    "provider": "Unite Students",
+    "area": "BS1",
+    "from_price": 405,
+    "room_types": [
+      "Ensuite",
+      "Studio"
+    ],
+    "bills_included": true,
+    "offer": null,
+    "status": "Rooms advertised",
+    "uob_walk_min": null,
+    "source": "https://www.unitestudents.com/student-accommodation/bristol",
+    "checked": "2026-10-13"
+  }
+]
