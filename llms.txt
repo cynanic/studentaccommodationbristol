@@ -1,0 +1,29 @@
+# Student Accommodation Bristol
+
+> Independent comparison guide for student accommodation in Bristol, UK.
+
+Canonical site: https://studentaccommodationbristol.com/
+
+## Purpose
+
+Student Accommodation Bristol helps students compare Bristol purpose-built student accommodation using publicly available information from accommodation providers and other primary sources.
+
+## Core pages
+
+- Property comparison: https://studentaccommodationbristol.com/properties.html
+- University of Bristol guide: https://studentaccommodationbristol.com/university-of-bristol.html
+- UWE Bristol guide: https://studentaccommodationbristol.com/uwe-bristol.html
+- Bristol areas guide: https://studentaccommodationbristol.com/areas.html
+- Student studios guide: https://studentaccommodationbristol.com/student-studios-bristol.html
+- Student studios comparison: https://studentaccommodationbristol.com/student-studios-bristol-compare.html
+- Accommodation under £250/week: https://studentaccommodationbristol.com/student-accommodation-bristol-under-250.html
+- Cashback and offers: https://studentaccommodationbristol.com/student-accommodation-bristol-cashback.html
+- Comparison methodology: https://studentaccommodationbristol.com/how-we-compare.html
+
+## Data and methodology
+
+Property information is drawn from public provider sources. Pricing, offers and availability can change quickly. Pages should be treated as comparison guidance, and final prices and booking terms should be verified directly with the relevant accommodation provider.
+
+Structured property data: https://studentaccommodationbristol.com/data/properties.json
+
+Last updated: 2026-10-13
