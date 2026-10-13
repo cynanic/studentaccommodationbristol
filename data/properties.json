@@ -1,5 +1,22 @@
 [
   {
+    "name": "Croft Court",
+    "provider": "Fresh",
+    "area": "Stokes Croft",
+    "from_price": 240,
+    "room_types": [
+      "Ensuite",
+      "Studio"
+    ],
+    "bills_included": true,
+    "offer": null,
+    "status": "Rooms advertised",
+    "uob_walk_min": null,
+    "source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/prs?utm_source=studentaccommodationbristol&utm_medium=referral&utm_campaign=property_guide",
+    "checked": "2026-10-13",
+    "pinned": true
+  },
+  {
     "name": "Zinc Quarter",
     "provider": "Student Roost",
     "area": "BS2",
