@@ -23,3 +23,6 @@ In Settings > Actions > General, allow GitHub Actions to create and approve pull
 
 ## Next milestone
 Build source-specific parsers with fixture tests, explicit academic-year mapping, validation thresholds and a human approval gate before allowing verified routine fields to be updated automatically.
+
+## CI bootstrap
+A read-only validation workflow lives on the default branch to test pull requests before merging the monitoring scheduler.
