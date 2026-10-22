@@ -1,0 +1,35 @@
+name: Monitor accommodation listings
+on:
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate listing data
+        run: python scripts/validate_listings.py
+      - name: Check sources and create review report
+        run: python scripts/monitor_listings.py
+      - name: Open review pull request if report changes
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore: update listings source-monitor report"
+          branch: automation/listings-review
+          delete-branch: true
+          title: "Review accommodation listing source checks"
+          body: |
+            Automated source checks only. No prices, availability or offers are changed automatically.
+            Review the report, investigate alerts and verify source evidence before updating published listings.
+            A successful HTTP response does NOT confirm a price or booking status.
+          add-paths: reports/listings-monitor.json
+          labels: listings-review
