@@ -32,4 +32,3 @@ jobs:
             Review the report, investigate alerts and verify source evidence before updating published listings.
             A successful HTTP response does NOT confirm a price or booking status.
           add-paths: reports/listings-monitor.json
-          labels: listings-review
