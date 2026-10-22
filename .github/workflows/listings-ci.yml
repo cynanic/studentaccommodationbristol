@@ -1,0 +1,30 @@
+name: Validate listings changes
+on:
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - 'data/**'
+      - '.github/workflows/**'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate listings when monitoring code exists
+        shell: bash
+        run: |
+          if [ -f scripts/validate_listings.py ]; then
+            python scripts/validate_listings.py
+          else
+            python -m json.tool data/properties.json >/dev/null
+          fi
+      - name: Compile monitoring scripts
+        shell: bash
+        run: |
+          if [ -d scripts ]; then python -m compileall -q scripts; fi
