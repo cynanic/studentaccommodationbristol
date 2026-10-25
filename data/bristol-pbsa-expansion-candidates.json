@@ -1,0 +1,132 @@
+{
+  "purpose": "Candidate Bristol PBSA building inventory for full room-grade expansion. NOT verified prices or published website listings.",
+  "checked_at": "2026-10-25",
+  "sources": [
+    "https://www.pbsax.com/pbsa/bristol",
+    "https://www.bristol.ac.uk/accommodation/privately-rented/finding-private-accommodation/finding-properties-to-view/pbsa/",
+    "https://www.studentcrowd.com/student-accommodation-l1000825-bristol"
+  ],
+  "status": "research candidates; verify operator, current operation, duplicates, academic years and individual grades before promotion to public data",
+  "buildings": [
+    {
+      "name": "Canvas Bristol",
+      "operator": "Canvas Student",
+      "room_grades": [],
+      "verification_status": "room-grade pricing not yet verified"
+    },
+    {
+      "name": "Hotwells House",
+      "operator": "Njoy Student Living",
+      "room_grades": [],
+      "verification_status": "room-grade pricing not yet verified"
+    },
+    {
+      "name": "King Square Studios",
+      "operator": "Homes for Students",
+      "room_grades": [],
+      "verification_status": "room-grade pricing not yet verified"
+    },
+    {
+      "name": "Chantry Court",
+      "operator": "Unite Students",
+      "room_grades": [],
+      "verification_status": "room-grade pricing not yet verified"
+    },
+    {
+      "name": "Stoke House",
+      "operator": null,
+      "room_grades": [],
+      "verification_status": "room-grade pricing not yet verified"
+    },
+    {
+      "name": "Print Hall I",
+      "operator": "Yugo",
+      "room_grades": [],
+      "verification_status": "room-grade pricing not yet verified"
+    },
+    {
+      "name": "Print Hall II",
+      "operator": "Yugo",
+      "room_grades": [],
+      "verification_status": "room-grade pricing not yet verified"
+    },
+    {
+      "name": "Studio 58",
+      "operator": "Unite Students",
+      "room_grades": [],
+      "verification_status": "room-grade pricing not yet verified"
+    },
+    {
+      "name": "Colston Avenue",
+      "operator": "Almero",
+      "room_grades": [],
+      "verification_status": "room-grade pricing not yet verified"
+    },
+    {
+      "name": "St Lawrence House",
+      "operator": "Homes for Students",
+      "room_grades": [],
+      "verification_status": "room-grade pricing not yet verified"
+    },
+    {
+      "name": "Dean Street Works",
+      "operator": null,
+      "room_grades": [],
+      "verification_status": "room-grade pricing not yet verified"
+    },
+    {
+      "name": "Harbour Court",
+      "operator": "Homes for Students",
+      "room_grades": [],
+      "verification_status": "room-grade pricing not yet verified"
+    },
+    {
+      "name": "Waterside",
+      "operator": "Host",
+      "room_grades": [],
+      "verification_status": "room-grade pricing not yet verified"
+    },
+    {
+      "name": "Stonebridge House",
+      "operator": "Almero",
+      "room_grades": [],
+      "verification_status": "room-grade pricing not yet verified"
+    },
+    {
+      "name": "The Quarter House",
+      "operator": "Prestige Student Living",
+      "room_grades": [],
+      "verification_status": "room-grade pricing not yet verified"
+    },
+    {
+      "name": "Port on the Square",
+      "operator": null,
+      "room_grades": [],
+      "verification_status": "room-grade pricing not yet verified"
+    },
+    {
+      "name": "Glassworks",
+      "operator": null,
+      "room_grades": [],
+      "verification_status": "room-grade pricing not yet verified"
+    },
+    {
+      "name": "Tower @ Collegiate",
+      "operator": null,
+      "room_grades": [],
+      "verification_status": "room-grade pricing not yet verified"
+    },
+    {
+      "name": "Bristol Clifton Heights",
+      "operator": null,
+      "room_grades": [],
+      "verification_status": "room-grade pricing not yet verified"
+    },
+    {
+      "name": "Blenheim Court",
+      "operator": null,
+      "room_grades": [],
+      "verification_status": "room-grade pricing not yet verified"
+    }
+  ]
+}
