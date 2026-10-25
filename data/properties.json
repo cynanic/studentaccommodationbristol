@@ -9,41 +9,220 @@
       "Studio"
     ],
     "bills_included": true,
-    "offer": "Up to £1,000 cashback on selected rooms",
-    "status": "Brand new, premium rooms advertised",
+    "offer": "Up to £1,000 cashback advertised on selected 2026/27 rooms; eligibility/terms must be checked",
+    "status": "Selected 2026/27 grades available; other grades sold out or enquiry only",
     "uob_walk_min": null,
     "source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/prs?utm_source=studentaccommodationbristol&utm_medium=referral&utm_campaign=property_guide",
-    "checked": "2026-10-13",
+    "checked": "2026-10-25",
     "pinned": true,
     "positioning": [
       "Brand new",
       "Modern",
       "High quality",
       "Premium"
-    ]
+    ],
+    "academic_year": "2026/27",
+    "price_checked": "2026-10-25",
+    "pricing_status": "operator-advertised; availability varies by room/contract",
+    "room_grades": [
+      {
+        "name": "Cozy En Suite",
+        "weekly_from": 240,
+        "weekly_to": 245,
+        "contract_weeks": [
+          44,
+          51
+        ],
+        "availability": "Contact provider; not confirmed bookable"
+      },
+      {
+        "name": "Classic En Suite",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 255,
+            "status": "Select Your Room"
+          },
+          {
+            "weeks": 44,
+            "weekly": 265,
+            "status": "Select Your Room"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/ces"
+      },
+      {
+        "name": "Premium En Suite",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 265,
+            "status": "Sold Out"
+          },
+          {
+            "weeks": 44,
+            "weekly": 275,
+            "status": "Sold Out"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/prmes"
+      },
+      {
+        "name": "Deluxe En Suite",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 275,
+            "status": "Select Your Room"
+          },
+          {
+            "weeks": 44,
+            "weekly": 285,
+            "status": "Sold Out"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/des"
+      },
+      {
+        "name": "City Studio",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 335,
+            "status": "Sold Out"
+          },
+          {
+            "weeks": 44,
+            "weekly": 340,
+            "status": "Sold Out"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/cis"
+      },
+      {
+        "name": "Premium Studio",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 355,
+            "status": "Select Your Room"
+          },
+          {
+            "weeks": 44,
+            "weekly": 360,
+            "status": "Select Your Room"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/prs"
+      },
+      {
+        "name": "Deluxe Studio",
+        "weekly_from": 365,
+        "weekly_to": 375,
+        "contract_weeks": [
+          44,
+          51
+        ],
+        "availability": "Contact provider; not confirmed bookable"
+      },
+      {
+        "name": "Accessible Platinum Studio",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 410,
+            "status": "Sold Out"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/aps"
+      },
+      {
+        "name": "Accessible Deluxe En Suite",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 350,
+            "status": "Sold Out"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/desa"
+      },
+      {
+        "name": "Deluxe Loft En Suite",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 350,
+            "status": "Contact provider"
+          }
+        ]
+      },
+      {
+        "name": "Loft Studio",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 410,
+            "status": "Contact provider"
+          }
+        ]
+      },
+      {
+        "name": "Loft En Suite",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 320,
+            "status": "Contact provider"
+          }
+        ]
+      }
+    ],
+    "room_grades_source": "https://www.thisisfresh.com/bristol/croft-court/rooms"
   },
   {
     "name": "Zinc Quarter",
     "provider": "Student Roost",
     "area": "BS2",
-    "from_price": 185,
+    "from_price": 199,
     "room_types": [
       "Townhouse bedroom",
       "Ensuite",
       "Studio"
     ],
     "bills_included": true,
-    "offer": null,
-    "status": "Fully booked / wait list",
+    "offer": "Free tech gift promoted on selected room grades; check eligibility and T&Cs",
+    "status": "Townhouse and en-suite almost gone; studios fully booked/wait list",
     "uob_walk_min": 30,
     "source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
-    "checked": "2026-10-13"
+    "checked": "2026-10-25",
+    "academic_year": "2026/27",
+    "price_checked": "2026-10-25",
+    "pricing_status": "operator-advertised from rates",
+    "room_grades": [
+      {
+        "name": "Townhouse bedroom",
+        "weekly_from": 199,
+        "availability": "Almost gone"
+      },
+      {
+        "name": "En-suite",
+        "weekly_from": 269,
+        "availability": "Almost gone"
+      },
+      {
+        "name": "Studio",
+        "weekly_from": 369,
+        "availability": "Fully booked / wait list"
+      }
+    ],
+    "room_grades_source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter"
   },
   {
     "name": "Avon Point",
     "provider": "Unite Students",
     "area": "BS2",
-    "from_price": 258,
+    "from_price": 259,
     "room_types": [
       "Ensuite",
       "Studio"
@@ -52,8 +231,11 @@
     "offer": null,
     "status": "Rooms advertised",
     "uob_walk_min": null,
-    "source": "https://www.unitestudents.com/student-accommodation/bristol",
-    "checked": "2026-10-13"
+    "source": "https://www.unitestudents.com/student-accommodation/bristol/avon-point?academicYear=2026+-+2027",
+    "checked": "2026-10-25",
+    "academic_year": "2026/27",
+    "price_checked": "2026-10-25",
+    "pricing_status": "operator-advertised headline; room-grade contract matrix unavailable"
   },
   {
     "name": "Water Lane House",
@@ -61,32 +243,38 @@
     "area": "BS1",
     "from_price": 288,
     "room_types": [
-      "Ensuite",
       "Studio"
     ],
     "bills_included": true,
-    "offer": "Cashback up to £600 on selected rooms",
-    "status": "Limited availability shown",
+    "offer": "Previously recorded cashback up to £600; not reverified 2026-10-25",
+    "status": "Studio-only building; live prices/availability could not be independently verified today",
     "uob_walk_min": 25,
     "source": "https://www.iqstudentaccommodation.com/bristol/water-lane-house",
-    "checked": "2026-10-13"
+    "checked": "2026-10-13",
+    "academic_year": "2026/27",
+    "room_types_checked": "2026-10-25",
+    "price_checked": "2026-10-13",
+    "pricing_status": "Previously recorded headline; not reverified on operator page 2026-10-25"
   },
   {
     "name": "Cathedral Park",
     "provider": "Unite Students",
     "area": "BS8",
-    "from_price": 320,
+    "from_price": 325,
     "room_types": [
       "Studio",
       "One-bed flat",
       "Ensuite"
     ],
     "bills_included": true,
-    "offer": null,
+    "offer": "Free Circuit Laundry on eligible 2026/27 en-suite bookings; terms apply",
     "status": "Rooms advertised",
     "uob_walk_min": null,
-    "source": "https://www.unitestudents.com/student-accommodation/bristol",
-    "checked": "2026-10-13"
+    "source": "https://www.unitestudents.com/student-accommodation/bristol/cathedral-park?academicYear=2026+-+2027",
+    "checked": "2026-10-25",
+    "academic_year": "2026/27",
+    "price_checked": "2026-10-25",
+    "pricing_status": "operator-advertised headline; room-grade contract matrix unavailable"
   },
   {
     "name": "Phoenix Court",
@@ -98,11 +286,14 @@
       "Studio"
     ],
     "bills_included": true,
-    "offer": null,
+    "offer": "£400 retail voucher on eligible 2026/27 studio bookings; terms apply",
     "status": "Rooms advertised",
     "uob_walk_min": null,
-    "source": "https://www.unitestudents.com/student-accommodation/bristol",
-    "checked": "2026-10-13"
+    "source": "https://www.unitestudents.com/student-accommodation/bristol/phoenix-court?academicYear=2026+-+2027",
+    "checked": "2026-10-25",
+    "academic_year": "2026/27",
+    "price_checked": "2026-10-25",
+    "pricing_status": "operator-advertised headline; room-grade contract matrix unavailable"
   },
   {
     "name": "Campbell House",
@@ -118,22 +309,28 @@
     "status": "Rooms advertised",
     "uob_walk_min": null,
     "source": "https://www.unitestudents.com/student-accommodation/bristol/campbell-house?academicYear=2026+-+2027",
-    "checked": "2026-10-13"
+    "checked": "2026-10-25",
+    "academic_year": "2026/27",
+    "price_checked": "2026-10-25",
+    "pricing_status": "operator-advertised headline; room-grade contract matrix unavailable"
   },
   {
     "name": "Brunel House",
     "provider": "Unite Students",
     "area": "BS1",
-    "from_price": 405,
+    "from_price": 407,
     "room_types": [
       "Ensuite",
       "Studio"
     ],
     "bills_included": true,
-    "offer": null,
+    "offer": "£400 retail voucher on eligible 2026/27 studio bookings; terms apply",
     "status": "Rooms advertised",
     "uob_walk_min": null,
-    "source": "https://www.unitestudents.com/student-accommodation/bristol",
-    "checked": "2026-10-13"
+    "source": "https://www.unitestudents.com/student-accommodation/bristol/brunel-house?academicYear=2026+-+2027",
+    "checked": "2026-10-25",
+    "academic_year": "2026/27",
+    "price_checked": "2026-10-25",
+    "pricing_status": "operator-advertised headline; room-grade contract matrix unavailable"
   }
 ]
