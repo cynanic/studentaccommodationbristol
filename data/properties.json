@@ -13,7 +13,7 @@
     "status": "Selected 2026/27 grades available; other grades sold out or enquiry only",
     "uob_walk_min": null,
     "source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/prs?utm_source=studentaccommodationbristol&utm_medium=referral&utm_campaign=property_guide",
-    "checked": "2026-10-25",
+    "checked": "2026-10-26",
     "pinned": true,
     "positioning": [
       "Brand new",
@@ -178,7 +178,9 @@
         ]
       }
     ],
-    "room_grades_source": "https://www.thisisfresh.com/bristol/croft-court/rooms"
+    "room_grades_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+    "room_grades_source_checked": "2026-10-26",
+    "operator_page_summary_source": "https://www.thisisfresh.com/bristol/croft-court/rooms"
   },
   {
     "name": "Zinc Quarter",
@@ -195,9 +197,9 @@
     "status": "Townhouse and en-suite almost gone; studios fully booked/wait list",
     "uob_walk_min": 30,
     "source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
-    "checked": "2026-10-25",
+    "checked": "2026-10-26",
     "academic_year": "2026/27",
-    "price_checked": "2026-10-25",
+    "price_checked": "2026-10-26",
     "pricing_status": "operator-advertised from rates",
     "room_grades": [
       {
@@ -216,7 +218,8 @@
         "availability": "Fully booked / wait list"
       }
     ],
-    "room_grades_source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter"
+    "room_grades_source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
+    "room_grades_source_checked": "2026-10-26"
   },
   {
     "name": "Avon Point",
@@ -252,7 +255,7 @@
     "source": "https://www.iqstudentaccommodation.com/bristol/water-lane-house",
     "checked": "2026-10-13",
     "academic_year": "2026/27",
-    "room_types_checked": "2026-10-25",
+    "room_types_checked": "2026-10-26",
     "price_checked": "2026-10-13",
     "pricing_status": "Previously recorded headline; not reverified on operator page 2026-10-25"
   },
