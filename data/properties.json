@@ -13,7 +13,7 @@
     "status": "Selected 2026/27 grades available; other grades sold out or enquiry only",
     "uob_walk_min": null,
     "source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/prs?utm_source=studentaccommodationbristol&utm_medium=referral&utm_campaign=property_guide",
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "pinned": true,
     "positioning": [
       "Brand new",
@@ -179,7 +179,7 @@
       }
     ],
     "room_grades_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
-    "room_grades_source_checked": "2026-10-26",
+    "room_grades_source_checked": "2026-10-27",
     "operator_page_summary_source": "https://www.thisisfresh.com/bristol/croft-court/rooms"
   },
   {
@@ -193,29 +193,38 @@
       "Studio"
     ],
     "bills_included": true,
-    "offer": "Free tech gift promoted on selected room grades; check eligibility and T&Cs",
+    "offer": "Free Nintendo Switch 2 advertised on townhouse and en-suite room categories; free MacBook Neo advertised on studios. Eligibility, stock and offer terms must be checked; studios currently fully booked.",
     "status": "Townhouse and en-suite almost gone; studios fully booked/wait list",
     "uob_walk_min": 30,
     "source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
-    "checked": "2026-10-26",
+    "checked": "2026-10-27",
     "academic_year": "2026/27",
-    "price_checked": "2026-10-26",
+    "price_checked": "2026-10-27",
     "pricing_status": "operator-advertised from rates",
     "room_grades": [
       {
         "name": "Townhouse bedroom",
         "weekly_from": 199,
-        "availability": "Almost gone"
+        "availability": "Almost gone",
+        "source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
+        "checked": "2026-10-27",
+        "advertised_incentive": "Nintendo Switch 2 promotional graphic; subject to terms"
       },
       {
         "name": "En-suite",
         "weekly_from": 269,
-        "availability": "Almost gone"
+        "availability": "Almost gone",
+        "source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
+        "checked": "2026-10-27",
+        "advertised_incentive": "Nintendo Switch 2 promotional graphic; subject to terms"
       },
       {
         "name": "Studio",
         "weekly_from": 369,
-        "availability": "Fully booked / wait list"
+        "availability": "Fully booked / wait list",
+        "source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
+        "checked": "2026-10-27",
+        "advertised_incentive": "MacBook Neo promotional graphic; studio category fully booked"
       }
     ],
     "room_grades_source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
@@ -255,7 +264,7 @@
     "source": "https://www.iqstudentaccommodation.com/bristol/water-lane-house",
     "checked": "2026-10-13",
     "academic_year": "2026/27",
-    "room_types_checked": "2026-10-26",
+    "room_types_checked": "2026-10-27",
     "price_checked": "2026-10-13",
     "pricing_status": "Previously recorded headline; not reverified on operator page 2026-10-25"
   },
@@ -335,5 +344,238 @@
     "academic_year": "2026/27",
     "price_checked": "2026-10-25",
     "pricing_status": "operator-advertised headline; room-grade contract matrix unavailable"
+  },
+  {
+    "name": "Waterside",
+    "provider": "Host Students",
+    "area": "Temple Quarter / Avon Street",
+    "from_price": 265,
+    "room_types": [
+      "Ensuite",
+      "Studio"
+    ],
+    "bills_included": true,
+    "offer": "£650 cashback for eligible 2026/27 Standard Studio bookings using code NB650; free studio dual occupancy code DUALOCC; £150 each referral offer for eligible 2026/27 residents. Terms apply.",
+    "status": "Selected 2026/27 room grades show limited availability; booking listing conflicts with older FAQ prices/statuses",
+    "uob_walk_min": null,
+    "source": "https://host-students.com/property/waterside/",
+    "checked": "2026-10-27",
+    "academic_year": "2026/27",
+    "price_checked": "2026-10-27",
+    "pricing_status": "operator live booking-card prices; 2026/27 only; FAQ on same page has conflicting older rates",
+    "room_grades_source": "https://host-students.com/property/waterside/",
+    "room_grades": [
+      {
+        "name": "Classic 6 Bed Upper Floor Ensuite",
+        "weekly_from": 265,
+        "availability": "Limited availability",
+        "source": "https://host-students.com/property/waterside/",
+        "checked": "2026-10-27"
+      },
+      {
+        "name": "Classic 8 Bed Upper Floor Ensuite",
+        "weekly_from": 265,
+        "availability": "Limited availability",
+        "source": "https://host-students.com/property/waterside/",
+        "checked": "2026-10-27"
+      },
+      {
+        "name": "Classic 8 Bed Ensuite",
+        "weekly_from": 265,
+        "availability": "Limited availability",
+        "source": "https://host-students.com/property/waterside/",
+        "checked": "2026-10-27",
+        "rates": [
+          {
+            "weeks": 9,
+            "weekly": 270
+          },
+          {
+            "weeks": 37,
+            "weekly": 265
+          },
+          {
+            "weeks": 34,
+            "weekly": 270
+          }
+        ]
+      },
+      {
+        "name": "Standard (Floor 1-2) Studio",
+        "weekly_from": 300,
+        "availability": "Limited availability",
+        "source": "https://host-students.com/property/waterside/",
+        "checked": "2026-10-27",
+        "advertised_offer": "£650 cashback on eligible 2026/27 Standard Studio booking with code NB650"
+      },
+      {
+        "name": "Standard (Floor 7-8) Studio",
+        "weekly_from": 315,
+        "availability": "Limited availability",
+        "source": "https://host-students.com/property/waterside/",
+        "checked": "2026-10-27",
+        "rates": [
+          {
+            "weeks": 44,
+            "weekly": 315
+          },
+          {
+            "weeks": 37,
+            "weekly": 315
+          }
+        ],
+        "advertised_offer": "£650 cashback on eligible 2026/27 Standard Studio booking with code NB650"
+      },
+      {
+        "name": "Standard (Floor 9-10) Studio",
+        "weekly_from": 320,
+        "availability": "Limited availability",
+        "source": "https://host-students.com/property/waterside/",
+        "checked": "2026-10-27",
+        "rates": [
+          {
+            "weeks": 9,
+            "weekly": 330
+          },
+          {
+            "weeks": 37,
+            "weekly": 320
+          },
+          {
+            "weeks": 44,
+            "weekly": 320
+          },
+          {
+            "weeks": 34,
+            "weekly": 330
+          }
+        ],
+        "advertised_offer": "£650 cashback on eligible 2026/27 Standard Studio booking with code NB650"
+      },
+      {
+        "name": "Standard (Floor 11) Studio",
+        "weekly_from": 325,
+        "availability": "Limited availability",
+        "source": "https://host-students.com/property/waterside/",
+        "checked": "2026-10-27",
+        "advertised_offer": "£650 cashback on eligible 2026/27 Standard Studio booking with code NB650"
+      },
+      {
+        "name": "Accessible Premium Studio",
+        "weekly_from": 345,
+        "availability": "Limited availability",
+        "source": "https://host-students.com/property/waterside/",
+        "checked": "2026-10-27"
+      },
+      {
+        "name": "Premium Studio",
+        "weekly_from": 345,
+        "availability": "Limited availability",
+        "source": "https://host-students.com/property/waterside/",
+        "checked": "2026-10-27",
+        "rates": [
+          {
+            "weeks": 44,
+            "weekly": 345
+          },
+          {
+            "weeks": 37,
+            "weekly": 345
+          }
+        ]
+      }
+    ],
+    "room_grades_source_checked": "2026-10-27",
+    "unconfirmed_room_grades_note": "Operator FAQ on same page lists additional sold-out and floor-specific grades and different studio prices. Do not treat FAQ prices or sold-out labels as current without reconciling with the booking cards."
+  },
+  {
+    "name": "The Propeller Quarter",
+    "provider": "Prestige Student Living",
+    "area": "Brabazon / North Bristol",
+    "from_price": 180,
+    "room_types": [
+      "Ensuite",
+      "Studio"
+    ],
+    "bills_included": true,
+    "offer": null,
+    "status": "2026/27 room selector: classic ensuites and studio priced; deluxe studio sold out; accessible ensuite on request",
+    "uob_walk_min": null,
+    "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
+    "checked": "2026-10-27",
+    "academic_year": "2026/27",
+    "price_checked": "2026-10-27",
+    "pricing_status": "operator advertised room-grade from rates; selector also shows 2027/28 but prices not verified for that year",
+    "room_grades_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
+    "room_grades_source_checked": "2026-10-27",
+    "room_grades": [
+      {
+        "name": "Classic 4 Bed Ensuite",
+        "weekly_from": 180,
+        "availability": "Advertised",
+        "contract_weeks": [
+          44,
+          37,
+          34,
+          28,
+          9
+        ],
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
+        "checked": "2026-10-27",
+        "price_note": "From price across listed contract options; not an individual contract rate"
+      },
+      {
+        "name": "Classic Ensuite",
+        "weekly_from": 180,
+        "availability": "Advertised",
+        "contract_weeks": [
+          44,
+          37,
+          34,
+          28,
+          9
+        ],
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
+        "checked": "2026-10-27",
+        "price_note": "From price across listed contract options; not an individual contract rate"
+      },
+      {
+        "name": "Classic Studio",
+        "weekly_from": 260,
+        "availability": "Advertised",
+        "contract_weeks": [
+          44,
+          37,
+          34,
+          28,
+          9
+        ],
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
+        "checked": "2026-10-27",
+        "price_note": "From price across listed contract options; not an individual contract rate"
+      },
+      {
+        "name": "Deluxe Studio",
+        "weekly_from": null,
+        "availability": "Sold Out",
+        "contract_weeks": [],
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
+        "checked": "2026-10-27",
+        "price_note": "No operator price displayed"
+      },
+      {
+        "name": "Accessible Ensuite",
+        "weekly_from": null,
+        "availability": "Available on request",
+        "contract_weeks": [
+          44,
+          35,
+          33
+        ],
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
+        "checked": "2026-10-27",
+        "price_note": "No operator price displayed"
+      }
+    ]
   }
 ]
