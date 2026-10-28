@@ -234,20 +234,20 @@
     "name": "Avon Point",
     "provider": "Unite Students",
     "area": "BS2",
-    "from_price": 259,
+    "from_price": 258,
     "room_types": [
       "Ensuite",
       "Studio"
     ],
     "bills_included": true,
     "offer": null,
-    "status": "Rooms advertised",
+    "status": "Operator advertises rooms available; room-level bookability not independently verified",
     "uob_walk_min": null,
-    "source": "https://www.unitestudents.com/student-accommodation/bristol/avon-point?academicYear=2026+-+2027",
-    "checked": "2026-10-25",
+    "source": "https://www.unitestudents.com/student-accommodation/bristol/avon-point",
+    "checked": "2026-10-28",
     "academic_year": "2026/27",
-    "price_checked": "2026-10-25",
-    "pricing_status": "operator-advertised headline; room-grade contract matrix unavailable"
+    "price_checked": "2026-10-28",
+    "pricing_status": "Operator 2026/27 headline from-price verified 28 Oct 2026; individual room/contract matrix not exposed in page text"
   },
   {
     "name": "Water Lane House",
@@ -272,7 +272,7 @@
     "name": "Cathedral Park",
     "provider": "Unite Students",
     "area": "BS8",
-    "from_price": 325,
+    "from_price": 260,
     "room_types": [
       "Studio",
       "One-bed flat",
@@ -280,70 +280,70 @@
     ],
     "bills_included": true,
     "offer": "Free Circuit Laundry on eligible 2026/27 en-suite bookings; terms apply",
-    "status": "Rooms advertised",
+    "status": "Operator advertises rooms available; room-level bookability not independently verified",
     "uob_walk_min": null,
-    "source": "https://www.unitestudents.com/student-accommodation/bristol/cathedral-park?academicYear=2026+-+2027",
-    "checked": "2026-10-25",
+    "source": "https://www.unitestudents.com/student-accommodation/bristol/cathedral-park",
+    "checked": "2026-10-28",
     "academic_year": "2026/27",
-    "price_checked": "2026-10-25",
-    "pricing_status": "operator-advertised headline; room-grade contract matrix unavailable"
+    "price_checked": "2026-10-28",
+    "pricing_status": "Operator 2026/27 headline from-price verified 28 Oct 2026; individual room/contract matrix not exposed in page text"
   },
   {
     "name": "Phoenix Court",
     "provider": "Unite Students",
     "area": "BS1",
-    "from_price": 340,
+    "from_price": 276,
     "room_types": [
       "Ensuite",
       "Studio"
     ],
     "bills_included": true,
     "offer": "£400 retail voucher on eligible 2026/27 studio bookings; terms apply",
-    "status": "Rooms advertised",
+    "status": "Operator advertises rooms available; room-level bookability not independently verified",
     "uob_walk_min": null,
-    "source": "https://www.unitestudents.com/student-accommodation/bristol/phoenix-court?academicYear=2026+-+2027",
-    "checked": "2026-10-25",
+    "source": "https://www.unitestudents.com/student-accommodation/bristol/phoenix-court",
+    "checked": "2026-10-28",
     "academic_year": "2026/27",
-    "price_checked": "2026-10-25",
-    "pricing_status": "operator-advertised headline; room-grade contract matrix unavailable"
+    "price_checked": "2026-10-28",
+    "pricing_status": "Operator 2026/27 headline from-price verified 28 Oct 2026; individual room/contract matrix not exposed in page text"
   },
   {
     "name": "Campbell House",
     "provider": "Unite Students",
     "area": "BS1",
-    "from_price": 397,
+    "from_price": 317.6,
     "room_types": [
       "Ensuite",
       "Studio"
     ],
     "bills_included": true,
     "offer": "£400 retail voucher on eligible 2026/27 studio bookings",
-    "status": "Rooms advertised",
+    "status": "Operator advertises rooms available; room-level bookability not independently verified",
     "uob_walk_min": null,
-    "source": "https://www.unitestudents.com/student-accommodation/bristol/campbell-house?academicYear=2026+-+2027",
-    "checked": "2026-10-25",
+    "source": "https://www.unitestudents.com/student-accommodation/bristol/campbell-house",
+    "checked": "2026-10-28",
     "academic_year": "2026/27",
-    "price_checked": "2026-10-25",
-    "pricing_status": "operator-advertised headline; room-grade contract matrix unavailable"
+    "price_checked": "2026-10-28",
+    "pricing_status": "Operator 2026/27 headline from-price verified 28 Oct 2026; individual room/contract matrix not exposed in page text"
   },
   {
     "name": "Brunel House",
     "provider": "Unite Students",
     "area": "BS1",
-    "from_price": 407,
+    "from_price": 328,
     "room_types": [
       "Ensuite",
       "Studio"
     ],
     "bills_included": true,
     "offer": "£400 retail voucher on eligible 2026/27 studio bookings; terms apply",
-    "status": "Rooms advertised",
+    "status": "Operator advertises rooms available; room-level bookability not independently verified",
     "uob_walk_min": null,
-    "source": "https://www.unitestudents.com/student-accommodation/bristol/brunel-house?academicYear=2026+-+2027",
-    "checked": "2026-10-25",
+    "source": "https://www.unitestudents.com/student-accommodation/bristol/brunel-house",
+    "checked": "2026-10-28",
     "academic_year": "2026/27",
-    "price_checked": "2026-10-25",
-    "pricing_status": "operator-advertised headline; room-grade contract matrix unavailable"
+    "price_checked": "2026-10-28",
+    "pricing_status": "Operator 2026/27 headline from-price verified 28 Oct 2026; individual room/contract matrix not exposed in page text"
   },
   {
     "name": "Waterside",
