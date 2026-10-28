@@ -370,7 +370,17 @@
         "weekly_from": 265,
         "availability": "Limited availability",
         "source": "https://host-students.com/property/waterside/",
-        "checked": "2026-10-27"
+        "checked": "2026-10-28",
+        "rates": [
+          {
+            "weeks": 44,
+            "weekly": 265
+          },
+          {
+            "weeks": 37,
+            "weekly": 265
+          }
+        ]
       },
       {
         "name": "Classic 8 Bed Upper Floor Ensuite",
@@ -485,7 +495,7 @@
         ]
       }
     ],
-    "room_grades_source_checked": "2026-10-27",
+    "room_grades_source_checked": "2026-10-28",
     "unconfirmed_room_grades_note": "Operator FAQ on same page lists additional sold-out and floor-specific grades and different studio prices. Do not treat FAQ prices or sold-out labels as current without reconciling with the booking cards."
   },
   {
@@ -577,5 +587,398 @@
         "price_note": "No operator price displayed"
       }
     ]
+  },
+  {
+    "name": "New Bridewell",
+    "provider": "Fresh",
+    "area": "Bristol city centre / Nelson Street",
+    "from_price": 240,
+    "room_types": [
+      "Ensuite",
+      "Studio"
+    ],
+    "bills_included": true,
+    "offer": "Price Freeze Guarantee and free monthly kitchen cleans advertised; verify terms",
+    "status": "2026/27 room-grade pricing advertised; individual booking availability varies",
+    "uob_walk_min": null,
+    "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+    "checked": "2026-10-28",
+    "academic_year": "2026/27",
+    "price_checked": "2026-10-28",
+    "pricing_status": "Operator room-list advertised price ranges; not all rates confirmed per contract",
+    "room_grades_source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+    "room_grades_source_checked": "2026-10-28",
+    "room_grades": [
+      {
+        "name": "Silver En Suite",
+        "weekly_from": 279,
+        "weekly_to": 300,
+        "contract_weeks": [
+          44,
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+      },
+      {
+        "name": "Bronze En Suite",
+        "weekly_from": 259,
+        "weekly_to": 300,
+        "contract_weeks": [
+          44,
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+      },
+      {
+        "name": "Classic En Suite",
+        "weekly_from": 240,
+        "weekly_to": 270,
+        "contract_weeks": [
+          44,
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+      },
+      {
+        "name": "Silver Studio",
+        "weekly_from": 330,
+        "weekly_to": 385,
+        "contract_weeks": [
+          26,
+          44,
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+      },
+      {
+        "name": "Gold En Suite",
+        "weekly_from": 290,
+        "weekly_to": 315,
+        "contract_weeks": [
+          44,
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+      },
+      {
+        "name": "Gold Studio",
+        "weekly_from": 390,
+        "weekly_to": 415,
+        "contract_weeks": [
+          44,
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+      },
+      {
+        "name": "Accessible Platinum En Suite",
+        "weekly_from": 250,
+        "weekly_to": 330,
+        "contract_weeks": [
+          44,
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+      },
+      {
+        "name": "Platinum En Suite",
+        "weekly_from": 310,
+        "weekly_to": 310,
+        "contract_weeks": [
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised weekly figure; booking status must be confirmed"
+      },
+      {
+        "name": "Bronze Studio",
+        "weekly_from": 330,
+        "weekly_to": 350,
+        "contract_weeks": [
+          44,
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+      },
+      {
+        "name": "Platinum Studio",
+        "weekly_from": 420,
+        "weekly_to": 420,
+        "contract_weeks": [
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised weekly figure; booking status must be confirmed"
+      }
+    ],
+    "next_academic_year": {
+      "academic_year": "2027/28",
+      "status": "Year selectable on operator page; no verified room-grade prices",
+      "checked": "2026-10-28",
+      "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms"
+    }
+  },
+  {
+    "name": "Glassworks",
+    "provider": "Fresh",
+    "area": "Bristol",
+    "from_price": 250,
+    "room_types": [
+      "Ensuite",
+      "Studio",
+      "Twodio"
+    ],
+    "bills_included": true,
+    "offer": null,
+    "status": "2026/27 grades listed; individual bookability requires operator confirmation",
+    "uob_walk_min": null,
+    "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+    "checked": "2026-10-28",
+    "academic_year": "2026/27",
+    "price_checked": "2026-10-28",
+    "pricing_status": "Operator room-list advertised weekly price or range; 51-week labels, not guaranteed bookable",
+    "room_grades_source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+    "room_grades_source_checked": "2026-10-28",
+    "room_grades": [
+      {
+        "name": "Silver En Suite",
+        "weekly_from": 310,
+        "weekly_to": 310,
+        "contract_weeks": [
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised weekly figure; booking status must be confirmed"
+      },
+      {
+        "name": "Skyline Silver Studio",
+        "weekly_from": 355,
+        "weekly_to": 364,
+        "contract_weeks": [
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+      },
+      {
+        "name": "Garden Twodio",
+        "weekly_from": 310,
+        "weekly_to": 310,
+        "contract_weeks": [
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised weekly figure; booking status must be confirmed"
+      },
+      {
+        "name": "Bronze En Suite",
+        "weekly_from": 283,
+        "weekly_to": 294,
+        "contract_weeks": [
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+      },
+      {
+        "name": "Skyline Silver En Suite",
+        "weekly_from": 317,
+        "weekly_to": 317,
+        "contract_weeks": [
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised weekly figure; booking status must be confirmed"
+      },
+      {
+        "name": "Bronze Studio",
+        "weekly_from": 340,
+        "weekly_to": 340,
+        "contract_weeks": [
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised weekly figure; booking status must be confirmed"
+      },
+      {
+        "name": "Gold Studio",
+        "weekly_from": 395,
+        "weekly_to": 395,
+        "contract_weeks": [
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised weekly figure; booking status must be confirmed"
+      },
+      {
+        "name": "Platinum Studio",
+        "weekly_from": 410,
+        "weekly_to": 410,
+        "contract_weeks": [
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised weekly figure; booking status must be confirmed"
+      },
+      {
+        "name": "Silver Studio",
+        "weekly_from": 347,
+        "weekly_to": 354,
+        "contract_weeks": [
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+      },
+      {
+        "name": "Garden En Suite",
+        "weekly_from": 250,
+        "weekly_to": 250,
+        "contract_weeks": [
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised weekly figure; booking status must be confirmed"
+      },
+      {
+        "name": "Skyline Bronze Studio",
+        "weekly_from": 350,
+        "weekly_to": 350,
+        "contract_weeks": [
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised weekly figure; booking status must be confirmed"
+      },
+      {
+        "name": "Skyline Platinum Studio",
+        "weekly_from": 422,
+        "weekly_to": 422,
+        "contract_weeks": [
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised weekly figure; booking status must be confirmed"
+      },
+      {
+        "name": "Twodio",
+        "weekly_from": 320,
+        "weekly_to": 320,
+        "contract_weeks": [
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised weekly figure; booking status must be confirmed"
+      },
+      {
+        "name": "Skyline Bronze En Suite",
+        "weekly_from": 305,
+        "weekly_to": 310,
+        "contract_weeks": [
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+      },
+      {
+        "name": "Skyline Twodio",
+        "weekly_from": 330,
+        "weekly_to": 330,
+        "contract_weeks": [
+          51
+        ],
+        "academic_year": "2026/27",
+        "availability": "Room-category listing only; live bookability not verified",
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "checked": "2026-10-28",
+        "price_note": "Advertised weekly figure; booking status must be confirmed"
+      }
+    ],
+    "next_academic_year": {
+      "academic_year": "2027/28",
+      "status": "Year selectable on operator page; no verified room-grade prices",
+      "checked": "2026-10-28",
+      "source": "https://www.thisisfresh.com/bristol/glassworks/rooms"
+    }
   }
 ]
