@@ -1,0 +1,34 @@
+<!doctype html><html lang="en-GB"><head><script>/* Browser analytics exclusion: runs before GA4. */(function () {
+  var key = 'sab_exclude_analytics';
+  var measurement = 'G-Q8XVFCXB8H';
+  var params = new URLSearchParams(window.location.search);
+  var action = params.get('exclude_me');
+  var excluded = false;
+  var saved = true;
+  try {
+    if (action === '1') localStorage.setItem(key, '1');
+    if (action === '0') localStorage.removeItem(key);
+    excluded = localStorage.getItem(key) === '1';
+  } catch (_) {
+    saved = false;
+    excluded = action === '1';
+  }
+  window['ga-disable-' + measurement] = excluded;
+  if (action !== '1' && action !== '0') return;
+  document.addEventListener('DOMContentLoaded', function () {
+    var notice = document.createElement('div');
+    notice.setAttribute('role', 'status');
+    notice.style.cssText = 'padding:20px;background:#123b32;color:white;font:600 17px/1.5 system-ui;text-align:center';
+    notice.textContent = !saved
+      ? 'Browser storage is blocked. This setting could not be saved. Enable website storage and open this link again.'
+      : excluded
+        ? 'Your visits are excluded from Google Analytics in this browser. Browse normally from here.'
+        : 'Google Analytics is enabled again in this browser.';
+    document.body.insertBefore(notice, document.body.firstChild);
+    if (saved && window.history && window.history.replaceState) {
+      params.delete('exclude_me');
+      var query = params.toString();
+      window.history.replaceState(null, '', window.location.pathname + (query ? '?' + query : '') + window.location.hash);
+    }
+  });
+})();</script><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Glassworks Bristol | 2026/27 Room Grades & Prices</title><meta name="description" content="Independent Bristol guide to Glassworks by Fresh, with 2026/27 room-grade advertised rates and academic-year verification."><link rel="canonical" href="https://studentaccommodationbristol.com/glassworks-bristol.html"><link rel="stylesheet" href="/styles.css"><script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8XVFCXB8H"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-Q8XVFCXB8H');</script></head><body><header><nav class="nav"><a class="brand" href="/">Student Accommodation Bristol</a><div class="navlinks"><a href="/properties.html">Properties</a><a href="/student-accommodation-bristol-2027-28.html">2027/28</a></div></nav></header><main class="page"><div class="wrap prose"><div class="breadcrumbs"><a href="/">Home</a> / <a href="/properties.html">Properties</a> / Glassworks</div><div class="eyebrow">Fresh · Bristol</div><h1>Glassworks Bristol</h1><p class="lead">Independent comparison of advertised 2026/27 student accommodation room grades.</p><div class="notice">Operator room listings checked 28 October 2026. Advertised prices may vary by contract, floor or availability. These are not all individually confirmed bookable rates.</div><h2>2026/27 room-grade pricing</h2><table><thead><tr><th>Room grade</th><th>Advertised per week</th><th>Listed contract lengths</th></tr></thead><tbody><tr><td>Silver En Suite</td><td>£310</td><td>51 weeks</td></tr><tr><td>Skyline Silver Studio</td><td>£355–£364</td><td>51 weeks</td></tr><tr><td>Garden Twodio</td><td>£310</td><td>51 weeks</td></tr><tr><td>Bronze En Suite</td><td>£283–£294</td><td>51 weeks</td></tr><tr><td>Skyline Silver En Suite</td><td>£317</td><td>51 weeks</td></tr><tr><td>Bronze Studio</td><td>£340</td><td>51 weeks</td></tr><tr><td>Gold Studio</td><td>£395</td><td>51 weeks</td></tr><tr><td>Platinum Studio</td><td>£410</td><td>51 weeks</td></tr><tr><td>Silver Studio</td><td>£347–£354</td><td>51 weeks</td></tr><tr><td>Garden En Suite</td><td>£250</td><td>51 weeks</td></tr><tr><td>Skyline Bronze Studio</td><td>£350</td><td>51 weeks</td></tr><tr><td>Skyline Platinum Studio</td><td>£422</td><td>51 weeks</td></tr><tr><td>Twodio</td><td>£320</td><td>51 weeks</td></tr><tr><td>Skyline Bronze En Suite</td><td>£305–£310</td><td>51 weeks</td></tr><tr><td>Skyline Twodio</td><td>£330</td><td>51 weeks</td></tr></tbody></table><p>Prices are the operator's advertised room-grade weekly figures or ranges. Where several contract lengths appear, the listed price is not necessarily available on every length. Always check the final booking quote.</p><h2>2027/28 booking status</h2><p>The operator displays a 2027/28 academic-year option, but no independently verified 2027/28 room-grade prices have been established in this check. All prices above relate to 2026/27.</p><h2>Offers and terms</h2><p>No property-specific cashback or incentive independently verified at this check.</p><p><a class="cta outbound" href="https://www.thisisfresh.com/bristol/glassworks/rooms?utm_source=studentaccommodationbristol&amp;utm_medium=referral&amp;utm_campaign=property_guide" target="_blank" rel="noopener">Check Glassworks with Fresh</a></p></div></main><footer><div class="wrap">Independent guide. Prices change frequently; verify contract-specific availability directly with the operator.</div></footer><script defer src="/provider-tracking.js"></script></body></html>
