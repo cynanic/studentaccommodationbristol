@@ -980,5 +980,223 @@
       "checked": "2026-10-28",
       "source": "https://www.thisisfresh.com/bristol/glassworks/rooms"
     }
+  },
+  {
+    "name": "The Quarter House",
+    "provider": "Prestige Student Living",
+    "area": "Marlborough Street / Bristol city centre",
+    "from_price": 278,
+    "room_types": [
+      "Ensuite",
+      "Studio"
+    ],
+    "bills_included": true,
+    "offer": "£1,500 cashback on eligible 2026/27 new bookings with code TQH1500CB1; operator terms apply",
+    "status": "Operator expects check-in on or before 28 November 2026 due to regulatory approvals and commissioning; temporary nearby en-suite studio accommodation offered until move-in",
+    "uob_walk_min": null,
+    "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+    "checked": "2026-10-28",
+    "academic_year": "2026/27",
+    "price_checked": "2026-10-28",
+    "pricing_status": "Official room-list from prices; 2026/27; some categories sold out/enquiry only",
+    "room_grades_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+    "room_grades_source_checked": "2026-10-28",
+    "room_grades": [
+      {
+        "name": "Classic Ensuite",
+        "weekly_from": 278,
+        "contract_weeks": [
+          44,
+          37
+        ],
+        "availability": "Advertised; booking status requires confirmation",
+        "academic_year": "2026/27",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "checked": "2026-10-28",
+        "price_note": "From price across contract options, not confirmed price for each term"
+      },
+      {
+        "name": "Ensuite with Balcony",
+        "weekly_from": 294,
+        "contract_weeks": [
+          44,
+          37
+        ],
+        "availability": "Advertised; booking status requires confirmation",
+        "academic_year": "2026/27",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "checked": "2026-10-28",
+        "price_note": "From price across contract options, not confirmed price for each term"
+      },
+      {
+        "name": "Premium Ensuite",
+        "weekly_from": 298,
+        "contract_weeks": [
+          44,
+          37
+        ],
+        "availability": "Advertised; booking status requires confirmation",
+        "academic_year": "2026/27",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "checked": "2026-10-28",
+        "price_note": "From price across contract options, not confirmed price for each term"
+      },
+      {
+        "name": "Premium Plus Ensuite",
+        "weekly_from": 299,
+        "contract_weeks": [
+          44,
+          37
+        ],
+        "availability": "Advertised; booking status requires confirmation",
+        "academic_year": "2026/27",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "checked": "2026-10-28",
+        "price_note": "From price across contract options, not confirmed price for each term"
+      },
+      {
+        "name": "Deluxe Ensuite",
+        "weekly_from": 309,
+        "contract_weeks": [
+          44,
+          37
+        ],
+        "availability": "Advertised; booking status requires confirmation",
+        "academic_year": "2026/27",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "checked": "2026-10-28",
+        "price_note": "From price across contract options, not confirmed price for each term"
+      },
+      {
+        "name": "Bronze Plus Studio",
+        "weekly_from": 350,
+        "contract_weeks": [
+          44,
+          37
+        ],
+        "availability": "Advertised; booking status requires confirmation",
+        "academic_year": "2026/27",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "checked": "2026-10-28",
+        "price_note": "From price across contract options, not confirmed price for each term"
+      },
+      {
+        "name": "Silver Studio",
+        "weekly_from": 360,
+        "contract_weeks": [
+          44,
+          37
+        ],
+        "availability": "Advertised; booking status requires confirmation",
+        "academic_year": "2026/27",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "checked": "2026-10-28",
+        "price_note": "From price across contract options, not confirmed price for each term"
+      },
+      {
+        "name": "Silver Plus Studio",
+        "weekly_from": 370,
+        "contract_weeks": [
+          44,
+          37
+        ],
+        "availability": "Advertised; booking status requires confirmation",
+        "academic_year": "2026/27",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "checked": "2026-10-28",
+        "price_note": "From price across contract options, not confirmed price for each term"
+      },
+      {
+        "name": "Gold Studio",
+        "weekly_from": 380,
+        "contract_weeks": [
+          44,
+          37
+        ],
+        "availability": "Advertised; booking status requires confirmation",
+        "academic_year": "2026/27",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "checked": "2026-10-28",
+        "price_note": "From price across contract options, not confirmed price for each term"
+      },
+      {
+        "name": "Gold Plus Studio",
+        "weekly_from": 390,
+        "contract_weeks": [
+          44,
+          37
+        ],
+        "availability": "Advertised; booking status requires confirmation",
+        "academic_year": "2026/27",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "checked": "2026-10-28",
+        "price_note": "From price across contract options, not confirmed price for each term"
+      },
+      {
+        "name": "Platinum Plus Studio",
+        "weekly_from": 405,
+        "contract_weeks": [
+          44,
+          37
+        ],
+        "availability": "Advertised; booking status requires confirmation",
+        "academic_year": "2026/27",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "checked": "2026-10-28",
+        "price_note": "From price across contract options, not confirmed price for each term"
+      },
+      {
+        "name": "Platinum Studio",
+        "weekly_from": 405,
+        "contract_weeks": [
+          44,
+          37
+        ],
+        "availability": "Advertised; booking status requires confirmation",
+        "academic_year": "2026/27",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "checked": "2026-10-28",
+        "price_note": "From price across contract options, not confirmed price for each term"
+      },
+      {
+        "name": "Bronze Studio",
+        "weekly_from": null,
+        "contract_weeks": [],
+        "availability": "Sold out / enquire only",
+        "academic_year": "2026/27",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "checked": "2026-10-28"
+      },
+      {
+        "name": "Accessible Ensuite",
+        "weekly_from": null,
+        "contract_weeks": [
+          44,
+          37
+        ],
+        "availability": "Available on request / enquire only",
+        "academic_year": "2026/27",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "checked": "2026-10-28"
+      },
+      {
+        "name": "Accessible Studio",
+        "weekly_from": null,
+        "contract_weeks": [
+          44,
+          37
+        ],
+        "availability": "Available on request",
+        "academic_year": "2026/27",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "checked": "2026-10-28"
+      }
+    ],
+    "next_academic_year": {
+      "academic_year": "2027/28",
+      "status": "Academic year selectable, no verified 2027/28 prices",
+      "checked": "2026-10-28",
+      "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house"
+    }
   }
 ]
