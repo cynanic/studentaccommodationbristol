@@ -771,10 +771,10 @@
     "status": "2026/27 grades listed; individual bookability requires operator confirmation",
     "uob_walk_min": null,
     "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
-    "checked": "2026-10-28",
+    "checked": "2026-10-29",
     "academic_year": "2026/27",
-    "price_checked": "2026-10-28",
-    "pricing_status": "Operator room-list advertised weekly price or range; 51-week labels, not guaranteed bookable",
+    "price_checked": "2026-10-29",
+    "pricing_status": "2026/27 room-grade prices and 51-week term rechecked; 3 listing/detail availability conflicts; 12 enquiry-only listings",
     "room_grades_source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
     "room_grades_source_checked": "2026-10-28",
     "room_grades": [
@@ -786,10 +786,13 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Select Your Room; grade-detail page displays Sold Out (conflicting signals; bookability unconfirmed)",
         "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised weekly figure; booking status must be confirmed"
+        "checked": "2026-10-29",
+        "price_note": "Advertised weekly figure; booking status must be confirmed",
+        "availability_source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "availability_checked": "2026-10-29",
+        "availability_note": "Operator room-list CTA conflicts with grade-detail Sold Out status; do not treat as confirmed availability."
       },
       {
         "name": "Skyline Silver Studio",
@@ -799,10 +802,13 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Select Your Room; grade-detail page displays Sold Out (conflicting signals; bookability unconfirmed)",
         "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+        "checked": "2026-10-29",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate",
+        "availability_source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "availability_checked": "2026-10-29",
+        "availability_note": "Operator room-list CTA conflicts with grade-detail Sold Out status; do not treat as confirmed availability."
       },
       {
         "name": "Garden Twodio",
@@ -812,10 +818,13 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Select Your Room; grade-detail page displays Sold Out (conflicting signals; bookability unconfirmed)",
         "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised weekly figure; booking status must be confirmed"
+        "checked": "2026-10-29",
+        "price_note": "Advertised weekly figure; booking status must be confirmed",
+        "availability_source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "availability_checked": "2026-10-29",
+        "availability_note": "Operator room-list CTA conflicts with grade-detail Sold Out status; do not treat as confirmed availability."
       },
       {
         "name": "Bronze En Suite",
@@ -825,10 +834,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Contact Us / enquiry only; not confirmed bookable",
         "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+        "checked": "2026-10-29",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate",
+        "availability_source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "availability_checked": "2026-10-29"
       },
       {
         "name": "Skyline Silver En Suite",
@@ -838,10 +849,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Contact Us / enquiry only; not confirmed bookable",
         "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised weekly figure; booking status must be confirmed"
+        "checked": "2026-10-29",
+        "price_note": "Advertised weekly figure; booking status must be confirmed",
+        "availability_source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "availability_checked": "2026-10-29"
       },
       {
         "name": "Bronze Studio",
@@ -851,10 +864,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Contact Us / enquiry only; not confirmed bookable",
         "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised weekly figure; booking status must be confirmed"
+        "checked": "2026-10-29",
+        "price_note": "Advertised weekly figure; booking status must be confirmed",
+        "availability_source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "availability_checked": "2026-10-29"
       },
       {
         "name": "Gold Studio",
@@ -864,10 +879,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Contact Us / enquiry only; not confirmed bookable",
         "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised weekly figure; booking status must be confirmed"
+        "checked": "2026-10-29",
+        "price_note": "Advertised weekly figure; booking status must be confirmed",
+        "availability_source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "availability_checked": "2026-10-29"
       },
       {
         "name": "Platinum Studio",
@@ -877,10 +894,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Contact Us / enquiry only; not confirmed bookable",
         "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised weekly figure; booking status must be confirmed"
+        "checked": "2026-10-29",
+        "price_note": "Advertised weekly figure; booking status must be confirmed",
+        "availability_source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "availability_checked": "2026-10-29"
       },
       {
         "name": "Silver Studio",
@@ -890,10 +909,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Contact Us / enquiry only; not confirmed bookable",
         "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+        "checked": "2026-10-29",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate",
+        "availability_source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "availability_checked": "2026-10-29"
       },
       {
         "name": "Garden En Suite",
@@ -903,10 +924,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Contact Us / enquiry only; not confirmed bookable",
         "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised weekly figure; booking status must be confirmed"
+        "checked": "2026-10-29",
+        "price_note": "Advertised weekly figure; booking status must be confirmed",
+        "availability_source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "availability_checked": "2026-10-29"
       },
       {
         "name": "Skyline Bronze Studio",
@@ -916,10 +939,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Contact Us / enquiry only; not confirmed bookable",
         "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised weekly figure; booking status must be confirmed"
+        "checked": "2026-10-29",
+        "price_note": "Advertised weekly figure; booking status must be confirmed",
+        "availability_source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "availability_checked": "2026-10-29"
       },
       {
         "name": "Skyline Platinum Studio",
@@ -929,10 +954,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Contact Us / enquiry only; not confirmed bookable",
         "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised weekly figure; booking status must be confirmed"
+        "checked": "2026-10-29",
+        "price_note": "Advertised weekly figure; booking status must be confirmed",
+        "availability_source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "availability_checked": "2026-10-29"
       },
       {
         "name": "Twodio",
@@ -942,10 +969,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Contact Us / enquiry only; not confirmed bookable",
         "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised weekly figure; booking status must be confirmed"
+        "checked": "2026-10-29",
+        "price_note": "Advertised weekly figure; booking status must be confirmed",
+        "availability_source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "availability_checked": "2026-10-29"
       },
       {
         "name": "Skyline Bronze En Suite",
@@ -955,10 +984,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Contact Us / enquiry only; not confirmed bookable",
         "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+        "checked": "2026-10-29",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate",
+        "availability_source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "availability_checked": "2026-10-29"
       },
       {
         "name": "Skyline Twodio",
@@ -968,10 +999,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Contact Us / enquiry only; not confirmed bookable",
         "source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised weekly figure; booking status must be confirmed"
+        "checked": "2026-10-29",
+        "price_note": "Advertised weekly figure; booking status must be confirmed",
+        "availability_source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+        "availability_checked": "2026-10-29"
       }
     ],
     "next_academic_year": {
@@ -979,7 +1012,8 @@
       "status": "Year selectable on operator page; no verified room-grade prices",
       "checked": "2026-10-28",
       "source": "https://www.thisisfresh.com/bristol/glassworks/rooms"
-    }
+    },
+    "next_academic_year_status": "2027/28 selector visible; no verified 2027/28 price or bookability"
   },
   {
     "name": "The Quarter House",
