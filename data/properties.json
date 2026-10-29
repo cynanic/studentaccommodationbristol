@@ -602,10 +602,10 @@
     "status": "2026/27 room-grade pricing advertised; individual booking availability varies",
     "uob_walk_min": null,
     "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
-    "checked": "2026-10-28",
+    "checked": "2026-10-29",
     "academic_year": "2026/27",
-    "price_checked": "2026-10-28",
-    "pricing_status": "Operator room-list advertised price ranges; not all rates confirmed per contract",
+    "price_checked": "2026-10-29",
+    "pricing_status": "2026/27 operator room list checked; 8 grades show Select Your Room and 2 Contact Us; CTA not proof of bookable unit",
     "room_grades_source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
     "room_grades_source_checked": "2026-10-28",
     "room_grades": [
@@ -618,10 +618,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Select Your Room CTA; actual unit bookability not confirmed",
         "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+        "checked": "2026-10-29",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate",
+        "availability_source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+        "availability_checked": "2026-10-29"
       },
       {
         "name": "Bronze En Suite",
@@ -632,10 +634,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Select Your Room CTA; actual unit bookability not confirmed",
         "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+        "checked": "2026-10-29",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate",
+        "availability_source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+        "availability_checked": "2026-10-29"
       },
       {
         "name": "Classic En Suite",
@@ -646,10 +650,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Select Your Room CTA; actual unit bookability not confirmed",
         "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+        "checked": "2026-10-29",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate",
+        "availability_source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+        "availability_checked": "2026-10-29"
       },
       {
         "name": "Silver Studio",
@@ -661,10 +667,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Select Your Room CTA; actual unit bookability not confirmed",
         "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+        "checked": "2026-10-29",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate",
+        "availability_source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+        "availability_checked": "2026-10-29"
       },
       {
         "name": "Gold En Suite",
@@ -675,10 +683,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Select Your Room CTA; actual unit bookability not confirmed",
         "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+        "checked": "2026-10-29",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate",
+        "availability_source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+        "availability_checked": "2026-10-29"
       },
       {
         "name": "Gold Studio",
@@ -689,10 +699,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Select Your Room CTA; actual unit bookability not confirmed",
         "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+        "checked": "2026-10-29",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate",
+        "availability_source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+        "availability_checked": "2026-10-29"
       },
       {
         "name": "Accessible Platinum En Suite",
@@ -703,10 +715,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Select Your Room CTA; actual unit bookability not confirmed",
         "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+        "checked": "2026-10-29",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate",
+        "availability_source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+        "availability_checked": "2026-10-29"
       },
       {
         "name": "Platinum En Suite",
@@ -716,10 +730,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Select Your Room CTA; actual unit bookability not confirmed",
         "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised weekly figure; booking status must be confirmed"
+        "checked": "2026-10-29",
+        "price_note": "Advertised weekly figure; booking status must be confirmed",
+        "availability_source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+        "availability_checked": "2026-10-29"
       },
       {
         "name": "Bronze Studio",
@@ -730,10 +746,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Contact Us / enquiry only; not confirmed bookable",
         "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised room-grade price range; not a contract-specific rate"
+        "checked": "2026-10-29",
+        "price_note": "Advertised room-grade price range; not a contract-specific rate",
+        "availability_source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+        "availability_checked": "2026-10-29"
       },
       {
         "name": "Platinum Studio",
@@ -743,10 +761,12 @@
           51
         ],
         "academic_year": "2026/27",
-        "availability": "Room-category listing only; live bookability not verified",
+        "availability": "Room listing: Contact Us / enquiry only; not confirmed bookable",
         "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
-        "checked": "2026-10-28",
-        "price_note": "Advertised weekly figure; booking status must be confirmed"
+        "checked": "2026-10-29",
+        "price_note": "Advertised weekly figure; booking status must be confirmed",
+        "availability_source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+        "availability_checked": "2026-10-29"
       }
     ],
     "next_academic_year": {
@@ -754,7 +774,8 @@
       "status": "Year selectable on operator page; no verified room-grade prices",
       "checked": "2026-10-28",
       "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms"
-    }
+    },
+    "next_academic_year_status": "2027/28 selector visible; no verified 2027/28 price or bookability"
   },
   {
     "name": "Glassworks",
