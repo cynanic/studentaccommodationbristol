@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "checks": [
+    {
+      "name": "Croft Court",
+      "provider": "Fresh",
+      "source_url": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/prs?utm_source=studentaccommodationbristol&utm_medium=referral&utm_campaign=property_guide",
+      "source_health": "blocked_or_missing",
+      "http_status": 403,
+      "listing_last_verified": "2026-10-29",
+      "listing_age_days": 0,
+      "review_required": true,
+      "note": "HTTP health does not verify prices, offers, booking status or academic year."
+    },
+    {
+      "name": "Zinc Quarter",
+      "provider": "Student Roost",
+      "source_url": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
+      "source_health": "reachable",
+      "http_status": 200,
+      "listing_last_verified": "2026-10-29",
+      "listing_age_days": 0,
+      "review_required": false,
+      "note": "HTTP health does not verify prices, offers, booking status or academic year."
+    },
+    {
+      "name": "Avon Point",
+      "provider": "Unite Students",
+      "source_url": "https://www.unitestudents.com/student-accommodation/bristol/avon-point",
+      "source_health": "reachable",
+      "http_status": 200,
+      "listing_last_verified": "2026-10-28",
+      "listing_age_days": 1,
+      "review_required": false,
+      "note": "HTTP health does not verify prices, offers, booking status or academic year."
+    },
+    {
+      "name": "Water Lane House",
+      "provider": "iQ Student Accommodation",
+      "source_url": "https://www.iqstudentaccommodation.com/bristol/water-lane-house",
+      "source_health": "blocked_or_missing",
+      "http_status": 403,
+      "listing_last_verified": "2026-10-13",
+      "listing_age_days": 16,
+      "review_required": true,
+      "note": "HTTP health does not verify prices, offers, booking status or academic year."
+    },
+    {
+      "name": "Cathedral Park",
+      "provider": "Unite Students",
+      "source_url": "https://www.unitestudents.com/student-accommodation/bristol/cathedral-park",
+      "source_health": "reachable",
+      "http_status": 200,
+      "listing_last_verified": "2026-10-29",
+      "listing_age_days": 0,
+      "review_required": false,
+      "note": "HTTP health does not verify prices, offers, booking status or academic year."
+    },
+    {
+      "name": "Phoenix Court",
+      "provider": "Unite Students",
+      "source_url": "https://www.unitestudents.com/student-accommodation/bristol/phoenix-court",
+      "source_health": "reachable",
+      "http_status": 200,
+      "listing_last_verified": "2026-10-29",
+      "listing_age_days": 0,
+      "review_required": false,
+      "note": "HTTP health does not verify prices, offers, booking status or academic year."
+    },
+    {
+      "name": "Campbell House",
+      "provider": "Unite Students",
+      "source_url": "https://www.unitestudents.com/student-accommodation/bristol/campbell-house",
+      "source_health": "reachable",
+      "http_status": 200,
+      "listing_last_verified": "2026-10-29",
+      "listing_age_days": 0,
+      "review_required": false,
+      "note": "HTTP health does not verify prices, offers, booking status or academic year."
+    },
+    {
+      "name": "Brunel House",
+      "provider": "Unite Students",
+      "source_url": "https://www.unitestudents.com/student-accommodation/bristol/brunel-house",
+      "source_health": "reachable",
+      "http_status": 200,
+      "listing_last_verified": "2026-10-29",
+      "listing_age_days": 0,
+      "review_required": false,
+      "note": "HTTP health does not verify prices, offers, booking status or academic year."
+    },
+    {
+      "name": "Waterside",
+      "provider": "Host Students",
+      "source_url": "https://host-students.com/property/waterside/",
+      "source_health": "reachable",
+      "http_status": 200,
+      "listing_last_verified": "2026-10-29",
+      "listing_age_days": 0,
+      "review_required": false,
+      "note": "HTTP health does not verify prices, offers, booking status or academic year."
+    },
+    {
+      "name": "The Propeller Quarter",
+      "provider": "Prestige Student Living",
+      "source_url": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
+      "source_health": "reachable",
+      "http_status": 200,
+      "listing_last_verified": "2026-10-29",
+      "listing_age_days": 0,
+      "review_required": false,
+      "note": "HTTP health does not verify prices, offers, booking status or academic year."
+    },
+    {
+      "name": "New Bridewell",
+      "provider": "Fresh",
+      "source_url": "https://www.thisisfresh.com/bristol/new-bridewell/rooms",
+      "source_health": "blocked_or_missing",
+      "http_status": 403,
+      "listing_last_verified": "2026-10-29",
+      "listing_age_days": 0,
+      "review_required": true,
+      "note": "HTTP health does not verify prices, offers, booking status or academic year."
+    },
+    {
+      "name": "Glassworks",
+      "provider": "Fresh",
+      "source_url": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+      "source_health": "blocked_or_missing",
+      "http_status": 403,
+      "listing_last_verified": "2026-10-29",
+      "listing_age_days": 0,
+      "review_required": true,
+      "note": "HTTP health does not verify prices, offers, booking status or academic year."
+    },
+    {
+      "name": "The Quarter House",
+      "provider": "Prestige Student Living",
+      "source_url": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+      "source_health": "reachable",
+      "http_status": 200,
+      "listing_last_verified": "2026-10-29",
+      "listing_age_days": 0,
+      "review_required": false,
+      "note": "HTTP health does not verify prices, offers, booking status or academic year."
+    }
+  ]
+}
