@@ -1537,5 +1537,102 @@
       "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house"
     },
     "last_operator_check": "2026-10-30"
+  },
+  {
+    "name": "Favell House",
+    "provider": "Unite Students",
+    "area": "Bristol city centre / waterfront",
+    "from_price": null,
+    "room_types": [
+      "Non-ensuite"
+    ],
+    "bills_included": true,
+    "offer": null,
+    "status": "Rooms allocated by University of Bristol; not a direct operator booking listing",
+    "uob_walk_min": null,
+    "source": "https://www.unitestudents.com/student-accommodation/bristol/favell-house",
+    "checked": "2026-10-30",
+    "academic_year": "not verified",
+    "price_checked": null,
+    "pricing_status": "No public direct-booking weekly rate on operator property page; university nomination tariff must be checked separately",
+    "room_grades": [],
+    "next_academic_year_status": "2027/28 nomination tariff not verified"
+  },
+  {
+    "name": "The Rackhay",
+    "provider": "Unite Students",
+    "area": "Queen Charlotte Street / waterfront",
+    "from_price": null,
+    "room_types": [
+      "Non-ensuite"
+    ],
+    "bills_included": true,
+    "offer": null,
+    "status": "Rooms allocated by University of Bristol; not a direct operator booking listing",
+    "uob_walk_min": null,
+    "source": "https://www.unitestudents.com/student-accommodation/bristol/the-rackhay",
+    "checked": "2026-10-30",
+    "academic_year": "not verified",
+    "price_checked": null,
+    "pricing_status": "No public direct-booking weekly rate on operator property page; university nomination tariff must be checked separately",
+    "room_grades": [],
+    "next_academic_year_status": "2027/28 nomination tariff not verified"
+  },
+  {
+    "name": "Marketgate",
+    "provider": "Unite Students",
+    "area": "Old Market / Bond Street",
+    "from_price": null,
+    "room_types": [
+      "Ensuite",
+      "Studio"
+    ],
+    "bills_included": true,
+    "offer": null,
+    "status": "Rooms allocated by UWE Bristol; booking through university accommodation team",
+    "uob_walk_min": null,
+    "source": "https://www.unitestudents.com/student-accommodation/bristol/marketgate",
+    "checked": "2026-10-30",
+    "academic_year": "not verified",
+    "price_checked": null,
+    "pricing_status": "No public direct-booking weekly rate on operator property page; university allocation price must be checked separately",
+    "room_grades": [],
+    "next_academic_year_status": "2027/28 university allocation rates not verified"
+  },
+  {
+    "name": "iQ Bristol",
+    "provider": "iQ Student Accommodation",
+    "area": "Marlborough Street / city centre",
+    "from_price": null,
+    "room_types": [
+      "Ensuite",
+      "Studio"
+    ],
+    "bills_included": true,
+    "offer": null,
+    "status": "Operator advertises studios and en-suite rooms; live 2026/27 grade prices could not be independently retrieved from accessible HTML",
+    "uob_walk_min": 14,
+    "source": "https://www.iqstudentaccommodation.com/bristol/iq-bristol",
+    "checked": "2026-10-30",
+    "academic_year": "2026/27",
+    "price_checked": null,
+    "pricing_status": "No current operator rate independently verified; do not use stale indexed booking quotes",
+    "room_grades": [
+      {
+        "name": "Gold Studio",
+        "weekly_from": null,
+        "source": "https://www.iqstudentaccommodation.com/bristol/iq-bristol/gold-studio",
+        "checked": "2026-10-30",
+        "availability": "Unverified; booking rate not exposed in accessible page"
+      },
+      {
+        "name": "Silver En Suite Plus",
+        "weekly_from": null,
+        "source": "https://www.iqstudentaccommodation.com/bristol/iq-bristol/silver-en-suite-plus",
+        "checked": "2026-10-30",
+        "availability": "Unverified; booking rate not exposed in accessible page"
+      }
+    ],
+    "next_academic_year_status": "2027/28 prices not verified"
   }
 ]
