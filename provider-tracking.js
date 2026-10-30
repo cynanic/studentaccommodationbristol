@@ -15,7 +15,9 @@
       host.indexOf('studentroost.co.uk') !== -1 ? 'Student Roost' :
       host.indexOf('iqstudentaccommodation.com') !== -1 ? 'iQ' :
       host.indexOf('unitestudents.com') !== -1 ? 'Unite Students' :
-      host.indexOf('yugo.com') !== -1 ? 'Yugo' : host;
+      host.indexOf('yugo.com') !== -1 ? 'Yugo' :
+      host.indexOf('host-students.com') !== -1 ? 'Host Students' :
+      host.indexOf('prestigestudentliving.com') !== -1 ? 'Prestige Student Living' : host;
     window.gtag('event', 'provider_click', {
       provider_name: provider,
       destination_url: destination.href,
