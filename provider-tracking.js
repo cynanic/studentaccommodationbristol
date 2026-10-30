@@ -6,7 +6,7 @@
     var destination;
     try { destination = new URL(link.href, window.location.href); } catch (_) { return; }
     if (!/^https?:$/.test(destination.protocol) || destination.origin === window.location.origin) return;
-    var knownProvider = /(^|\.)(thisisfresh\.com|studentroost\.co\.uk|iqstudentaccommodation\.com|unitestudents\.com|yugo\.com)$/.test(destination.hostname);
+    var knownProvider = /(^|\.)(thisisfresh\.com|studentroost\.co\.uk|iqstudentaccommodation\.com|unitestudents\.com|yugo\.com|host-students\.com|prestigestudentliving\.com)$/.test(destination.hostname);
     var isProvider = knownProvider || link.classList.contains('outbound') ||
       destination.searchParams.get('utm_source') === 'studentaccommodationbristol';
     if (!isProvider || typeof window.gtag !== 'function') return;
