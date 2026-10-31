@@ -220,8 +220,8 @@
     "room_grades_source_checked": "2026-10-27",
     "operator_page_summary_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
     "next_academic_year_status": "2027/28 selector visible; no verified 2027/28 prices",
-    "last_operator_check": "2026-10-30",
-    "last_operator_check_source": "https://www.thisisfresh.com/bristol/croft-court/rooms"
+    "last_operator_check": "2026-10-31",
+    "last_operator_check_source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/prs"
   },
   {
     "name": "Zinc Quarter",
@@ -276,7 +276,8 @@
     ],
     "room_grades_source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
     "room_grades_source_checked": "2026-10-26",
-    "last_operator_check": "2026-10-30"
+    "last_operator_check": "2026-10-31",
+    "last_operator_check_source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter"
   },
   {
     "name": "Avon Point",
@@ -296,10 +297,11 @@
     "academic_year": "2026/27",
     "price_checked": "2026-10-30",
     "pricing_status": "Operator 2026/27 headline from-price verified 28 Oct 2026; individual room/contract matrix not exposed in page text",
-    "last_operator_check": "2026-10-30",
+    "last_operator_check": "2026-10-31",
     "rebooking_status": "Operator displays existing-resident early rebooking link; target academic year, dates, room-grade prices and eligibility not independently confirmed",
     "rebooking_checked": "2026-10-30",
-    "rebooking_source": "https://www.unitestudents.com/student-accommodation/bristol/avon-point"
+    "rebooking_source": "https://www.unitestudents.com/student-accommodation/bristol/avon-point",
+    "last_operator_check_source": "https://www.unitestudents.com/student-accommodation/bristol/avon-point"
   },
   {
     "name": "Water Lane House",
@@ -319,7 +321,7 @@
     "room_types_checked": "2026-10-30",
     "price_checked": "2026-10-13",
     "pricing_status": "Previously recorded headline; not reverified on operator page 2026-10-25",
-    "last_operator_check": "2026-10-30",
+    "last_operator_check": "2026-10-31",
     "last_operator_check_source": "https://www.iqstudentaccommodation.com/bristol/water-lane-house"
   },
   {
@@ -341,10 +343,11 @@
     "academic_year": "2026/27",
     "price_checked": "2026-10-30",
     "pricing_status": "2026/27 operator headline rate reconfirmed 29 October; individual contract-grade matrix inaccessible",
-    "last_operator_check": "2026-10-30",
+    "last_operator_check": "2026-10-31",
     "rebooking_status": "Operator displays existing-resident early rebooking link; target academic year, dates, room-grade prices and eligibility not independently confirmed",
     "rebooking_checked": "2026-10-30",
-    "rebooking_source": "https://www.unitestudents.com/student-accommodation/bristol/cathedral-park"
+    "rebooking_source": "https://www.unitestudents.com/student-accommodation/bristol/cathedral-park",
+    "last_operator_check_source": "https://www.unitestudents.com/student-accommodation/bristol/cathedral-park"
   },
   {
     "name": "Phoenix Court",
@@ -364,10 +367,11 @@
     "academic_year": "2026/27",
     "price_checked": "2026-10-30",
     "pricing_status": "2026/27 operator headline rate reconfirmed 29 October; individual contract-grade matrix inaccessible",
-    "last_operator_check": "2026-10-30",
+    "last_operator_check": "2026-10-31",
     "rebooking_status": "Operator displays existing-resident early rebooking link; target academic year, dates, room-grade prices and eligibility not independently confirmed",
     "rebooking_checked": "2026-10-30",
-    "rebooking_source": "https://www.unitestudents.com/student-accommodation/bristol/phoenix-court"
+    "rebooking_source": "https://www.unitestudents.com/student-accommodation/bristol/phoenix-court",
+    "last_operator_check_source": "https://www.unitestudents.com/student-accommodation/bristol/phoenix-court"
   },
   {
     "name": "Campbell House",
@@ -387,10 +391,11 @@
     "academic_year": "2026/27",
     "price_checked": "2026-10-30",
     "pricing_status": "2026/27 operator headline rate reconfirmed 29 October; individual contract-grade matrix inaccessible",
-    "last_operator_check": "2026-10-30",
+    "last_operator_check": "2026-10-31",
     "rebooking_status": "Operator displays existing-resident early rebooking link; target academic year, dates, room-grade prices and eligibility not independently confirmed",
     "rebooking_checked": "2026-10-30",
-    "rebooking_source": "https://www.unitestudents.com/student-accommodation/bristol/campbell-house"
+    "rebooking_source": "https://www.unitestudents.com/student-accommodation/bristol/campbell-house",
+    "last_operator_check_source": "https://www.unitestudents.com/student-accommodation/bristol/campbell-house"
   },
   {
     "name": "Brunel House",
@@ -410,10 +415,11 @@
     "academic_year": "2026/27",
     "price_checked": "2026-10-30",
     "pricing_status": "2026/27 operator headline rate reconfirmed 29 October; individual contract-grade matrix inaccessible",
-    "last_operator_check": "2026-10-30",
+    "last_operator_check": "2026-10-31",
     "rebooking_status": "Operator displays existing-resident early rebooking link; target academic year, dates, room-grade prices and eligibility not independently confirmed",
     "rebooking_checked": "2026-10-30",
-    "rebooking_source": "https://www.unitestudents.com/student-accommodation/bristol/brunel-house"
+    "rebooking_source": "https://www.unitestudents.com/student-accommodation/bristol/brunel-house",
+    "last_operator_check_source": "https://www.unitestudents.com/student-accommodation/bristol/brunel-house"
   },
   {
     "name": "Waterside",
@@ -470,7 +476,15 @@
         },
         "availability_checked": "2026-10-30",
         "availability_source": "https://host-students.com/property/waterside/",
-        "rate_note": "2026/27 rolling move-in quotes checked 30 Oct 2026; term lengths can shorten as the booking start date advances. Prior dated rates retained separately where present."
+        "rate_note": "2026/27 rolling move-in quotes checked 30 Oct 2026; term lengths can shorten as the booking start date advances. Prior dated rates retained separately where present.",
+        "additional_booking_snapshot_2026_10_31": {
+          "weeks": 44,
+          "weekly": 265,
+          "check_in": "2026-10-31",
+          "check_out": "2027-09-04",
+          "source": "https://host-students.com/property/waterside/",
+          "note": "Displayed selected booking quote for 31 Oct 2026 check-in. Separate from 30 Oct snapshot with 7 Nov check-in; contract terms are move-in-date dependent. Provider page may be cached."
+        }
       },
       {
         "name": "Classic 8 Bed Upper Floor Ensuite",
@@ -487,7 +501,15 @@
         },
         "availability_checked": "2026-10-30",
         "availability_source": "https://host-students.com/property/waterside/",
-        "rate_note": "2026/27 rolling move-in quotes checked 30 Oct 2026; term lengths can shorten as the booking start date advances. Prior dated rates retained separately where present."
+        "rate_note": "2026/27 rolling move-in quotes checked 30 Oct 2026; term lengths can shorten as the booking start date advances. Prior dated rates retained separately where present.",
+        "additional_booking_snapshot_2026_10_31": {
+          "weeks": 44,
+          "weekly": 265,
+          "check_in": "2026-10-31",
+          "check_out": "2027-09-04",
+          "source": "https://host-students.com/property/waterside/",
+          "note": "Displayed selected booking quote for 31 Oct 2026 check-in. Separate from 30 Oct snapshot with 7 Nov check-in; contract terms are move-in-date dependent. Provider page may be cached."
+        }
       },
       {
         "name": "Classic 8 Bed Ensuite",
@@ -525,7 +547,15 @@
         ],
         "availability_checked": "2026-10-30",
         "availability_source": "https://host-students.com/property/waterside/",
-        "rate_note": "2026/27 rolling move-in quotes checked 30 Oct 2026; term lengths can shorten as the booking start date advances. Prior dated rates retained separately where present."
+        "rate_note": "2026/27 rolling move-in quotes checked 30 Oct 2026; term lengths can shorten as the booking start date advances. Prior dated rates retained separately where present.",
+        "additional_booking_snapshot_2026_10_31": {
+          "weeks": 9,
+          "weekly": 270,
+          "check_in": "2026-10-31",
+          "check_out": "2027-01-02",
+          "source": "https://host-students.com/property/waterside/",
+          "note": "Displayed selected booking quote for 31 Oct 2026 check-in. Separate from 30 Oct snapshot with 7 Nov check-in; contract terms are move-in-date dependent. Provider page may be cached."
+        }
       },
       {
         "name": "Standard (Floor 1-2) Studio",
@@ -543,7 +573,15 @@
         },
         "availability_checked": "2026-10-30",
         "availability_source": "https://host-students.com/property/waterside/",
-        "rate_note": "2026/27 rolling move-in quotes checked 30 Oct 2026; term lengths can shorten as the booking start date advances. Prior dated rates retained separately where present."
+        "rate_note": "2026/27 rolling move-in quotes checked 30 Oct 2026; term lengths can shorten as the booking start date advances. Prior dated rates retained separately where present.",
+        "additional_booking_snapshot_2026_10_31": {
+          "weeks": 44,
+          "weekly": 300,
+          "check_in": "2026-10-31",
+          "check_out": "2027-09-04",
+          "source": "https://host-students.com/property/waterside/",
+          "note": "Displayed selected booking quote for 31 Oct 2026 check-in. Separate from 30 Oct snapshot with 7 Nov check-in; contract terms are move-in-date dependent. Provider page may be cached."
+        }
       },
       {
         "name": "Standard (Floor 7-8) Studio",
@@ -581,7 +619,15 @@
         },
         "availability_checked": "2026-10-30",
         "availability_source": "https://host-students.com/property/waterside/",
-        "rate_note": "2026/27 rolling move-in quotes checked 30 Oct 2026; term lengths can shorten as the booking start date advances. Prior dated rates retained separately where present."
+        "rate_note": "2026/27 rolling move-in quotes checked 30 Oct 2026; term lengths can shorten as the booking start date advances. Prior dated rates retained separately where present.",
+        "additional_booking_snapshot_2026_10_31": {
+          "weeks": 44,
+          "weekly": 315,
+          "check_in": "2026-10-31",
+          "check_out": "2027-09-04",
+          "source": "https://host-students.com/property/waterside/",
+          "note": "Displayed selected booking quote for 31 Oct 2026 check-in. Separate from 30 Oct snapshot with 7 Nov check-in; contract terms are move-in-date dependent. Provider page may be cached."
+        }
       },
       {
         "name": "Standard (Floor 9-10) Studio",
@@ -635,7 +681,15 @@
         },
         "availability_checked": "2026-10-30",
         "availability_source": "https://host-students.com/property/waterside/",
-        "rate_note": "2026/27 rolling move-in quotes checked 30 Oct 2026; term lengths can shorten as the booking start date advances. Prior dated rates retained separately where present."
+        "rate_note": "2026/27 rolling move-in quotes checked 30 Oct 2026; term lengths can shorten as the booking start date advances. Prior dated rates retained separately where present.",
+        "additional_booking_snapshot_2026_10_31": {
+          "weeks": 9,
+          "weekly": 330,
+          "check_in": "2026-10-31",
+          "check_out": "2027-01-02",
+          "source": "https://host-students.com/property/waterside/",
+          "note": "Displayed selected booking quote for 31 Oct 2026 check-in. Separate from 30 Oct snapshot with 7 Nov check-in; contract terms are move-in-date dependent. Provider page may be cached."
+        }
       },
       {
         "name": "Standard (Floor 11) Studio",
@@ -653,7 +707,15 @@
         },
         "availability_checked": "2026-10-30",
         "availability_source": "https://host-students.com/property/waterside/",
-        "rate_note": "2026/27 rolling move-in quotes checked 30 Oct 2026; term lengths can shorten as the booking start date advances. Prior dated rates retained separately where present."
+        "rate_note": "2026/27 rolling move-in quotes checked 30 Oct 2026; term lengths can shorten as the booking start date advances. Prior dated rates retained separately where present.",
+        "additional_booking_snapshot_2026_10_31": {
+          "weeks": 44,
+          "weekly": 325,
+          "check_in": "2026-10-31",
+          "check_out": "2027-09-04",
+          "source": "https://host-students.com/property/waterside/",
+          "note": "Displayed selected booking quote for 31 Oct 2026 check-in. Separate from 30 Oct snapshot with 7 Nov check-in; contract terms are move-in-date dependent. Provider page may be cached."
+        }
       },
       {
         "name": "Accessible Premium Studio",
@@ -670,7 +732,15 @@
         },
         "availability_checked": "2026-10-30",
         "availability_source": "https://host-students.com/property/waterside/",
-        "rate_note": "2026/27 rolling move-in quotes checked 30 Oct 2026; term lengths can shorten as the booking start date advances. Prior dated rates retained separately where present. The displayed from-price is £345, while the selected 43-week booking quote is £390/week; do not conflate."
+        "rate_note": "2026/27 rolling move-in quotes checked 30 Oct 2026; term lengths can shorten as the booking start date advances. Prior dated rates retained separately where present. The displayed from-price is £345, while the selected 43-week booking quote is £390/week; do not conflate.",
+        "additional_booking_snapshot_2026_10_31": {
+          "weeks": 44,
+          "weekly": 390,
+          "check_in": "2026-10-31",
+          "check_out": "2027-09-04",
+          "source": "https://host-students.com/property/waterside/",
+          "note": "Displayed selected booking quote for 31 Oct 2026 check-in. Separate from 30 Oct snapshot with 7 Nov check-in; contract terms are move-in-date dependent. Provider page may be cached."
+        }
       },
       {
         "name": "Premium Studio",
@@ -707,12 +777,21 @@
         },
         "availability_checked": "2026-10-30",
         "availability_source": "https://host-students.com/property/waterside/",
-        "rate_note": "2026/27 rolling move-in quotes checked 30 Oct 2026; term lengths can shorten as the booking start date advances. Prior dated rates retained separately where present."
+        "rate_note": "2026/27 rolling move-in quotes checked 30 Oct 2026; term lengths can shorten as the booking start date advances. Prior dated rates retained separately where present.",
+        "additional_booking_snapshot_2026_10_31": {
+          "weeks": 44,
+          "weekly": 345,
+          "check_in": "2026-10-31",
+          "check_out": "2027-09-04",
+          "source": "https://host-students.com/property/waterside/",
+          "note": "Displayed selected booking quote for 31 Oct 2026 check-in. Separate from 30 Oct snapshot with 7 Nov check-in; contract terms are move-in-date dependent. Provider page may be cached."
+        }
       }
     ],
     "room_grades_source_checked": "2026-10-30",
     "unconfirmed_room_grades_note": "Operator FAQ on same page lists additional sold-out and floor-specific grades and different studio prices. Do not treat FAQ prices or sold-out labels as current without reconciling with the booking cards.",
-    "last_operator_check": "2026-10-30"
+    "last_operator_check": "2026-10-31",
+    "last_operator_check_source": "https://host-students.com/property/waterside/"
   },
   {
     "name": "The Propeller Quarter",
@@ -810,7 +889,8 @@
         "availability_note": "Operator 2026/27 room list displays Sold Out; historical contract options not confirmed as currently bookable."
       }
     ],
-    "last_operator_check": "2026-10-30"
+    "last_operator_check": "2026-10-31",
+    "last_operator_check_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter"
   },
   {
     "name": "New Bridewell",
@@ -1010,7 +1090,7 @@
       "source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms"
     },
     "next_academic_year_status": "2027/28 selector visible; no verified 2027/28 price or bookability",
-    "last_operator_check": "2026-10-30",
+    "last_operator_check": "2026-10-31",
     "last_operator_check_source": "https://www.thisisfresh.com/bristol/new-bridewell/rooms"
   },
   {
@@ -1286,7 +1366,7 @@
       "source": "https://www.thisisfresh.com/bristol/glassworks/rooms"
     },
     "next_academic_year_status": "2027/28 selector visible; no verified 2027/28 price or bookability",
-    "last_operator_check": "2026-10-30",
+    "last_operator_check": "2026-10-31",
     "last_operator_check_source": "https://www.thisisfresh.com/bristol/glassworks/rooms"
   },
   {
@@ -1303,10 +1383,10 @@
     "status": "2026/27: 12 priced room grades, two accessible grades enquiry-only and Bronze Studio sold out; delayed opening to 28 November 2026 remains advertised",
     "uob_walk_min": null,
     "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
-    "checked": "2026-10-30",
+    "checked": "2026-10-31",
     "academic_year": "2026/27",
-    "price_checked": "2026-10-30",
-    "pricing_status": "Official room-list from prices; 2026/27; some categories sold out/enquiry only",
+    "price_checked": "2026-10-31",
+    "pricing_status": "2026/27: 12 room grades have independently sourced 44/37-week contract rates (2 Nov 2026 move-in); three additional grades remain enquiry-only/unpriced",
     "room_grades_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
     "room_grades_source_checked": "2026-10-28",
     "room_grades": [
@@ -1319,11 +1399,29 @@
         ],
         "availability": "Advertised; booking status requires confirmation",
         "academic_year": "2026/27",
-        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house/classic-ensuite",
         "checked": "2026-10-30",
         "price_note": "From price across contract options, not confirmed price for each term",
         "availability_checked": "2026-10-30",
-        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house"
+        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "rates": [
+          {
+            "weeks": 44,
+            "weekly": 278,
+            "check_in": "2026-11-02",
+            "check_out": "2027-09-04",
+            "booking_cta": "Book Now; final unit availability unverified"
+          },
+          {
+            "weeks": 37,
+            "weekly": 298,
+            "check_in": "2026-11-02",
+            "check_out": "2027-07-17",
+            "booking_cta": "Book Now; final unit availability unverified"
+          }
+        ],
+        "rate_checked": "2026-10-31",
+        "rate_note": "Operator grade-detail 2026/27 rates for 2 Nov 2026 move-in; 44 and 37 week options, £99 deposit. Booking CTA is not proof of final unit availability; operator page retrieved 31 Oct (web cache may lag)."
       },
       {
         "name": "Ensuite with Balcony",
@@ -1334,11 +1432,29 @@
         ],
         "availability": "Advertised; booking status requires confirmation",
         "academic_year": "2026/27",
-        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house/ensuite-with-balcony",
         "checked": "2026-10-30",
         "price_note": "From price across contract options, not confirmed price for each term",
         "availability_checked": "2026-10-30",
-        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house"
+        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "rates": [
+          {
+            "weeks": 44,
+            "weekly": 294,
+            "check_in": "2026-11-02",
+            "check_out": "2027-09-04",
+            "booking_cta": "Book Now; final unit availability unverified"
+          },
+          {
+            "weeks": 37,
+            "weekly": 304,
+            "check_in": "2026-11-02",
+            "check_out": "2027-07-17",
+            "booking_cta": "Book Now; final unit availability unverified"
+          }
+        ],
+        "rate_checked": "2026-10-31",
+        "rate_note": "Operator grade-detail 2026/27 rates for 2 Nov 2026 move-in; 44 and 37 week options, £99 deposit. Booking CTA is not proof of final unit availability; operator page retrieved 31 Oct (web cache may lag)."
       },
       {
         "name": "Premium Ensuite",
@@ -1349,11 +1465,29 @@
         ],
         "availability": "Advertised; booking status requires confirmation",
         "academic_year": "2026/27",
-        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house/premium-ensuite",
         "checked": "2026-10-30",
         "price_note": "From price across contract options, not confirmed price for each term",
         "availability_checked": "2026-10-30",
-        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house"
+        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "rates": [
+          {
+            "weeks": 44,
+            "weekly": 298,
+            "check_in": "2026-11-02",
+            "check_out": "2027-09-04",
+            "booking_cta": "Book Now; final unit availability unverified"
+          },
+          {
+            "weeks": 37,
+            "weekly": 308,
+            "check_in": "2026-11-02",
+            "check_out": "2027-07-17",
+            "booking_cta": "Book Now; final unit availability unverified"
+          }
+        ],
+        "rate_checked": "2026-10-31",
+        "rate_note": "Operator grade-detail 2026/27 rates for 2 Nov 2026 move-in; 44 and 37 week options, £99 deposit. Booking CTA is not proof of final unit availability; operator page retrieved 31 Oct (web cache may lag)."
       },
       {
         "name": "Premium Plus Ensuite",
@@ -1364,11 +1498,29 @@
         ],
         "availability": "Advertised; booking status requires confirmation",
         "academic_year": "2026/27",
-        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house/premium-plus-ensuite",
         "checked": "2026-10-30",
         "price_note": "From price across contract options, not confirmed price for each term",
         "availability_checked": "2026-10-30",
-        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house"
+        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "rates": [
+          {
+            "weeks": 44,
+            "weekly": 299,
+            "check_in": "2026-11-02",
+            "check_out": "2027-09-04",
+            "booking_cta": "Book Now; final unit availability unverified"
+          },
+          {
+            "weeks": 37,
+            "weekly": 309,
+            "check_in": "2026-11-02",
+            "check_out": "2027-07-17",
+            "booking_cta": "Book Now; final unit availability unverified"
+          }
+        ],
+        "rate_checked": "2026-10-31",
+        "rate_note": "Operator grade-detail 2026/27 rates for 2 Nov 2026 move-in; 44 and 37 week options, £99 deposit. Booking CTA is not proof of final unit availability; operator page retrieved 31 Oct (web cache may lag)."
       },
       {
         "name": "Deluxe Ensuite",
@@ -1379,11 +1531,29 @@
         ],
         "availability": "Advertised; booking status requires confirmation",
         "academic_year": "2026/27",
-        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house/deluxe-ensuite",
         "checked": "2026-10-30",
         "price_note": "From price across contract options, not confirmed price for each term",
         "availability_checked": "2026-10-30",
-        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house"
+        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "rates": [
+          {
+            "weeks": 44,
+            "weekly": 309,
+            "check_in": "2026-11-02",
+            "check_out": "2027-09-04",
+            "booking_cta": "Book Now; final unit availability unverified"
+          },
+          {
+            "weeks": 37,
+            "weekly": 329,
+            "check_in": "2026-11-02",
+            "check_out": "2027-07-17",
+            "booking_cta": "Book Now; final unit availability unverified"
+          }
+        ],
+        "rate_checked": "2026-10-31",
+        "rate_note": "Operator grade-detail 2026/27 rates for 2 Nov 2026 move-in; 44 and 37 week options, £99 deposit. Booking CTA is not proof of final unit availability; operator page retrieved 31 Oct (web cache may lag)."
       },
       {
         "name": "Bronze Plus Studio",
@@ -1394,11 +1564,29 @@
         ],
         "availability": "Advertised; booking status requires confirmation",
         "academic_year": "2026/27",
-        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house/bronze-plus-studio",
         "checked": "2026-10-30",
         "price_note": "From price across contract options, not confirmed price for each term",
         "availability_checked": "2026-10-30",
-        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house"
+        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "rates": [
+          {
+            "weeks": 44,
+            "weekly": 350,
+            "check_in": "2026-11-02",
+            "check_out": "2027-09-04",
+            "booking_cta": "Book Now; final unit availability unverified"
+          },
+          {
+            "weeks": 37,
+            "weekly": 360,
+            "check_in": "2026-11-02",
+            "check_out": "2027-07-17",
+            "booking_cta": "Book Now; final unit availability unverified"
+          }
+        ],
+        "rate_checked": "2026-10-31",
+        "rate_note": "Operator grade-detail 2026/27 rates for 2 Nov 2026 move-in; 44 and 37 week options, £99 deposit. Booking CTA is not proof of final unit availability; operator page retrieved 31 Oct (web cache may lag)."
       },
       {
         "name": "Silver Studio",
@@ -1409,11 +1597,29 @@
         ],
         "availability": "Advertised; booking status requires confirmation",
         "academic_year": "2026/27",
-        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house/silver-studio",
         "checked": "2026-10-30",
         "price_note": "From price across contract options, not confirmed price for each term",
         "availability_checked": "2026-10-30",
-        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house"
+        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "rates": [
+          {
+            "weeks": 44,
+            "weekly": 360,
+            "check_in": "2026-11-02",
+            "check_out": "2027-09-04",
+            "booking_cta": "Book Now; final unit availability unverified"
+          },
+          {
+            "weeks": 37,
+            "weekly": 370,
+            "check_in": "2026-11-02",
+            "check_out": "2027-07-17",
+            "booking_cta": "Book Now; final unit availability unverified"
+          }
+        ],
+        "rate_checked": "2026-10-31",
+        "rate_note": "Operator grade-detail 2026/27 rates for 2 Nov 2026 move-in; 44 and 37 week options, £99 deposit. Booking CTA is not proof of final unit availability; operator page retrieved 31 Oct (web cache may lag)."
       },
       {
         "name": "Silver Plus Studio",
@@ -1424,11 +1630,29 @@
         ],
         "availability": "Advertised; booking status requires confirmation",
         "academic_year": "2026/27",
-        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house/silver-plus-studio",
         "checked": "2026-10-30",
         "price_note": "From price across contract options, not confirmed price for each term",
         "availability_checked": "2026-10-30",
-        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house"
+        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "rates": [
+          {
+            "weeks": 44,
+            "weekly": 370,
+            "check_in": "2026-11-02",
+            "check_out": "2027-09-04",
+            "booking_cta": "Book Now; final unit availability unverified"
+          },
+          {
+            "weeks": 37,
+            "weekly": 380,
+            "check_in": "2026-11-02",
+            "check_out": "2027-07-17",
+            "booking_cta": "Book Now; final unit availability unverified"
+          }
+        ],
+        "rate_checked": "2026-10-31",
+        "rate_note": "Operator grade-detail 2026/27 rates for 2 Nov 2026 move-in; 44 and 37 week options, £99 deposit. Booking CTA is not proof of final unit availability; operator page retrieved 31 Oct (web cache may lag)."
       },
       {
         "name": "Gold Studio",
@@ -1439,11 +1663,29 @@
         ],
         "availability": "Advertised; booking status requires confirmation",
         "academic_year": "2026/27",
-        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house/gold-studio",
         "checked": "2026-10-30",
         "price_note": "From price across contract options, not confirmed price for each term",
         "availability_checked": "2026-10-30",
-        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house"
+        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "rates": [
+          {
+            "weeks": 44,
+            "weekly": 380,
+            "check_in": "2026-11-02",
+            "check_out": "2027-09-04",
+            "booking_cta": "Book Now; final unit availability unverified"
+          },
+          {
+            "weeks": 37,
+            "weekly": 390,
+            "check_in": "2026-11-02",
+            "check_out": "2027-07-17",
+            "booking_cta": "Book Now; final unit availability unverified"
+          }
+        ],
+        "rate_checked": "2026-10-31",
+        "rate_note": "Operator grade-detail 2026/27 rates for 2 Nov 2026 move-in; 44 and 37 week options, £99 deposit. Booking CTA is not proof of final unit availability; operator page retrieved 31 Oct (web cache may lag)."
       },
       {
         "name": "Gold Plus Studio",
@@ -1454,11 +1696,29 @@
         ],
         "availability": "Advertised; booking status requires confirmation",
         "academic_year": "2026/27",
-        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house/gold-plus-studio",
         "checked": "2026-10-30",
         "price_note": "From price across contract options, not confirmed price for each term",
         "availability_checked": "2026-10-30",
-        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house"
+        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "rates": [
+          {
+            "weeks": 44,
+            "weekly": 390,
+            "check_in": "2026-11-02",
+            "check_out": "2027-09-04",
+            "booking_cta": "Book Now; final unit availability unverified"
+          },
+          {
+            "weeks": 37,
+            "weekly": 405,
+            "check_in": "2026-11-02",
+            "check_out": "2027-07-17",
+            "booking_cta": "Book Now; final unit availability unverified"
+          }
+        ],
+        "rate_checked": "2026-10-31",
+        "rate_note": "Operator grade-detail 2026/27 rates for 2 Nov 2026 move-in; 44 and 37 week options, £99 deposit. Booking CTA is not proof of final unit availability; operator page retrieved 31 Oct (web cache may lag)."
       },
       {
         "name": "Platinum Plus Studio",
@@ -1469,11 +1729,29 @@
         ],
         "availability": "Advertised; booking status requires confirmation",
         "academic_year": "2026/27",
-        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house/platinum-plus-studio",
         "checked": "2026-10-30",
         "price_note": "From price across contract options, not confirmed price for each term",
         "availability_checked": "2026-10-30",
-        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house"
+        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "rates": [
+          {
+            "weeks": 44,
+            "weekly": 405,
+            "check_in": "2026-11-02",
+            "check_out": "2027-09-04",
+            "booking_cta": "Book Now; final unit availability unverified"
+          },
+          {
+            "weeks": 37,
+            "weekly": 420,
+            "check_in": "2026-11-02",
+            "check_out": "2027-07-17",
+            "booking_cta": "Book Now; final unit availability unverified"
+          }
+        ],
+        "rate_checked": "2026-10-31",
+        "rate_note": "Operator grade-detail 2026/27 rates for 2 Nov 2026 move-in; 44 and 37 week options, £99 deposit. Booking CTA is not proof of final unit availability; operator page retrieved 31 Oct (web cache may lag)."
       },
       {
         "name": "Platinum Studio",
@@ -1484,11 +1762,29 @@
         ],
         "availability": "Advertised; booking status requires confirmation",
         "academic_year": "2026/27",
-        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house/platinum-studio",
         "checked": "2026-10-30",
         "price_note": "From price across contract options, not confirmed price for each term",
         "availability_checked": "2026-10-30",
-        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house"
+        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "rates": [
+          {
+            "weeks": 44,
+            "weekly": 405,
+            "check_in": "2026-11-02",
+            "check_out": "2027-09-04",
+            "booking_cta": "Book Now; final unit availability unverified"
+          },
+          {
+            "weeks": 37,
+            "weekly": 420,
+            "check_in": "2026-11-02",
+            "check_out": "2027-07-17",
+            "booking_cta": "Book Now; final unit availability unverified"
+          }
+        ],
+        "rate_checked": "2026-10-31",
+        "rate_note": "Operator grade-detail 2026/27 rates for 2 Nov 2026 move-in; 44 and 37 week options, £99 deposit. Booking CTA is not proof of final unit availability; operator page retrieved 31 Oct (web cache may lag)."
       },
       {
         "name": "Bronze Studio",
@@ -1536,7 +1832,9 @@
       "checked": "2026-10-28",
       "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house"
     },
-    "last_operator_check": "2026-10-30"
+    "last_operator_check": "2026-10-31",
+    "contract_rates_source_checked": "2026-10-31",
+    "last_operator_check_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house"
   },
   {
     "name": "Favell House",
@@ -1556,7 +1854,9 @@
     "price_checked": null,
     "pricing_status": "No public direct-booking weekly rate on operator property page; university nomination tariff must be checked separately",
     "room_grades": [],
-    "next_academic_year_status": "2027/28 nomination tariff not verified"
+    "next_academic_year_status": "2027/28 nomination tariff not verified",
+    "last_source_attempt": "2026-10-31",
+    "last_source_attempt_status": "Official direct page timed out; only indexed operator snapshot available; prices and current availability unverified"
   },
   {
     "name": "The Rackhay",
@@ -1576,7 +1876,9 @@
     "price_checked": null,
     "pricing_status": "No public direct-booking weekly rate on operator property page; university nomination tariff must be checked separately",
     "room_grades": [],
-    "next_academic_year_status": "2027/28 nomination tariff not verified"
+    "next_academic_year_status": "2027/28 nomination tariff not verified",
+    "last_source_attempt": "2026-10-31",
+    "last_source_attempt_status": "Official direct page timed out; only indexed operator snapshot available; prices and current availability unverified"
   },
   {
     "name": "Marketgate",
@@ -1597,7 +1899,9 @@
     "price_checked": null,
     "pricing_status": "No public direct-booking weekly rate on operator property page; university allocation price must be checked separately",
     "room_grades": [],
-    "next_academic_year_status": "2027/28 university allocation rates not verified"
+    "next_academic_year_status": "2027/28 university allocation rates not verified",
+    "last_operator_check": "2026-10-31",
+    "last_operator_check_source": "https://www.unitestudents.com/student-accommodation/bristol/marketgate"
   },
   {
     "name": "iQ Bristol",
@@ -1633,6 +1937,8 @@
         "availability": "Unverified; booking rate not exposed in accessible page"
       }
     ],
-    "next_academic_year_status": "2027/28 prices not verified"
+    "next_academic_year_status": "2027/28 prices not verified",
+    "last_operator_check": "2026-10-31",
+    "last_operator_check_source": "https://www.iqstudentaccommodation.com/bristol/iq-bristol"
   }
 ]
