@@ -809,8 +809,8 @@
     "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
     "checked": "2026-10-30",
     "academic_year": "2026/27",
-    "price_checked": "2026-10-30",
-    "pricing_status": "operator advertised room-grade from rates; selector also shows 2027/28 but prices not verified for that year",
+    "price_checked": "2026-10-31",
+    "pricing_status": "2026/27: 3 priced grades with 15 contract-specific quotes, 2 enquiry-only/sold out; separate 2027/28 data stored in next_academic_year_room_grades",
     "room_grades_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
     "room_grades_source_checked": "2026-10-27",
     "room_grades": [
@@ -825,10 +825,49 @@
           28,
           9
         ],
-        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-4-bed-ensuite",
         "checked": "2026-10-30",
         "price_note": "From price across listed contract options; not an individual contract rate",
-        "availability_checked": "2026-10-30"
+        "availability_checked": "2026-10-30",
+        "rates": [
+          {
+            "weeks": 44,
+            "weekly": 180,
+            "check_in": "2026-11-02",
+            "check_out": "2027-09-04",
+            "booking_cta": "Book Now; unit availability unverified"
+          },
+          {
+            "weeks": 37,
+            "weekly": 185,
+            "check_in": "2026-11-02",
+            "check_out": "2027-07-17",
+            "booking_cta": "Book Now; unit availability unverified"
+          },
+          {
+            "weeks": 34,
+            "weekly": 185,
+            "check_in": "2027-01-04",
+            "check_out": "2027-08-30",
+            "booking_cta": "Book Now; unit availability unverified"
+          },
+          {
+            "weeks": 28,
+            "weekly": 185,
+            "check_in": "2027-01-04",
+            "check_out": "2027-07-19",
+            "booking_cta": "Book Now; unit availability unverified"
+          },
+          {
+            "weeks": 9,
+            "weekly": 200,
+            "check_in": "2026-11-02",
+            "check_out": "2027-01-02",
+            "booking_cta": "Book Now; unit availability unverified"
+          }
+        ],
+        "rate_checked": "2026-10-31",
+        "rate_note": "Explicit 2026/27 grade-detail contract rates; 2 Nov 2026 or 4 Jan 2027 starts, £99 deposit. Distinct from 2027/28 room grades."
       },
       {
         "name": "Classic Ensuite",
@@ -841,10 +880,49 @@
           28,
           9
         ],
-        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-ensuite",
         "checked": "2026-10-30",
         "price_note": "From price across listed contract options; not an individual contract rate",
-        "availability_checked": "2026-10-30"
+        "availability_checked": "2026-10-30",
+        "rates": [
+          {
+            "weeks": 44,
+            "weekly": 180,
+            "check_in": "2026-11-02",
+            "check_out": "2027-09-04",
+            "booking_cta": "Book Now; unit availability unverified"
+          },
+          {
+            "weeks": 37,
+            "weekly": 185,
+            "check_in": "2026-11-02",
+            "check_out": "2027-07-17",
+            "booking_cta": "Book Now; unit availability unverified"
+          },
+          {
+            "weeks": 34,
+            "weekly": 185,
+            "check_in": "2027-01-04",
+            "check_out": "2027-08-30",
+            "booking_cta": "Book Now; unit availability unverified"
+          },
+          {
+            "weeks": 28,
+            "weekly": 185,
+            "check_in": "2027-01-04",
+            "check_out": "2027-07-19",
+            "booking_cta": "Book Now; unit availability unverified"
+          },
+          {
+            "weeks": 9,
+            "weekly": 200,
+            "check_in": "2026-11-02",
+            "check_out": "2027-01-02",
+            "booking_cta": "Book Now; unit availability unverified"
+          }
+        ],
+        "rate_checked": "2026-10-31",
+        "rate_note": "Explicit 2026/27 grade-detail contract rates; 2 Nov 2026 or 4 Jan 2027 starts, £99 deposit. Distinct from 2027/28 room grades."
       },
       {
         "name": "Classic Studio",
@@ -857,10 +935,49 @@
           28,
           9
         ],
-        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-studio",
         "checked": "2026-10-30",
         "price_note": "From price across listed contract options; not an individual contract rate",
-        "availability_checked": "2026-10-30"
+        "availability_checked": "2026-10-30",
+        "rates": [
+          {
+            "weeks": 44,
+            "weekly": 260,
+            "check_in": "2026-11-02",
+            "check_out": "2027-09-04",
+            "booking_cta": "Book Now; unit availability unverified"
+          },
+          {
+            "weeks": 37,
+            "weekly": 290,
+            "check_in": "2026-11-02",
+            "check_out": "2027-07-17",
+            "booking_cta": "Book Now; unit availability unverified"
+          },
+          {
+            "weeks": 34,
+            "weekly": 290,
+            "check_in": "2027-01-04",
+            "check_out": "2027-08-30",
+            "booking_cta": "Book Now; unit availability unverified"
+          },
+          {
+            "weeks": 28,
+            "weekly": 290,
+            "check_in": "2027-01-04",
+            "check_out": "2027-07-19",
+            "booking_cta": "Book Now; unit availability unverified"
+          },
+          {
+            "weeks": 9,
+            "weekly": 320,
+            "check_in": "2026-11-02",
+            "check_out": "2027-01-02",
+            "booking_cta": "Book Now; unit availability unverified"
+          }
+        ],
+        "rate_checked": "2026-10-31",
+        "rate_note": "Explicit 2026/27 grade-detail contract rates; 2 Nov 2026 or 4 Jan 2027 starts, £99 deposit. Distinct from 2027/28 room grades."
       },
       {
         "name": "Deluxe Studio",
