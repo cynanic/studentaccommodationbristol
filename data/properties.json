@@ -2482,5 +2482,598 @@
       "scope": "Public property page and accessible 2026/27 room listing; 2027/28 signals checked where exposed",
       "note": "Official building and two grade pages accessible but dynamic live rates absent; operator search-index snapshots are preserved as unverified historical observations, not current rates."
     }
+  },
+  {
+    "name": "Dean Street Works",
+    "provider": "Prestige Student Living",
+    "area": "BS2",
+    "from_price": 255,
+    "room_types": [
+      "Ensuite",
+      "Studio"
+    ],
+    "bills_included": true,
+    "offer": null,
+    "status": "Operator 2026/27 room-list status checked; bookability of individual units not independently verified",
+    "uob_walk_min": null,
+    "source": "https://prestigestudentliving.com/student-accommodation/bristol/dean-street-works",
+    "checked": "2026-11-01",
+    "academic_year": "2026/27",
+    "price_checked": "2026-11-01",
+    "pricing_status": "2026/27 operator room-list grade from-prices; contract-specific weekly quotes not verified",
+    "room_grades": [
+      {
+        "name": "Premium Ensuite",
+        "weekly_from": 255,
+        "advertised_contract_options_weeks": [
+          44,
+          38,
+          34,
+          28
+        ],
+        "availability": "Last few remaining",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/dean-street-works",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "10 Bed En-Suite",
+        "availability": "Sold Out",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/dean-street-works",
+        "checked": "2026-11-01",
+        "price_note": "No current weekly rate on operator room list"
+      },
+      {
+        "name": "6 Bed En-Suite",
+        "availability": "Sold Out",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/dean-street-works",
+        "checked": "2026-11-01",
+        "price_note": "No current weekly rate on operator room list"
+      },
+      {
+        "name": "7 Bed En-Suite",
+        "availability": "Sold Out",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/dean-street-works",
+        "checked": "2026-11-01",
+        "price_note": "No current weekly rate on operator room list"
+      },
+      {
+        "name": "8 Bed En-Suite",
+        "availability": "Sold Out",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/dean-street-works",
+        "checked": "2026-11-01",
+        "price_note": "No current weekly rate on operator room list"
+      },
+      {
+        "name": "Classic Studio",
+        "availability": "Sold Out",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/dean-street-works",
+        "checked": "2026-11-01",
+        "price_note": "No current weekly rate on operator room list"
+      },
+      {
+        "name": "Deluxe Studio",
+        "availability": "Sold Out",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/dean-street-works",
+        "checked": "2026-11-01",
+        "price_note": "No current weekly rate on operator room list"
+      },
+      {
+        "name": "Premium Studio Plus",
+        "availability": "Sold Out",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/dean-street-works",
+        "checked": "2026-11-01",
+        "price_note": "No current weekly rate on operator room list"
+      },
+      {
+        "name": "Premium Studio",
+        "availability": "Sold Out",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/dean-street-works",
+        "checked": "2026-11-01",
+        "price_note": "No current weekly rate on operator room list"
+      },
+      {
+        "name": "Standard Studio",
+        "availability": "Sold Out",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/dean-street-works",
+        "checked": "2026-11-01",
+        "price_note": "No current weekly rate on operator room list"
+      }
+    ],
+    "room_grades_source": "https://prestigestudentliving.com/student-accommodation/bristol/dean-street-works",
+    "room_grades_source_checked": "2026-11-01",
+    "next_academic_year_status": "2027/28 selector visible; no next-year grade-specific rate verified from default page"
+  },
+  {
+    "name": "Timber Yard",
+    "provider": "Prestige Student Living",
+    "area": "BS2",
+    "from_price": 209,
+    "room_types": [
+      "Ensuite",
+      "Studio"
+    ],
+    "bills_included": true,
+    "offer": null,
+    "status": "Operator 2026/27 room-list status checked; bookability of individual units not independently verified",
+    "uob_walk_min": null,
+    "source": "https://prestigestudentliving.com/student-accommodation/bristol/timber-yard",
+    "checked": "2026-11-01",
+    "academic_year": "2026/27",
+    "price_checked": "2026-11-01",
+    "pricing_status": "2026/27 operator room-list grade from-prices; contract-specific weekly quotes not verified",
+    "room_grades": [
+      {
+        "name": "Classic Ensuite",
+        "weekly_from": 209,
+        "advertised_contract_options_weeks": [
+          44,
+          38,
+          34,
+          28
+        ],
+        "availability": "Last few remaining",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/timber-yard",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "Classic 7-8 Bed Ensuite",
+        "weekly_from": 210,
+        "advertised_contract_options_weeks": [
+          44,
+          38,
+          34,
+          28
+        ],
+        "availability": "Listed; final unit availability not verified",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/timber-yard",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "Classic Plus 7-8 Bed Ensuite",
+        "weekly_from": 215,
+        "advertised_contract_options_weeks": [
+          44,
+          38,
+          34,
+          28,
+          17
+        ],
+        "availability": "Last few remaining",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/timber-yard",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "Premium Ensuite",
+        "weekly_from": 233,
+        "advertised_contract_options_weeks": [
+          44,
+          38,
+          34,
+          28
+        ],
+        "availability": "Listed; final unit availability not verified",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/timber-yard",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "Classic 5-6 Bed Ensuite",
+        "weekly_from": 263,
+        "advertised_contract_options_weeks": [
+          38,
+          34,
+          28
+        ],
+        "availability": "Last few remaining",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/timber-yard",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "Classic Plus 5-6 Bed Ensuite",
+        "weekly_from": 263,
+        "advertised_contract_options_weeks": [
+          38,
+          34,
+          28
+        ],
+        "availability": "Last few remaining",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/timber-yard",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "Bronze Studio",
+        "weekly_from": 320,
+        "advertised_contract_options_weeks": [
+          44,
+          38,
+          34,
+          28
+        ],
+        "availability": "Last few remaining",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/timber-yard",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "Bronze Plus Studio",
+        "weekly_from": 350,
+        "advertised_contract_options_weeks": [
+          44,
+          34,
+          28
+        ],
+        "availability": "Last few remaining",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/timber-yard",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "Gold Studio",
+        "weekly_from": 370,
+        "advertised_contract_options_weeks": [
+          44,
+          34,
+          28
+        ],
+        "availability": "Listed; final unit availability not verified",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/timber-yard",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "Platinum Studio",
+        "weekly_from": 385,
+        "advertised_contract_options_weeks": [
+          44,
+          34,
+          28,
+          17
+        ],
+        "availability": "Listed; final unit availability not verified",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/timber-yard",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "Platinum Plus Studio",
+        "weekly_from": 395,
+        "advertised_contract_options_weeks": [
+          44,
+          34,
+          28
+        ],
+        "availability": "Listed; final unit availability not verified",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/timber-yard",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "Gold Plus Studio",
+        "availability": "Sold Out",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/timber-yard",
+        "checked": "2026-11-01",
+        "price_note": "No current weekly rate on operator room list"
+      },
+      {
+        "name": "Silver Plus Studio",
+        "availability": "Sold Out",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/timber-yard",
+        "checked": "2026-11-01",
+        "price_note": "No current weekly rate on operator room list"
+      },
+      {
+        "name": "Silver Studio",
+        "availability": "Sold Out",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/timber-yard",
+        "checked": "2026-11-01",
+        "price_note": "No current weekly rate on operator room list"
+      },
+      {
+        "name": "Superior Plus Studio",
+        "availability": "Sold Out",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/timber-yard",
+        "checked": "2026-11-01",
+        "price_note": "No current weekly rate on operator room list"
+      }
+    ],
+    "room_grades_source": "https://prestigestudentliving.com/student-accommodation/bristol/timber-yard",
+    "room_grades_source_checked": "2026-11-01",
+    "next_academic_year_status": "2027/28 selector visible; no next-year grade-specific rate verified from default page"
+  },
+  {
+    "name": "The Port On The Square",
+    "provider": "Prestige Student Living",
+    "area": "BS2",
+    "from_price": 209,
+    "room_types": [
+      "Ensuite",
+      "Studio"
+    ],
+    "bills_included": true,
+    "offer": null,
+    "status": "Operator 2026/27 room-list status checked; bookability of individual units not independently verified",
+    "uob_walk_min": null,
+    "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-port-on-the-square",
+    "checked": "2026-11-01",
+    "academic_year": "2026/27",
+    "price_checked": "2026-11-01",
+    "pricing_status": "2026/27 operator room-list grade from-prices; contract-specific weekly quotes not verified",
+    "room_grades": [
+      {
+        "name": "Saver Ensuite",
+        "weekly_from": 209,
+        "advertised_contract_options_weeks": [
+          34,
+          28
+        ],
+        "availability": "Listed; final unit availability not verified",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-port-on-the-square",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "Modern Classic Ensuite",
+        "weekly_from": 229,
+        "advertised_contract_options_weeks": [
+          44,
+          38
+        ],
+        "availability": "Last few remaining",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-port-on-the-square",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "Modern Standard Ensuite",
+        "weekly_from": 229,
+        "advertised_contract_options_weeks": [
+          34,
+          28
+        ],
+        "availability": "Last few remaining",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-port-on-the-square",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "Modern Classic Plus Ensuite",
+        "weekly_from": 238,
+        "advertised_contract_options_weeks": [
+          44,
+          38,
+          34,
+          28
+        ],
+        "availability": "Listed; final unit availability not verified",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-port-on-the-square",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "Townhouse Classic Ensuite",
+        "weekly_from": 239,
+        "advertised_contract_options_weeks": [
+          38,
+          34,
+          28
+        ],
+        "availability": "Listed; final unit availability not verified",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-port-on-the-square",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "Townhouse Deluxe Ensuite",
+        "weekly_from": 249,
+        "advertised_contract_options_weeks": [
+          44,
+          34,
+          28
+        ],
+        "availability": "Listed; final unit availability not verified",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-port-on-the-square",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "Premium Ensuite",
+        "weekly_from": 255,
+        "advertised_contract_options_weeks": [
+          44,
+          34,
+          28
+        ],
+        "availability": "Listed; final unit availability not verified",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-port-on-the-square",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "Standard Studio",
+        "weekly_from": 339,
+        "advertised_contract_options_weeks": [
+          44
+        ],
+        "availability": "Listed; final unit availability not verified",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-port-on-the-square",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "Premium Studio",
+        "weekly_from": 399,
+        "advertised_contract_options_weeks": [
+          44,
+          28
+        ],
+        "availability": "Listed; final unit availability not verified",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-port-on-the-square",
+        "checked": "2026-11-01",
+        "price_note": "Room-list from-price only; not a price for every listed contract"
+      },
+      {
+        "name": "Classic Studio",
+        "availability": "Sold Out",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-port-on-the-square",
+        "checked": "2026-11-01",
+        "price_note": "No current weekly rate on operator room list"
+      },
+      {
+        "name": "Saver Studio",
+        "availability": "Sold Out",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-port-on-the-square",
+        "checked": "2026-11-01",
+        "price_note": "No current weekly rate on operator room list"
+      },
+      {
+        "name": "Townhouse Compact Ensuite",
+        "availability": "Sold Out",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-port-on-the-square",
+        "checked": "2026-11-01",
+        "price_note": "No current weekly rate on operator room list"
+      },
+      {
+        "name": "Accessible Ensuite",
+        "availability": "Sold Out",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-port-on-the-square",
+        "checked": "2026-11-01",
+        "price_note": "No current weekly rate on operator room list"
+      }
+    ],
+    "room_grades_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-port-on-the-square",
+    "room_grades_source_checked": "2026-11-01",
+    "next_academic_year_status": "2027/28 selector visible; no next-year grade-specific rate verified from default page"
+  },
+  {
+    "name": "Cherry Court",
+    "provider": "Unite Students",
+    "area": "Bristol (exact area not verified)",
+    "from_price": null,
+    "room_types": [],
+    "bills_included": null,
+    "offer": null,
+    "status": "Named on Unite Students' official Bristol property directory; individual booking details not verified",
+    "uob_walk_min": null,
+    "source": "https://www.unitestudents.com/student-accommodation/bristol",
+    "checked": "2026-11-01",
+    "academic_year": null,
+    "price_checked": null,
+    "pricing_status": "No current operator room-grade or academic-year price verified",
+    "room_grades": [],
+    "next_academic_year_status": "Not verified"
+  },
+  {
+    "name": "Nelson House and Drake House",
+    "provider": "Unite Students",
+    "area": "Bristol (exact area not verified)",
+    "from_price": null,
+    "room_types": [],
+    "bills_included": null,
+    "offer": null,
+    "status": "Named on Unite Students' official Bristol property directory; individual booking details not verified",
+    "uob_walk_min": null,
+    "source": "https://www.unitestudents.com/student-accommodation/bristol",
+    "checked": "2026-11-01",
+    "academic_year": null,
+    "price_checked": null,
+    "pricing_status": "No current operator room-grade or academic-year price verified",
+    "room_grades": [],
+    "next_academic_year_status": "Not verified"
+  },
+  {
+    "name": "Unite House",
+    "provider": "Unite Students",
+    "area": "Bristol (exact area not verified)",
+    "from_price": null,
+    "room_types": [],
+    "bills_included": null,
+    "offer": null,
+    "status": "Named on Unite Students' official Bristol property directory; individual booking details not verified",
+    "uob_walk_min": null,
+    "source": "https://www.unitestudents.com/student-accommodation/bristol",
+    "checked": "2026-11-01",
+    "academic_year": null,
+    "price_checked": null,
+    "pricing_status": "No current operator room-grade or academic-year price verified",
+    "room_grades": [],
+    "next_academic_year_status": "Not verified"
+  },
+  {
+    "name": "Orchard Heights",
+    "provider": "Unite Students",
+    "area": "Bristol (exact area not verified)",
+    "from_price": null,
+    "room_types": [],
+    "bills_included": null,
+    "offer": null,
+    "status": "Named on Unite Students' official Bristol property directory; individual booking details not verified",
+    "uob_walk_min": null,
+    "source": "https://www.unitestudents.com/student-accommodation/bristol",
+    "checked": "2026-11-01",
+    "academic_year": null,
+    "price_checked": null,
+    "pricing_status": "No current operator room-grade or academic-year price verified",
+    "room_grades": [],
+    "next_academic_year_status": "Not verified"
+  },
+  {
+    "name": "Blenheim Court",
+    "provider": "Unite Students",
+    "area": "Bristol (exact area not verified)",
+    "from_price": null,
+    "room_types": [],
+    "bills_included": null,
+    "offer": null,
+    "status": "Named on Unite Students' official Bristol property directory; individual booking details not verified",
+    "uob_walk_min": null,
+    "source": "https://www.unitestudents.com/student-accommodation/bristol",
+    "checked": "2026-11-01",
+    "academic_year": null,
+    "price_checked": null,
+    "pricing_status": "No current operator room-grade or academic-year price verified",
+    "room_grades": [],
+    "next_academic_year_status": "Not verified"
+  },
+  {
+    "name": "Chantry Court",
+    "provider": "Unite Students",
+    "area": "Bristol (exact area not verified)",
+    "from_price": null,
+    "room_types": [],
+    "bills_included": null,
+    "offer": null,
+    "status": "Named on Unite Students' official Bristol property directory; individual booking details not verified",
+    "uob_walk_min": null,
+    "source": "https://www.unitestudents.com/student-accommodation/bristol",
+    "checked": "2026-11-01",
+    "academic_year": null,
+    "price_checked": null,
+    "pricing_status": "No current operator room-grade or academic-year price verified",
+    "room_grades": [],
+    "next_academic_year_status": "Not verified"
+  },
+  {
+    "name": "Waverley House",
+    "provider": "Unite Students",
+    "area": "Bristol (exact area not verified)",
+    "from_price": null,
+    "room_types": [],
+    "bills_included": null,
+    "offer": null,
+    "status": "Named on Unite Students' official Bristol property directory; individual booking details not verified",
+    "uob_walk_min": null,
+    "source": "https://www.unitestudents.com/student-accommodation/bristol",
+    "checked": "2026-11-01",
+    "academic_year": null,
+    "price_checked": null,
+    "pricing_status": "No current operator room-grade or academic-year price verified",
+    "room_grades": [],
+    "next_academic_year_status": "Not verified"
   }
 ]
