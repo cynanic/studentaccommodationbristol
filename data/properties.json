@@ -9,8 +9,8 @@
       "Studio"
     ],
     "bills_included": true,
-    "offer": "Up to £1,000 cashback advertised on selected 2026/27 rooms; eligibility/terms must be checked",
-    "status": "Selected 2026/27 grades available; other grades sold out or enquiry only",
+    "offer": "£1,000 cashback offer advertised on operator room list for selected 2026/27 grades; terms and eligibility apply",
+    "status": "Seven 2026/27 room grades currently shown; five historical grades not on current list. Final unit-level availability unverified.",
     "uob_walk_min": null,
     "source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/prs?utm_source=studentaccommodationbristol&utm_medium=referral&utm_campaign=property_guide",
     "checked": "2026-10-30",
@@ -40,7 +40,11 @@
         "availability_note": "Room-list CTA only, not proof of bookability; individual grade detail may show a different status",
         "room_listing_checked": "2026-10-30",
         "listing_reviewed_on": "2026-11-01",
-        "listing_review_source": "https://www.thisisfresh.com/bristol/croft-court/rooms"
+        "listing_review_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+        "current_listing_status": "Displayed on official 2026/27 room list; unit-level availability not established",
+        "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+        "current_listing_checked": "2026-11-01",
+        "room_list_price_note": "Operator room-list price range; do not infer which weekly rate belongs to each contract without checking grade detail"
       },
       {
         "name": "Classic En Suite",
@@ -66,7 +70,15 @@
         "price_note": "Operator's 2026/27 room-list grade range £255–£280 across 44/51-week options; existing contract-specific rates retained separately pending recheck",
         "room_listing_checked": "2026-10-30",
         "listing_reviewed_on": "2026-11-01",
-        "listing_review_source": "https://www.thisisfresh.com/bristol/croft-court/rooms"
+        "listing_review_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+        "contract_weeks": [
+          44,
+          51
+        ],
+        "current_listing_status": "Displayed on official 2026/27 room list; unit-level availability not established",
+        "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+        "current_listing_checked": "2026-11-01",
+        "room_list_price_note": "Operator room-list price range; do not infer which weekly rate belongs to each contract without checking grade detail"
       },
       {
         "name": "Premium En Suite",
@@ -89,7 +101,17 @@
         "availability_note": "Room-list CTA only, not proof of bookability; individual grade detail may show a different status",
         "room_listing_checked": "2026-10-30",
         "listing_reviewed_on": "2026-11-01",
-        "listing_review_source": "https://www.thisisfresh.com/bristol/croft-court/rooms"
+        "listing_review_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+        "weekly_from": 265,
+        "weekly_to": 275,
+        "contract_weeks": [
+          44,
+          51
+        ],
+        "current_listing_status": "Displayed on official 2026/27 room list; unit-level availability not established",
+        "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+        "current_listing_checked": "2026-11-01",
+        "room_list_price_note": "Operator room-list price range; do not infer which weekly rate belongs to each contract without checking grade detail"
       },
       {
         "name": "Deluxe En Suite",
@@ -112,7 +134,17 @@
         "availability_note": "Room-list CTA only, not proof of bookability; individual grade detail may show a different status",
         "room_listing_checked": "2026-10-30",
         "listing_reviewed_on": "2026-11-01",
-        "listing_review_source": "https://www.thisisfresh.com/bristol/croft-court/rooms"
+        "listing_review_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+        "weekly_from": 275,
+        "weekly_to": 285,
+        "contract_weeks": [
+          44,
+          51
+        ],
+        "current_listing_status": "Displayed on official 2026/27 room list; unit-level availability not established",
+        "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+        "current_listing_checked": "2026-11-01",
+        "room_list_price_note": "Operator room-list price range; do not infer which weekly rate belongs to each contract without checking grade detail"
       },
       {
         "name": "City Studio",
@@ -135,7 +167,17 @@
         "availability_note": "Room-list CTA only, not proof of bookability; individual grade detail may show a different status",
         "room_listing_checked": "2026-10-30",
         "listing_reviewed_on": "2026-11-01",
-        "listing_review_source": "https://www.thisisfresh.com/bristol/croft-court/rooms"
+        "listing_review_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+        "weekly_from": 335,
+        "weekly_to": 340,
+        "contract_weeks": [
+          44,
+          51
+        ],
+        "current_listing_status": "Displayed on official 2026/27 room list; unit-level availability not established",
+        "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+        "current_listing_checked": "2026-11-01",
+        "room_list_price_note": "Operator room-list price range; do not infer which weekly rate belongs to each contract without checking grade detail"
       },
       {
         "name": "Premium Studio",
@@ -158,7 +200,17 @@
         "availability_note": "Room-list CTA only, not proof of bookability; individual grade detail may show a different status",
         "room_listing_checked": "2026-10-30",
         "listing_reviewed_on": "2026-11-01",
-        "listing_review_source": "https://www.thisisfresh.com/bristol/croft-court/rooms"
+        "listing_review_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+        "weekly_from": 355,
+        "weekly_to": 360,
+        "contract_weeks": [
+          44,
+          51
+        ],
+        "current_listing_status": "Displayed on official 2026/27 room list; unit-level availability not established",
+        "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+        "current_listing_checked": "2026-11-01",
+        "room_list_price_note": "Operator room-list price range; do not infer which weekly rate belongs to each contract without checking grade detail"
       },
       {
         "name": "Deluxe Studio",
@@ -175,7 +227,11 @@
         "availability_note": "Room-list CTA only, not proof of bookability; individual grade detail may show a different status",
         "room_listing_checked": "2026-10-30",
         "listing_reviewed_on": "2026-11-01",
-        "listing_review_source": "https://www.thisisfresh.com/bristol/croft-court/rooms"
+        "listing_review_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+        "current_listing_status": "Displayed on official 2026/27 room list; unit-level availability not established",
+        "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+        "current_listing_checked": "2026-11-01",
+        "room_list_price_note": "Operator room-list price range; do not infer which weekly rate belongs to each contract without checking grade detail"
       },
       {
         "name": "Accessible Platinum Studio",
@@ -186,7 +242,10 @@
             "status": "Sold Out"
           }
         ],
-        "source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/aps"
+        "source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/aps",
+        "current_listing_status": "Not displayed in current operator 2026/27 room list; historical grade record retained, not current advertised availability",
+        "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+        "current_listing_checked": "2026-11-01"
       },
       {
         "name": "Accessible Deluxe En Suite",
@@ -197,7 +256,10 @@
             "status": "Sold Out"
           }
         ],
-        "source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/desa"
+        "source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/desa",
+        "current_listing_status": "Not displayed in current operator 2026/27 room list; historical grade record retained, not current advertised availability",
+        "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+        "current_listing_checked": "2026-11-01"
       },
       {
         "name": "Deluxe Loft En Suite",
@@ -207,7 +269,10 @@
             "weekly": 350,
             "status": "Contact provider"
           }
-        ]
+        ],
+        "current_listing_status": "Not displayed in current operator 2026/27 room list; historical grade record retained, not current advertised availability",
+        "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+        "current_listing_checked": "2026-11-01"
       },
       {
         "name": "Loft Studio",
@@ -217,7 +282,10 @@
             "weekly": 410,
             "status": "Contact provider"
           }
-        ]
+        ],
+        "current_listing_status": "Not displayed in current operator 2026/27 room list; historical grade record retained, not current advertised availability",
+        "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+        "current_listing_checked": "2026-11-01"
       },
       {
         "name": "Loft En Suite",
@@ -227,7 +295,10 @@
             "weekly": 320,
             "status": "Contact provider"
           }
-        ]
+        ],
+        "current_listing_status": "Not displayed in current operator 2026/27 room list; historical grade record retained, not current advertised availability",
+        "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+        "current_listing_checked": "2026-11-01"
       }
     ],
     "room_grades_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
@@ -239,9 +310,15 @@
     "latest_operator_audit": {
       "date": "2026-11-01",
       "official_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
-      "scope": "Public property page and accessible 2026/27 room listing; 2027/28 signals checked where exposed",
-      "note": "Seven currently displayed 2026/27 grades; five historical grades not displayed. 2027/28 selector visible, no next-year prices verified."
-    }
+      "scope": "Seven live room-list grades and five historical unlisted records; 2026/27 selector and 2027/28 selector visible",
+      "note": "Seven room-list weekly price ranges rechecked; do not equate displayed room-list CTAs with unit-level availability. 2027/28 rates not independently verified."
+    },
+    "currently_listed_room_grade_count": 7,
+    "historical_unlisted_room_grade_count": 5,
+    "current_listing_checked": "2026-11-01",
+    "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
+    "offer_checked": "2026-11-01",
+    "offer_source": "https://www.thisisfresh.com/bristol/croft-court/rooms"
   },
   {
     "name": "Zinc Quarter",
