@@ -3874,23 +3874,96 @@
   {
     "name": "Studio 58",
     "provider": "Homes for Students",
-    "area": "Bristol (precise location not verified)",
-    "from_price": null,
-    "room_types": [],
-    "bills_included": null,
+    "area": "Dighton Street, BS2",
+    "from_price": 199,
+    "room_types": [
+      "Studio"
+    ],
+    "bills_included": true,
     "offer": null,
-    "status": "Directory-listed property; operational and booking status requires operator verification",
+    "status": "Four studio grades listed; Classic Studio has 2026/27 Book Now contract rates; other grades show enquiries, final availability not verified",
     "uob_walk_min": null,
-    "source": "https://www.pbsax.com/pbsa/bristol",
-    "checked": "2026-11-01",
-    "academic_year": null,
-    "price_checked": null,
-    "pricing_status": "Unverified: no operator-confirmed current room-grade rates; do not infer 2026/27 or 2027/28",
-    "room_grades": [],
+    "source": "https://wearehomesforstudents.com/student-accommodation/bristol/studio-58",
+    "checked": "2026-11-02",
+    "academic_year": "2026/27",
+    "price_checked": "2026-11-02",
+    "pricing_status": "2026/27 official grade-detail from-prices; only Classic Studio has verified contract-specific quotes",
+    "room_grades": [
+      {
+        "name": "Standard Studio",
+        "weekly_from": 199,
+        "source": "https://wearehomesforstudents.com/student-accommodation/bristol/studio-58/standard-studio",
+        "checked": "2026-11-02",
+        "availability": "Grade-detail from-price advertised; final unit availability not confirmed",
+        "price_note": "2026/27 operator grade-detail from-price; not a quote for every advertised contract",
+        "academic_year": "2026/27"
+      },
+      {
+        "name": "Classic Studio",
+        "weekly_from": 225,
+        "source": "https://wearehomesforstudents.com/student-accommodation/bristol/studio-58/classic-studio",
+        "checked": "2026-11-02",
+        "availability": "Grade-detail from-price advertised; final unit availability not confirmed",
+        "price_note": "2026/27 operator grade-detail from-price; not a quote for every advertised contract",
+        "academic_year": "2026/27",
+        "rates": [
+          {
+            "weeks": 43,
+            "weekly": 225,
+            "check_in": "2026-11-02",
+            "check_out": "2027-08-28",
+            "booking_cta": "Book Now"
+          },
+          {
+            "weeks": 36,
+            "weekly": 225,
+            "check_in": "2026-11-02",
+            "check_out": "2027-07-10",
+            "booking_cta": "Book Now"
+          },
+          {
+            "weeks": 33,
+            "weekly": 225,
+            "check_in": "2027-01-09",
+            "check_out": "2027-08-28",
+            "booking_cta": "Book Now"
+          },
+          {
+            "weeks": 9,
+            "weekly": 225,
+            "check_in": "2026-11-02",
+            "check_out": "2027-01-02",
+            "booking_cta": "Book Now"
+          }
+        ],
+        "deposit_gbp": 150,
+        "rate_checked": "2026-11-02"
+      },
+      {
+        "name": "Premium Studio",
+        "weekly_from": 235,
+        "source": "https://wearehomesforstudents.com/student-accommodation/bristol/studio-58/premium-studio",
+        "checked": "2026-11-02",
+        "availability": "Grade-detail from-price advertised; final unit availability not confirmed",
+        "price_note": "2026/27 operator grade-detail from-price; not a quote for every advertised contract",
+        "academic_year": "2026/27"
+      },
+      {
+        "name": "Premium Plus Studio",
+        "weekly_from": 245,
+        "source": "https://wearehomesforstudents.com/student-accommodation/bristol/studio-58/premium-plus-studio",
+        "checked": "2026-11-02",
+        "availability": "Grade-detail from-price advertised; final unit availability not confirmed",
+        "price_note": "2026/27 operator grade-detail from-price; not a quote for every advertised contract",
+        "academic_year": "2026/27"
+      }
+    ],
     "discovery_source": "https://www.pbsax.com/pbsa/bristol",
     "discovery_checked": "2026-11-01",
-    "verification_status": "Discovery only: third-party Bristol PBSA directory; operator, live status and grade data pending verification",
-    "next_academic_year_status": "2027/28 not verified"
+    "verification_status": "Official operator property and grade pages confirmed",
+    "next_academic_year_status": "2027/28 year selector visible; no next-year grade-specific prices verified",
+    "next_academic_year_checked": "2026-11-02",
+    "next_academic_year_source": "https://wearehomesforstudents.com/student-accommodation/bristol/studio-58"
   },
   {
     "name": "The Manor House",
@@ -3921,18 +3994,20 @@
     "room_types": [],
     "bills_included": null,
     "offer": null,
-    "status": "Directory-listed property; operational and booking status requires operator verification",
+    "status": "Official operator Bristol directory confirms property; grade-specific rates, contracts and unit availability not yet verified",
     "uob_walk_min": null,
-    "source": "https://www.pbsax.com/pbsa/bristol",
-    "checked": "2026-11-01",
+    "source": "https://www.hellostudent.co.uk/student-accommodation/bristol",
+    "checked": "2026-11-02",
     "academic_year": null,
     "price_checked": null,
-    "pricing_status": "Unverified: no operator-confirmed current room-grade rates; do not infer 2026/27 or 2027/28",
+    "pricing_status": "No current official grade-level price verified",
     "room_grades": [],
     "discovery_source": "https://www.pbsax.com/pbsa/bristol",
     "discovery_checked": "2026-11-01",
-    "verification_status": "Discovery only: third-party Bristol PBSA directory; operator, live status and grade data pending verification",
-    "next_academic_year_status": "2027/28 not verified"
+    "verification_status": "Official Hello Student Bristol property directory confirms current listing",
+    "next_academic_year_status": "2027/28 room-grade prices not verified",
+    "last_operator_check": "2026-11-02",
+    "last_operator_check_source": "https://www.hellostudent.co.uk/student-accommodation/bristol"
   },
   {
     "name": "William & Matthew House",
@@ -3942,18 +4017,20 @@
     "room_types": [],
     "bills_included": null,
     "offer": null,
-    "status": "Directory-listed property; operational and booking status requires operator verification",
+    "status": "Official operator Bristol directory confirms property; grade-specific rates, contracts and unit availability not yet verified",
     "uob_walk_min": null,
-    "source": "https://www.pbsax.com/pbsa/bristol",
-    "checked": "2026-11-01",
+    "source": "https://www.hellostudent.co.uk/student-accommodation/bristol",
+    "checked": "2026-11-02",
     "academic_year": null,
     "price_checked": null,
-    "pricing_status": "Unverified: no operator-confirmed current room-grade rates; do not infer 2026/27 or 2027/28",
+    "pricing_status": "No current official grade-level price verified",
     "room_grades": [],
     "discovery_source": "https://www.pbsax.com/pbsa/bristol",
     "discovery_checked": "2026-11-01",
-    "verification_status": "Discovery only: third-party Bristol PBSA directory; operator, live status and grade data pending verification",
-    "next_academic_year_status": "2027/28 not verified"
+    "verification_status": "Official Hello Student Bristol property directory confirms current listing",
+    "next_academic_year_status": "2027/28 room-grade prices not verified",
+    "last_operator_check": "2026-11-02",
+    "last_operator_check_source": "https://www.hellostudent.co.uk/student-accommodation/bristol"
   },
   {
     "name": "Centre Gate",
@@ -5079,22 +5156,22 @@
   {
     "name": "Vita Student Zed Alley",
     "provider": "Vita Student",
-    "area": "Bristol (precise location not verified)",
+    "area": "35 Colston Avenue, Bristol, BS1 4TT",
     "from_price": null,
     "room_types": [],
     "bills_included": null,
     "offer": null,
-    "status": "Directory-listed property; operational and booking status requires operator verification",
+    "status": "Operator city directory confirms building; current grade prices and availability not accessible",
     "uob_walk_min": null,
-    "source": "https://www.pbsax.com/pbsa/bristol",
-    "checked": "2026-11-01",
+    "source": "https://www.vitastudent.com/en/cities/bristol/",
+    "checked": "2026-11-02",
     "academic_year": null,
     "price_checked": null,
-    "pricing_status": "Unverified: no operator-confirmed current room-grade rates; do not infer 2026/27 or 2027/28",
+    "pricing_status": "No current operator grade price verified",
     "room_grades": [],
     "discovery_source": "https://www.pbsax.com/pbsa/bristol",
     "discovery_checked": "2026-11-01",
-    "verification_status": "Discovery only: third-party Bristol PBSA directory; operator, live status and grade data pending verification",
+    "verification_status": "Official Vita Student Bristol city page confirms Zed Alley; direct detail URL redirected",
     "next_academic_year_status": "2027/28 not verified"
   },
   {
@@ -5143,18 +5220,20 @@
     "room_types": [],
     "bills_included": null,
     "offer": null,
-    "status": "Directory-listed property; operational and booking status requires operator verification",
+    "status": "Official operator Bristol directory confirms property; grade-specific rates, contracts and unit availability not yet verified",
     "uob_walk_min": null,
-    "source": "https://www.pbsax.com/pbsa/bristol",
-    "checked": "2026-11-01",
+    "source": "https://www.hellostudent.co.uk/student-accommodation/bristol",
+    "checked": "2026-11-02",
     "academic_year": null,
     "price_checked": null,
-    "pricing_status": "Unverified: no operator-confirmed current room-grade rates; do not infer 2026/27 or 2027/28",
+    "pricing_status": "No current official grade-level price verified",
     "room_grades": [],
     "discovery_source": "https://www.pbsax.com/pbsa/bristol",
     "discovery_checked": "2026-11-01",
-    "verification_status": "Discovery only: third-party Bristol PBSA directory; operator, live status and grade data pending verification",
-    "next_academic_year_status": "2027/28 not verified"
+    "verification_status": "Official Hello Student Bristol property directory confirms current listing",
+    "next_academic_year_status": "2027/28 room-grade prices not verified",
+    "last_operator_check": "2026-11-02",
+    "last_operator_check_source": "https://www.hellostudent.co.uk/student-accommodation/bristol"
   },
   {
     "name": "Stonebridge House",
@@ -5227,18 +5306,20 @@
     "room_types": [],
     "bills_included": null,
     "offer": null,
-    "status": "Directory-listed property; operational and booking status requires operator verification",
+    "status": "Official operator Bristol directory confirms property; grade-specific rates, contracts and unit availability not yet verified",
     "uob_walk_min": null,
-    "source": "https://www.pbsax.com/pbsa/bristol",
-    "checked": "2026-11-01",
+    "source": "https://www.hellostudent.co.uk/student-accommodation/bristol",
+    "checked": "2026-11-02",
     "academic_year": null,
     "price_checked": null,
-    "pricing_status": "Unverified: no operator-confirmed current room-grade rates; do not infer 2026/27 or 2027/28",
+    "pricing_status": "No current official grade-level price verified",
     "room_grades": [],
     "discovery_source": "https://www.pbsax.com/pbsa/bristol",
     "discovery_checked": "2026-11-01",
-    "verification_status": "Discovery only: third-party Bristol PBSA directory; operator, live status and grade data pending verification",
-    "next_academic_year_status": "2027/28 not verified"
+    "verification_status": "Official Hello Student Bristol property directory confirms current listing",
+    "next_academic_year_status": "2027/28 room-grade prices not verified",
+    "last_operator_check": "2026-11-02",
+    "last_operator_check_source": "https://www.hellostudent.co.uk/student-accommodation/bristol"
   },
   {
     "name": "Charlotte's Rise",
@@ -6238,5 +6319,26 @@
     "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
     "university_tariffs_checked": "2026-11-02",
     "university_tariffs_academic_year": "2026/27"
+  },
+  {
+    "name": "College House",
+    "provider": "Hello Student",
+    "area": "Bristol city centre",
+    "from_price": null,
+    "room_types": [
+      "Studio"
+    ],
+    "bills_included": true,
+    "offer": null,
+    "status": "Operator confirms newly listed studio building, aimed at postgraduates but open to all students; current booking prices unverified",
+    "uob_walk_min": 10,
+    "source": "https://www.hellostudent.co.uk/student-accommodation/bristol/college-house",
+    "checked": "2026-11-02",
+    "academic_year": null,
+    "price_checked": null,
+    "pricing_status": "No current official room-grade or contract-specific rate exposed in accessible property page",
+    "room_grades": [],
+    "verification_status": "Official Hello Student building page confirmed 2 Nov 2026",
+    "next_academic_year_status": "2027/28 room-grade prices not verified"
   }
 ]
