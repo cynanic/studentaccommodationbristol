@@ -423,7 +423,36 @@
     "next_academic_year_status": "Unite advertises UK-wide 2027/28 booking; Bristol property-specific 2027/28 rates and contracts not verified",
     "next_academic_year_source": "https://www.unitestudents.com/about-us/how-to-book",
     "next_academic_year_checked": "2026-11-02",
-    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies"
+    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 42,
+        "weekly_gbp": 237.3,
+        "beds": 329,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Studio",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 51,
+        "weekly_gbp": 316.68,
+        "beds": 5,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
   },
   {
     "name": "Water Lane House",
@@ -555,7 +584,24 @@
     "next_academic_year_status": "Unite advertises UK-wide 2027/28 booking; Bristol property-specific 2027/28 rates and contracts not verified",
     "next_academic_year_source": "https://www.unitestudents.com/about-us/how-to-book",
     "next_academic_year_checked": "2026-11-02",
-    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies"
+    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 42,
+        "weekly_gbp": 255.5,
+        "beds": 409,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
   },
   {
     "name": "Brunel House",
@@ -589,7 +635,24 @@
     "next_academic_year_status": "Unite advertises UK-wide 2027/28 booking; Bristol property-specific 2027/28 rates and contracts not verified",
     "next_academic_year_source": "https://www.unitestudents.com/about-us/how-to-book",
     "next_academic_year_checked": "2026-11-02",
-    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies"
+    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 42,
+        "weekly_gbp": 252,
+        "beds": 205,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
   },
   {
     "name": "Waterside",
@@ -2466,7 +2529,24 @@
       "official_source": "https://www.unitestudents.com/student-accommodation/bristol/favell-house",
       "scope": "Public property page and accessible 2026/27 room listing; 2027/28 signals checked where exposed",
       "note": "University of Bristol allocation reconfirmed; no directly published room/contract tariff."
-    }
+    },
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "Single room",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 39,
+        "weekly_gbp": 215.74,
+        "beds": 234,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
   },
   {
     "name": "The Rackhay",
@@ -2496,7 +2576,24 @@
       "official_source": "https://www.unitestudents.com/student-accommodation/bristol/the-rackhay",
       "scope": "Public property page and accessible 2026/27 room listing; 2027/28 signals checked where exposed",
       "note": "University of Bristol allocation reconfirmed; no directly published room/contract tariff."
-    }
+    },
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "Single room",
+        "grade": "Standard Plus",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 42,
+        "weekly_gbp": 244.65,
+        "beds": 115,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
   },
   {
     "name": "Marketgate",
@@ -2525,7 +2622,36 @@
       "official_source": "https://www.unitestudents.com/student-accommodation/bristol/marketgate",
       "scope": "Public property page and accessible 2026/27 room listing; 2027/28 signals checked where exposed",
       "note": "UWE Bristol allocation reconfirmed; no directly published room/contract tariff."
-    }
+    },
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "En suite",
+        "grade": "Basic",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 42,
+        "weekly_gbp": 210.02,
+        "beds": 24,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 42,
+        "weekly_gbp": 220.31,
+        "beds": 140,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
   },
   {
     "name": "iQ Bristol",
@@ -3039,7 +3165,24 @@
     ],
     "room_grades_source": "https://prestigestudentliving.com/student-accommodation/bristol/timber-yard",
     "room_grades_source_checked": "2026-11-01",
-    "next_academic_year_status": "2027/28 selector visible; no next-year grade-specific rate verified from default page"
+    "next_academic_year_status": "2027/28 selector visible; no next-year grade-specific rate verified from default page",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 42,
+        "weekly_gbp": 288,
+        "beds": 74,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
   },
   {
     "name": "The Port On The Square",
@@ -3290,7 +3433,48 @@
       "scope": "Official property or grade page accessed",
       "note": "University allocation explicitly confirmed: University of Bristol. No direct booking price."
     },
-    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies"
+    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "Single room",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 196,
+        "beds": 158,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 246.4,
+        "beds": 224,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Studio",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 316.68,
+        "beds": 10,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
   },
   {
     "name": "Orchard Heights",
@@ -3322,7 +3506,36 @@
     "verification_status": "Official operator property identity confirmed; grade/contract completeness varies",
     "next_academic_year_source": "https://www.unitestudents.com/student-accommodation/bristol/orchard-heights",
     "next_academic_year_checked": "2026-11-02",
-    "next_academic_year_notice": "Operator warns of weekday external facade works and possible reduced daylight during 2027/28."
+    "next_academic_year_notice": "Operator warns of weekday external facade works and possible reduced daylight during 2027/28.",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 42,
+        "weekly_gbp": 250.6,
+        "beds": 448,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Studio",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 51,
+        "weekly_gbp": 336,
+        "beds": 36,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
   },
   {
     "name": "Blenheim Court",
@@ -3369,7 +3582,72 @@
       "scope": "Official property or grade page accessed",
       "note": "University allocation explicitly confirmed: University of Bristol. No direct booking price."
     },
-    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies"
+    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "Single room",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 50,
+        "weekly_gbp": 217.87,
+        "beds": 36,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Basic",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 50,
+        "weekly_gbp": 248.12,
+        "beds": 12,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 50,
+        "weekly_gbp": 255.5,
+        "beds": 149,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Standard Plus",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 50,
+        "weekly_gbp": 263.6,
+        "beds": 9,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Studio",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 50,
+        "weekly_gbp": 310.37,
+        "beds": 20,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
   },
   {
     "name": "Waverley House",
@@ -3450,7 +3728,25 @@
     "discovery_source": "https://www.pbsax.com/pbsa/bristol",
     "discovery_checked": "2026-11-01",
     "verification_status": "Discovery only: third-party Bristol PBSA directory; operator, live status and grade data pending verification",
-    "next_academic_year_status": "2027/28 not verified"
+    "next_academic_year_status": "2027/28 not verified",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 42,
+        "weekly_gbp": 231.28,
+        "beds": 819,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27",
+    "university_tariffs_scope_note": "University names the building 'Metal Works'; existing dataset name 'Metalworks' is the same residence."
   },
   {
     "name": "Hiatt Baker Hall",
@@ -3471,7 +3767,109 @@
     "discovery_source": "https://www.pbsax.com/pbsa/bristol",
     "discovery_checked": "2026-11-01",
     "verification_status": "Discovery only: third-party Bristol PBSA directory; operator, live status and grade data pending verification",
-    "next_academic_year_status": "2027/28 not verified"
+    "next_academic_year_status": "2027/28 not verified",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "Single room with a sink",
+        "grade": "Standard",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 178.5,
+        "beds": 156,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room with a sink",
+        "grade": "Standard",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 182,
+        "beds": 59,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room",
+        "grade": "Standard Plus",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 255.5,
+        "beds": 112,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room with a sink",
+        "grade": "Standard Plus",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 259,
+        "beds": 191,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 280,
+        "beds": 206,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Studio",
+        "grade": "Standard",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 314.51,
+        "beds": 6,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Studio",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 314.65,
+        "beds": 5,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Studio",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 315.7,
+        "beds": 6,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27",
+    "university_tariffs_scope_note": "University lists catered Hiatt Baker and Hiatt Baker Self Catered; recorded under one existing hall name with catering separated."
   },
   {
     "name": "Studio 58",
@@ -3597,7 +3995,156 @@
     "discovery_source": "https://www.pbsax.com/pbsa/bristol",
     "discovery_checked": "2026-11-01",
     "verification_status": "Discovery only: third-party Bristol PBSA directory; operator, live status and grade data pending verification",
-    "next_academic_year_status": "2027/28 not verified"
+    "next_academic_year_status": "2027/28 not verified",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "Twin room",
+        "grade": "Basic",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 140,
+        "beds": 4,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Twin room with a sink",
+        "grade": "Basic",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 143.5,
+        "beds": 16,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room",
+        "grade": "Standard",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 206.01,
+        "beds": 3,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room with a sink",
+        "grade": "Standard",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 206.01,
+        "beds": 180,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room",
+        "grade": "Standard Plus",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 224,
+        "beds": 1,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Basic",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 231,
+        "beds": 131,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Standard Plus",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 238,
+        "beds": 1,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "2-bed flat",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 267.05,
+        "beds": 1,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "2-bed flat",
+        "grade": "Standard Plus",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 289.59,
+        "beds": 1,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Studio",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 301.49,
+        "beds": 5,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "1-bed flat",
+        "grade": "Standard",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 308,
+        "beds": 1,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "1-bed flat",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 322,
+        "beds": 1,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
   },
   {
     "name": "Churchill Hall",
@@ -3618,7 +4165,120 @@
     "discovery_source": "https://www.pbsax.com/pbsa/bristol",
     "discovery_checked": "2026-11-01",
     "verification_status": "Discovery only: third-party Bristol PBSA directory; operator, live status and grade data pending verification",
-    "next_academic_year_status": "2027/28 not verified"
+    "next_academic_year_status": "2027/28 not verified",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "Twin room",
+        "grade": "Standard Plus",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 143.5,
+        "beds": 4,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite twin room",
+        "grade": "Standard",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 147,
+        "beds": 4,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room",
+        "grade": "Basic",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 157.5,
+        "beds": 96,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room with a sink",
+        "grade": "Basic",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 184.8,
+        "beds": 5,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room with a sink",
+        "grade": "Standard",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 185.5,
+        "beds": 229,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room",
+        "grade": "Standard",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 206.5,
+        "beds": 8,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 245,
+        "beds": 2,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Standard Plus",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 255.5,
+        "beds": 11,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Studio",
+        "grade": "Standard",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 290.5,
+        "beds": 8,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
   },
   {
     "name": "Canvas Bristol",
@@ -3702,7 +4362,60 @@
     "discovery_source": "https://www.pbsax.com/pbsa/bristol",
     "discovery_checked": "2026-11-01",
     "verification_status": "Discovery only: third-party Bristol PBSA directory; operator, live status and grade data pending verification",
-    "next_academic_year_status": "2027/28 not verified"
+    "next_academic_year_status": "2027/28 not verified",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "Single room",
+        "grade": "Basic",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 157.5,
+        "beds": 260,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 196,
+        "beds": 12,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Basic",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 231,
+        "beds": 37,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 235.55,
+        "beds": 11,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
   },
   {
     "name": "Badock Hall",
@@ -3723,7 +4436,156 @@
     "discovery_source": "https://www.pbsax.com/pbsa/bristol",
     "discovery_checked": "2026-11-01",
     "verification_status": "Discovery only: third-party Bristol PBSA directory; operator, live status and grade data pending verification",
-    "next_academic_year_status": "2027/28 not verified"
+    "next_academic_year_status": "2027/28 not verified",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "Twin room",
+        "grade": "Basic",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 140,
+        "beds": 4,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room",
+        "grade": "Basic",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 171.5,
+        "beds": 165,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room with a sink",
+        "grade": "Basic",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 184.8,
+        "beds": 123,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room with a sink",
+        "grade": "Standard",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 195.37,
+        "beds": 2,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room with a sink",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 224,
+        "beds": 120,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Basic",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 231,
+        "beds": 9,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 231,
+        "beds": 1,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 51,
+        "weekly_gbp": 238,
+        "beds": 5,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "2-bed flat",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 292.11,
+        "beds": 1,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "2-person flat",
+        "grade": "Standard",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 292.11,
+        "beds": 2,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "1-bed flat",
+        "grade": "Standard",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 308,
+        "beds": 1,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "1-bed flat",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 308,
+        "beds": 1,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
   },
   {
     "name": "Goldney Hall",
@@ -3744,7 +4606,48 @@
     "discovery_source": "https://www.pbsax.com/pbsa/bristol",
     "discovery_checked": "2026-11-01",
     "verification_status": "Discovery only: third-party Bristol PBSA directory; operator, live status and grade data pending verification",
-    "next_academic_year_status": "2027/28 not verified"
+    "next_academic_year_status": "2027/28 not verified",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "Single room with a sink",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 233.52,
+        "beds": 157,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room with a sink",
+        "grade": "Standard Plus",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 235.2,
+        "beds": 88,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Basic",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 241.57,
+        "beds": 18,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
   },
   {
     "name": "Stoke House",
@@ -3786,7 +4689,97 @@
     "discovery_source": "https://www.pbsax.com/pbsa/bristol",
     "discovery_checked": "2026-11-01",
     "verification_status": "Discovery only: third-party Bristol PBSA directory; operator, live status and grade data pending verification",
-    "next_academic_year_status": "2027/28 not verified"
+    "next_academic_year_status": "2027/28 not verified",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 42,
+        "weekly_gbp": 209.3,
+        "beds": 163,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 51,
+        "weekly_gbp": 209.3,
+        "beds": 170,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Studio",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 42,
+        "weekly_gbp": 299.74,
+        "beds": 139,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Studio",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 51,
+        "weekly_gbp": 299.74,
+        "beds": 139,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Studio",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Couple/family",
+        "weeks": 51,
+        "weekly_gbp": 299.74,
+        "beds": 12,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "2-bed flat",
+        "grade": "Couple/family",
+        "catering": "Self-catered",
+        "student_type": "Couple/family",
+        "weeks": 51,
+        "weekly_gbp": 313.95,
+        "beds": 4,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "1-bed flat",
+        "grade": "Couple/family",
+        "catering": "Self-catered",
+        "student_type": "Couple/family",
+        "weeks": 51,
+        "weekly_gbp": 328.16,
+        "beds": 5,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27",
+    "university_tariffs_scope_note": "University tariff source groups Print Hall I and II as 'Print Hall'; figures are for the group, not independently assigned to Print Hall I. Do not double count as separate building-specific stock."
   },
   {
     "name": "Print Hall II",
@@ -3870,7 +4863,96 @@
     "discovery_source": "https://www.pbsax.com/pbsa/bristol",
     "discovery_checked": "2026-11-01",
     "verification_status": "Discovery only: third-party Bristol PBSA directory; operator, live status and grade data pending verification",
-    "next_academic_year_status": "2027/28 not verified"
+    "next_academic_year_status": "2027/28 not verified",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "Twin room",
+        "grade": "Standard",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 136.5,
+        "beds": 6,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room",
+        "grade": "Basic",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 150.64,
+        "beds": 74,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room",
+        "grade": "Standard",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 187.11,
+        "beds": 11,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room",
+        "grade": "Standard Plus",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 206.01,
+        "beds": 60,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room with a sink",
+        "grade": "Standard",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 206.01,
+        "beds": 1,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room with a sink",
+        "grade": "Standard Plus",
+        "catering": "Catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 209.93,
+        "beds": 71,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "1-bed flat",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 264.81,
+        "beds": 3,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
   },
   {
     "name": "St Lawrence House",
@@ -3912,7 +4994,24 @@
     "discovery_source": "https://www.pbsax.com/pbsa/bristol",
     "discovery_checked": "2026-11-01",
     "verification_status": "Discovery only: third-party Bristol PBSA directory; operator, live status and grade data pending verification",
-    "next_academic_year_status": "2027/28 not verified"
+    "next_academic_year_status": "2027/28 not verified",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 50,
+        "weekly_gbp": 231.81,
+        "beds": 196,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
   },
   {
     "name": "The Colston",
@@ -4017,7 +5116,24 @@
     "discovery_source": "https://www.pbsax.com/pbsa/bristol",
     "discovery_checked": "2026-11-01",
     "verification_status": "Discovery only: third-party Bristol PBSA directory; operator, live status and grade data pending verification",
-    "next_academic_year_status": "2027/28 not verified"
+    "next_academic_year_status": "2027/28 not verified",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "Single room",
+        "grade": "Standard Plus",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 51,
+        "weekly_gbp": 206.22,
+        "beds": 97,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
   },
   {
     "name": "Market Quarter Studios",
@@ -4290,7 +5406,60 @@
     "discovery_source": "https://www.pbsax.com/pbsa/bristol",
     "discovery_checked": "2026-11-01",
     "verification_status": "Discovery only: third-party Bristol PBSA directory; operator, live status and grade data pending verification",
-    "next_academic_year_status": "2027/28 not verified"
+    "next_academic_year_status": "2027/28 not verified",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "En suite",
+        "grade": "Basic",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 227.5,
+        "beds": 23,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 252,
+        "beds": 42,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Standard Plus",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 260.05,
+        "beds": 47,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "2-person flat",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 267.05,
+        "beds": 2,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
   },
   {
     "name": "Redcliff Street",
@@ -4396,5 +5565,678 @@
     "discovery_checked": "2026-11-01",
     "verification_status": "Discovery only: third-party Bristol PBSA directory; operator, live status and grade data pending verification",
     "next_academic_year_status": "2027/28 not verified"
+  },
+  {
+    "name": "Durdham Hall",
+    "provider": "University of Bristol accommodation",
+    "area": "Bristol (residence-specific location not yet verified)",
+    "from_price": null,
+    "room_types": [],
+    "bills_included": null,
+    "offer": null,
+    "status": "University of Bristol accommodation; allocation via university, not confirmed direct booking",
+    "uob_walk_min": null,
+    "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "checked": "2026-11-02",
+    "academic_year": null,
+    "price_checked": null,
+    "pricing_status": "University allocation 2026/27 rates recorded separately; no directly bookable operator quote verified",
+    "room_grades": [],
+    "booking_route": "University allocation",
+    "verification_status": "Official University of Bristol 2026/27 tariff confirmed",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "3-person flat",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 204.47,
+        "beds": 3,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Basic",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 229.6,
+        "beds": 217,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 262.5,
+        "beds": 11,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Studio",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 315.7,
+        "beds": 4,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
+  },
+  {
+    "name": "Manor Hall",
+    "provider": "University of Bristol accommodation",
+    "area": "Bristol (residence-specific location not yet verified)",
+    "from_price": null,
+    "room_types": [],
+    "bills_included": null,
+    "offer": null,
+    "status": "University of Bristol accommodation; allocation via university, not confirmed direct booking",
+    "uob_walk_min": null,
+    "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "checked": "2026-11-02",
+    "academic_year": null,
+    "price_checked": null,
+    "pricing_status": "University allocation 2026/27 rates recorded separately; no directly bookable operator quote verified",
+    "room_grades": [],
+    "booking_route": "University allocation",
+    "verification_status": "Official University of Bristol 2026/27 tariff confirmed",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "Twin room with a sink",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 136.5,
+        "beds": 22,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Twin room with a sink",
+        "grade": "Standard Plus",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 140,
+        "beds": 6,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room",
+        "grade": "Basic",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 148.19,
+        "beds": 11,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room",
+        "grade": "Basic",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 148.19,
+        "beds": 60,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room with a sink",
+        "grade": "Basic",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 148.26,
+        "beds": 29,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room with a sink",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 149.45,
+        "beds": 94,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room with a sink",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 209.37,
+        "beds": 9,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Single room with a sink",
+        "grade": "Standard Plus",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 233.52,
+        "beds": 11,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Studio",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 285.46,
+        "beds": 1,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "1-bed flat",
+        "grade": "Couple/family",
+        "catering": "Self-catered",
+        "student_type": "Couple/family",
+        "weeks": 51,
+        "weekly_gbp": 320,
+        "beds": 2,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "2-bed flat",
+        "grade": "Couple/family",
+        "catering": "Self-catered",
+        "student_type": "Couple/family",
+        "weeks": 51,
+        "weekly_gbp": 346,
+        "beds": 8,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
+  },
+  {
+    "name": "Marlborough House",
+    "provider": "University of Bristol accommodation",
+    "area": "Bristol (residence-specific location not yet verified)",
+    "from_price": null,
+    "room_types": [],
+    "bills_included": null,
+    "offer": null,
+    "status": "University of Bristol accommodation; allocation via university, not confirmed direct booking",
+    "uob_walk_min": null,
+    "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "checked": "2026-11-02",
+    "academic_year": null,
+    "price_checked": null,
+    "pricing_status": "University allocation 2026/27 rates recorded separately; no directly bookable operator quote verified",
+    "room_grades": [],
+    "booking_route": "University allocation",
+    "verification_status": "Official University of Bristol 2026/27 tariff confirmed",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "Serviced en suite",
+        "grade": "Basic",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 51,
+        "weekly_gbp": 266,
+        "beds": 6,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Serviced en suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 42,
+        "weekly_gbp": 274.75,
+        "beds": 118,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Serviced en suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 51,
+        "weekly_gbp": 274.75,
+        "beds": 118,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Serviced en suite",
+        "grade": "Standard Plus",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 42,
+        "weekly_gbp": 301,
+        "beds": 70,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Serviced en suite",
+        "grade": "Standard Plus",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 51,
+        "weekly_gbp": 301,
+        "beds": 70,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Serviced en suite",
+        "grade": "Premium",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 42,
+        "weekly_gbp": 311.5,
+        "beds": 103,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Serviced en suite",
+        "grade": "Premium",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 51,
+        "weekly_gbp": 311.5,
+        "beds": 103,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Serviced studio",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 51,
+        "weekly_gbp": 339.5,
+        "beds": 3,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27",
+    "university_tariffs_scope_note": "UG and PG term rows share the same advertised bed pool; do not sum available beds across terms."
+  },
+  {
+    "name": "Richmond Terrace",
+    "provider": "University of Bristol accommodation",
+    "area": "Bristol (residence-specific location not yet verified)",
+    "from_price": null,
+    "room_types": [],
+    "bills_included": null,
+    "offer": null,
+    "status": "University of Bristol accommodation; allocation via university, not confirmed direct booking",
+    "uob_walk_min": null,
+    "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "checked": "2026-11-02",
+    "academic_year": null,
+    "price_checked": null,
+    "pricing_status": "University allocation 2026/27 rates recorded separately; no directly bookable operator quote verified",
+    "room_grades": [],
+    "booking_route": "University allocation",
+    "verification_status": "Official University of Bristol 2026/27 tariff confirmed",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "En suite",
+        "grade": "Basic",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 227.5,
+        "beds": 27,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 234.01,
+        "beds": 66,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Studio",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 285.46,
+        "beds": 2,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
+  },
+  {
+    "name": "St Thomas Street",
+    "provider": "University of Bristol accommodation",
+    "area": "Bristol (residence-specific location not yet verified)",
+    "from_price": null,
+    "room_types": [],
+    "bills_included": null,
+    "offer": null,
+    "status": "University of Bristol accommodation; allocation via university, not confirmed direct booking",
+    "uob_walk_min": null,
+    "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "checked": "2026-11-02",
+    "academic_year": null,
+    "price_checked": null,
+    "pricing_status": "University allocation 2026/27 rates recorded separately; no directly bookable operator quote verified",
+    "room_grades": [],
+    "booking_route": "University allocation",
+    "verification_status": "Official University of Bristol 2026/27 tariff confirmed",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "En suite",
+        "grade": "Standard Plus",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 51,
+        "weekly_gbp": 255.5,
+        "beds": 322,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "2-person flat",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 51,
+        "weekly_gbp": 264.11,
+        "beds": 28,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Studio",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 51,
+        "weekly_gbp": 318.5,
+        "beds": 7,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
+  },
+  {
+    "name": "The Courtrooms",
+    "provider": "University of Bristol accommodation",
+    "area": "Bristol (residence-specific location not yet verified)",
+    "from_price": null,
+    "room_types": [],
+    "bills_included": null,
+    "offer": null,
+    "status": "University of Bristol accommodation; allocation via university, not confirmed direct booking",
+    "uob_walk_min": null,
+    "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "checked": "2026-11-02",
+    "academic_year": null,
+    "price_checked": null,
+    "pricing_status": "University allocation 2026/27 rates recorded separately; no directly bookable operator quote verified",
+    "room_grades": [],
+    "booking_route": "University allocation",
+    "verification_status": "Official University of Bristol 2026/27 tariff confirmed",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 42,
+        "weekly_gbp": 235.13,
+        "beds": 319,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Studio",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Postgraduate",
+        "weeks": 51,
+        "weekly_gbp": 332.5,
+        "beds": 29,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
+  },
+  {
+    "name": "Tower",
+    "provider": "University of Bristol accommodation",
+    "area": "Bristol (residence-specific location not yet verified)",
+    "from_price": null,
+    "room_types": [],
+    "bills_included": null,
+    "offer": null,
+    "status": "University of Bristol accommodation; allocation via university, not confirmed direct booking",
+    "uob_walk_min": null,
+    "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "checked": "2026-11-02",
+    "academic_year": null,
+    "price_checked": null,
+    "pricing_status": "University allocation 2026/27 rates recorded separately; no directly bookable operator quote verified",
+    "room_grades": [],
+    "booking_route": "University allocation",
+    "verification_status": "Official University of Bristol 2026/27 tariff confirmed",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "2 bed flat",
+        "grade": "Silver",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 42,
+        "weekly_gbp": 228.42,
+        "beds": 29,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Bronze",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 42,
+        "weekly_gbp": 240.4,
+        "beds": 28,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Silver",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 42,
+        "weekly_gbp": 253.79,
+        "beds": 14,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "2 bed flat",
+        "grade": "Bronze",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 42,
+        "weekly_gbp": 262.69,
+        "beds": 14,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "2 bed flat",
+        "grade": "Gold",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 42,
+        "weekly_gbp": 276.05,
+        "beds": 65,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
+  },
+  {
+    "name": "Winkworth House",
+    "provider": "University of Bristol accommodation",
+    "area": "Bristol (residence-specific location not yet verified)",
+    "from_price": null,
+    "room_types": [],
+    "bills_included": null,
+    "offer": null,
+    "status": "University of Bristol accommodation; allocation via university, not confirmed direct booking",
+    "uob_walk_min": null,
+    "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "checked": "2026-11-02",
+    "academic_year": null,
+    "price_checked": null,
+    "pricing_status": "University allocation 2026/27 rates recorded separately; no directly bookable operator quote verified",
+    "room_grades": [],
+    "booking_route": "University allocation",
+    "verification_status": "Official University of Bristol 2026/27 tariff confirmed",
+    "university_tariffs_2026_27": [
+      {
+        "room_type": "En suite",
+        "grade": "Basic",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 221.48,
+        "beds": 75,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "En suite",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 235.2,
+        "beds": 53,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "1-bed flat",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 264.81,
+        "beds": 1,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      },
+      {
+        "room_type": "Studio",
+        "grade": "Standard",
+        "catering": "Self-catered",
+        "student_type": "Undergraduate",
+        "weeks": 38,
+        "weekly_gbp": 285.46,
+        "beds": 3,
+        "source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+        "checked": "2026-11-02",
+        "booking_route": "University of Bristol allocation; not a directly bookable operator price"
+      }
+    ],
+    "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+    "university_tariffs_checked": "2026-11-02",
+    "university_tariffs_academic_year": "2026/27"
   }
 ]
