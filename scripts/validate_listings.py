@@ -6,7 +6,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 DATA = Path("data/properties.json")
-REQUIRED = ("name", "provider", "source", "checked", "room_types")
+REQUIRED = ("name", "provider", "source", "checked")
 def validate(rows):
     errors = []
     names = set()
@@ -20,6 +20,13 @@ def validate(rows):
         for field in REQUIRED:
             if not row.get(field):
                 errors.append(f"{tag}: missing {field}")
+        types = row.get("room_types")
+        if not isinstance(types, list) or any(not isinstance(t, str) or not t.strip() for t in types):
+            errors.append(f"{tag}: room_types must be a list of nonempty strings")
+        elif not types and row.get("from_price") is not None:
+            errors.append(f"{tag}: priced listing cannot have unknown room types")
+        elif not types and not (row.get("verification_status") or row.get("pricing_status")):
+            errors.append(f"{tag}: unknown room types require explicit verification/pricing status")
         name = str(row.get("name", "")).casefold().strip()
         if name in names:
             errors.append(f"{tag}: duplicate name {name}")
@@ -35,7 +42,7 @@ def validate(rows):
             errors.append(f"{tag}: invalid checked date")
         if urlparse(str(row.get("source", ""))).scheme != "https":
             errors.append(f"{tag}: source must be HTTPS")
-        if "academic_year" in row and row["academic_year"] is not None:
+        if "academic_year" in row and row["academic_year"] not in (None, "not verified"):
             if not __import__("re").fullmatch(r"20\d\d/\d\d", str(row["academic_year"])):
                 errors.append(f"{tag}: invalid academic_year")
     return errors
