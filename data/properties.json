@@ -3883,7 +3883,7 @@
       "Studio"
     ],
     "bills_included": true,
-    "offer": null,
+    "offer": "Free dual occupancy in eligible studios; subject to room size, contact operator for eligibility (not cashback)",
     "status": "Four studio grades listed; Classic Studio has 2026/27 Book Now contract rates; other grades show enquiries, final availability not verified",
     "uob_walk_min": null,
     "source": "https://wearehomesforstudents.com/student-accommodation/bristol/studio-58",
@@ -3966,7 +3966,9 @@
     "verification_status": "Official operator property and grade pages confirmed",
     "next_academic_year_status": "2027/28 year selector visible; no next-year grade-specific prices verified",
     "next_academic_year_checked": "2026-11-02",
-    "next_academic_year_source": "https://wearehomesforstudents.com/student-accommodation/bristol/studio-58"
+    "next_academic_year_source": "https://wearehomesforstudents.com/student-accommodation/bristol/studio-58",
+    "offer_checked": "2026-11-02",
+    "offer_source": "https://wearehomesforstudents.com/student-accommodation/bristol/studio-58/premium-plus-studio"
   },
   {
     "name": "The Manor House",
