@@ -2606,7 +2606,7 @@
     ],
     "bills_included": true,
     "offer": null,
-    "status": "Rooms allocated by UWE Bristol; booking through university accommodation team",
+    "status": "Unite page lists UWE allocation; University of Bristol also publishes 2026/27 accommodation tariffs for this building. Allocation channel and eligibility must be checked with the relevant university; not directly bookable.",
     "uob_walk_min": null,
     "source": "https://www.unitestudents.com/student-accommodation/bristol/marketgate",
     "checked": "2026-10-30",
@@ -2651,7 +2651,9 @@
     ],
     "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
     "university_tariffs_checked": "2026-11-02",
-    "university_tariffs_academic_year": "2026/27"
+    "university_tariffs_academic_year": "2026/27",
+    "booking_route": "University allocation (UWE and University of Bristol tariff sources; verify eligibility)",
+    "university_tariffs_scope_note": "Unite operator page identifies UWE allocation; University of Bristol independently publishes 2026/27 tariff entries. These may represent different nomination arrangements. Do not assume one university's price applies to the other's students."
   },
   {
     "name": "iQ Bristol",
@@ -3580,7 +3582,7 @@
       "date": "2026-11-02",
       "official_source": "https://www.unitestudents.com/student-accommodation/bristol/chantry-court",
       "scope": "Official property or grade page accessed",
-      "note": "University allocation explicitly confirmed: University of Bristol. No direct booking price."
+      "note": "University allocation explicitly confirmed: University of Bristol. No direct booking price. University of Bristol tariff separately lists postgraduate rooms, conflicting with Unite's undergraduate description."
     },
     "verification_status": "Official operator property identity confirmed; grade/contract completeness varies",
     "university_tariffs_2026_27": [
@@ -3647,7 +3649,8 @@
     ],
     "university_tariffs_source": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
     "university_tariffs_checked": "2026-11-02",
-    "university_tariffs_academic_year": "2026/27"
+    "university_tariffs_academic_year": "2026/27",
+    "university_tariffs_scope_note": "University of Bristol 2026/27 tariff labels these rooms postgraduate, while Unite's current property description refers to undergraduates. Conflicting source classifications: verify eligibility directly with the University before relying on the tariff."
   },
   {
     "name": "Waverley House",
