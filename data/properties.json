@@ -382,11 +382,14 @@
     "last_operator_check": "2026-11-01",
     "last_operator_check_source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
     "latest_operator_audit": {
-      "date": "2026-11-01",
-      "official_source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
-      "scope": "Public property page and accessible 2026/27 room listing; 2027/28 signals checked where exposed",
-      "note": "Three 2026/27 categories; advertised rates and booking signals unchanged; no 2027/28 price."
-    }
+      "date": "2026-11-02",
+      "official_source": "https://www.studentroost.co.uk/",
+      "scope": "Operator homepage and 2027/28 policy; Zinc Quarter property page timed out",
+      "note": "2027/28 VIP list reconfirmed sitewide, 2027/28 cancellation policy published October 2026; no Zinc Quarter prices reconfirmed."
+    },
+    "next_academic_year_status": "Student Roost sitewide 2027/28 rooms coming soon and VIP list live; Zinc Quarter grade-specific prices and booking status not confirmed",
+    "next_academic_year_source": "https://www.studentroost.co.uk/",
+    "next_academic_year_checked": "2026-11-02"
   },
   {
     "name": "Avon Point",
@@ -399,51 +402,59 @@
     ],
     "bills_included": true,
     "offer": null,
-    "status": "Operator advertises rooms available; room-level bookability not independently verified",
+    "status": "Operator advertises rooms available for 2026/27; individual grade and unit availability unverified",
     "uob_walk_min": null,
     "source": "https://www.unitestudents.com/student-accommodation/bristol/avon-point",
-    "checked": "2026-10-30",
+    "checked": "2026-11-02",
     "academic_year": "2026/27",
-    "price_checked": "2026-10-30",
-    "pricing_status": "Operator 2026/27 headline from-price verified 28 Oct 2026; individual room/contract matrix not exposed in page text",
-    "last_operator_check": "2026-11-01",
+    "price_checked": "2026-11-02",
+    "pricing_status": "Official 2026/27 property-level starting price only; room-grade and contract-specific prices not accessible",
+    "last_operator_check": "2026-11-02",
     "rebooking_status": "Operator displays existing-resident early rebooking link; target academic year, dates, room-grade prices and eligibility not independently confirmed",
     "rebooking_checked": "2026-11-01",
     "rebooking_source": "https://www.unitestudents.com/student-accommodation/bristol/avon-point",
     "last_operator_check_source": "https://www.unitestudents.com/student-accommodation/bristol/avon-point",
     "latest_operator_audit": {
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "official_source": "https://www.unitestudents.com/student-accommodation/bristol/avon-point",
-      "scope": "Public property page and accessible 2026/27 room listing; 2027/28 signals checked where exposed",
-      "note": "2026/27 headline £258/week unchanged; grade-by-contract booking matrix not accessible; generic resident rebooking link visible."
-    }
+      "scope": "Official property or grade page accessed",
+      "note": "2026/27 headline from £258/week rechecked; no accessible grade-specific price matrix."
+    },
+    "next_academic_year_status": "Unite advertises UK-wide 2027/28 booking; Bristol property-specific 2027/28 rates and contracts not verified",
+    "next_academic_year_source": "https://www.unitestudents.com/about-us/how-to-book",
+    "next_academic_year_checked": "2026-11-02",
+    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies"
   },
   {
     "name": "Water Lane House",
     "provider": "iQ Student Accommodation",
     "area": "BS1",
-    "from_price": 288,
+    "from_price": null,
     "room_types": [
       "Studio"
     ],
     "bills_included": true,
-    "offer": "Previously recorded cashback up to £600; not reverified 2026-10-25",
-    "status": "Studio-only building; live prices/availability could not be independently verified today",
+    "offer": null,
+    "status": "Studio-only property confirmed; live bookability and 2027/28 rates not independently accessible",
     "uob_walk_min": 25,
     "source": "https://www.iqstudentaccommodation.com/bristol/water-lane-house",
     "checked": "2026-10-13",
     "academic_year": "2026/27",
     "room_types_checked": "2026-10-30",
-    "price_checked": "2026-10-13",
-    "pricing_status": "Previously recorded headline; not reverified on operator page 2026-10-25",
-    "last_operator_check": "2026-11-01",
+    "price_checked": null,
+    "pricing_status": "No current live room-grade or contract price accessible from operator; former £288 headline archived, not current",
+    "last_operator_check": "2026-11-02",
     "last_operator_check_source": "https://www.iqstudentaccommodation.com/bristol/water-lane-house",
     "latest_operator_audit": {
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "official_source": "https://www.iqstudentaccommodation.com/bristol/water-lane-house",
-      "scope": "Public property page and accessible 2026/27 room listing; 2027/28 signals checked where exposed",
-      "note": "Studio-only property page accessible; live room quotes/booking matrix omitted from accessible HTML; no 2027/28 rates."
-    }
+      "scope": "Official property or grade page accessed",
+      "note": "Studio-only property confirmed; dynamic pricing omitted from accessible official HTML. Historical headline archived, not displayed as current."
+    },
+    "historical_headline_from_price_gbp": 288,
+    "historical_headline_checked": "2026-10-13",
+    "historical_offer": "Previously recorded cashback up to £600; not reverified 2026-10-25",
+    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies"
   },
   {
     "name": "Cathedral Park",
@@ -452,29 +463,32 @@
     "from_price": 260,
     "room_types": [
       "Studio",
-      "One-bed flat",
       "Ensuite"
     ],
     "bills_included": true,
     "offer": "Free Circuit Laundry on eligible 2026/27 en-suite bookings; terms apply",
-    "status": "Operator advertises rooms available; room-level bookability not independently verified",
+    "status": "Operator advertises rooms available for 2026/27; individual grade and unit availability unverified",
     "uob_walk_min": null,
     "source": "https://www.unitestudents.com/student-accommodation/bristol/cathedral-park",
-    "checked": "2026-10-30",
+    "checked": "2026-11-02",
     "academic_year": "2026/27",
-    "price_checked": "2026-10-30",
-    "pricing_status": "2026/27 operator headline rate reconfirmed 29 October; individual contract-grade matrix inaccessible",
-    "last_operator_check": "2026-11-01",
+    "price_checked": "2026-11-02",
+    "pricing_status": "Official 2026/27 property-level starting price only; room-grade and contract-specific prices not accessible",
+    "last_operator_check": "2026-11-02",
     "rebooking_status": "Operator displays existing-resident early rebooking link; target academic year, dates, room-grade prices and eligibility not independently confirmed",
     "rebooking_checked": "2026-11-01",
     "rebooking_source": "https://www.unitestudents.com/student-accommodation/bristol/cathedral-park",
     "last_operator_check_source": "https://www.unitestudents.com/student-accommodation/bristol/cathedral-park",
     "latest_operator_audit": {
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "official_source": "https://www.unitestudents.com/student-accommodation/bristol/cathedral-park",
-      "scope": "Public property page and accessible 2026/27 room listing; 2027/28 signals checked where exposed",
-      "note": "2026/27 headline £260/week unchanged; grade-by-contract matrix not accessible; generic rebooking link visible."
-    }
+      "scope": "Official property or grade page accessed",
+      "note": "2026/27 headline from £260/week rechecked; no accessible grade-specific price matrix."
+    },
+    "next_academic_year_status": "Unite advertises UK-wide 2027/28 booking; Bristol property-specific 2027/28 rates and contracts not verified",
+    "next_academic_year_source": "https://www.unitestudents.com/about-us/how-to-book",
+    "next_academic_year_checked": "2026-11-02",
+    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies"
   },
   {
     "name": "Phoenix Court",
@@ -482,29 +496,32 @@
     "area": "BS1",
     "from_price": 276,
     "room_types": [
-      "Ensuite",
       "Studio"
     ],
     "bills_included": true,
     "offer": "£400 retail voucher on eligible 2026/27 studio bookings; terms apply",
-    "status": "Operator advertises rooms available; room-level bookability not independently verified",
+    "status": "Operator advertises rooms available for 2026/27; individual grade and unit availability unverified",
     "uob_walk_min": null,
     "source": "https://www.unitestudents.com/student-accommodation/bristol/phoenix-court",
-    "checked": "2026-10-30",
+    "checked": "2026-11-02",
     "academic_year": "2026/27",
-    "price_checked": "2026-10-30",
-    "pricing_status": "2026/27 operator headline rate reconfirmed 29 October; individual contract-grade matrix inaccessible",
-    "last_operator_check": "2026-11-01",
+    "price_checked": "2026-11-02",
+    "pricing_status": "Official 2026/27 property-level starting price only; room-grade and contract-specific prices not accessible",
+    "last_operator_check": "2026-11-02",
     "rebooking_status": "Operator displays existing-resident early rebooking link; target academic year, dates, room-grade prices and eligibility not independently confirmed",
     "rebooking_checked": "2026-11-01",
     "rebooking_source": "https://www.unitestudents.com/student-accommodation/bristol/phoenix-court",
     "last_operator_check_source": "https://www.unitestudents.com/student-accommodation/bristol/phoenix-court",
     "latest_operator_audit": {
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "official_source": "https://www.unitestudents.com/student-accommodation/bristol/phoenix-court",
-      "scope": "Public property page and accessible 2026/27 room listing; 2027/28 signals checked where exposed",
-      "note": "2026/27 headline £276/week unchanged; grade-by-contract matrix not accessible; generic rebooking link visible."
-    }
+      "scope": "Official property or grade page accessed",
+      "note": "2026/27 headline from £276/week rechecked; no accessible grade-specific price matrix."
+    },
+    "next_academic_year_status": "Unite advertises UK-wide 2027/28 booking; Bristol property-specific 2027/28 rates and contracts not verified",
+    "next_academic_year_source": "https://www.unitestudents.com/about-us/how-to-book",
+    "next_academic_year_checked": "2026-11-02",
+    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies"
   },
   {
     "name": "Campbell House",
@@ -512,29 +529,33 @@
     "area": "BS1",
     "from_price": 317.6,
     "room_types": [
-      "Ensuite",
-      "Studio"
+      "Studio",
+      "Accessible"
     ],
     "bills_included": true,
     "offer": "£400 retail voucher on eligible 2026/27 studio bookings",
-    "status": "Operator advertises rooms available; room-level bookability not independently verified",
+    "status": "Operator advertises rooms available for 2026/27; individual grade and unit availability unverified",
     "uob_walk_min": null,
     "source": "https://www.unitestudents.com/student-accommodation/bristol/campbell-house",
-    "checked": "2026-10-30",
+    "checked": "2026-11-02",
     "academic_year": "2026/27",
-    "price_checked": "2026-10-30",
-    "pricing_status": "2026/27 operator headline rate reconfirmed 29 October; individual contract-grade matrix inaccessible",
-    "last_operator_check": "2026-11-01",
+    "price_checked": "2026-11-02",
+    "pricing_status": "Official 2026/27 property-level starting price only; room-grade and contract-specific prices not accessible",
+    "last_operator_check": "2026-11-02",
     "rebooking_status": "Operator displays existing-resident early rebooking link; target academic year, dates, room-grade prices and eligibility not independently confirmed",
     "rebooking_checked": "2026-11-01",
     "rebooking_source": "https://www.unitestudents.com/student-accommodation/bristol/campbell-house",
     "last_operator_check_source": "https://www.unitestudents.com/student-accommodation/bristol/campbell-house",
     "latest_operator_audit": {
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "official_source": "https://www.unitestudents.com/student-accommodation/bristol/campbell-house",
-      "scope": "Public property page and accessible 2026/27 room listing; 2027/28 signals checked where exposed",
-      "note": "2026/27 headline £317.60/week unchanged; grade-by-contract matrix not accessible; generic rebooking link visible."
-    }
+      "scope": "Official property or grade page accessed",
+      "note": "2026/27 headline from £317.6/week rechecked; no accessible grade-specific price matrix."
+    },
+    "next_academic_year_status": "Unite advertises UK-wide 2027/28 booking; Bristol property-specific 2027/28 rates and contracts not verified",
+    "next_academic_year_source": "https://www.unitestudents.com/about-us/how-to-book",
+    "next_academic_year_checked": "2026-11-02",
+    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies"
   },
   {
     "name": "Brunel House",
@@ -542,29 +563,33 @@
     "area": "BS1",
     "from_price": 328,
     "room_types": [
-      "Ensuite",
-      "Studio"
+      "Studio",
+      "Accessible"
     ],
     "bills_included": true,
     "offer": "£400 retail voucher on eligible 2026/27 studio bookings; terms apply",
-    "status": "Operator advertises rooms available; room-level bookability not independently verified",
+    "status": "Operator advertises rooms available for 2026/27; individual grade and unit availability unverified",
     "uob_walk_min": null,
     "source": "https://www.unitestudents.com/student-accommodation/bristol/brunel-house",
-    "checked": "2026-10-30",
+    "checked": "2026-11-02",
     "academic_year": "2026/27",
-    "price_checked": "2026-10-30",
-    "pricing_status": "2026/27 operator headline rate reconfirmed 29 October; individual contract-grade matrix inaccessible",
-    "last_operator_check": "2026-11-01",
+    "price_checked": "2026-11-02",
+    "pricing_status": "Official 2026/27 property-level starting price only; room-grade and contract-specific prices not accessible",
+    "last_operator_check": "2026-11-02",
     "rebooking_status": "Operator displays existing-resident early rebooking link; target academic year, dates, room-grade prices and eligibility not independently confirmed",
     "rebooking_checked": "2026-11-01",
     "rebooking_source": "https://www.unitestudents.com/student-accommodation/bristol/brunel-house",
     "last_operator_check_source": "https://www.unitestudents.com/student-accommodation/bristol/brunel-house",
     "latest_operator_audit": {
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "official_source": "https://www.unitestudents.com/student-accommodation/bristol/brunel-house",
-      "scope": "Public property page and accessible 2026/27 room listing; 2027/28 signals checked where exposed",
-      "note": "2026/27 headline £328/week unchanged; grade-by-contract matrix not accessible; generic rebooking link visible."
-    }
+      "scope": "Official property or grade page accessed",
+      "note": "2026/27 headline from £328/week rechecked; no accessible grade-specific price matrix."
+    },
+    "next_academic_year_status": "Unite advertises UK-wide 2027/28 booking; Bristol property-specific 2027/28 rates and contracts not verified",
+    "next_academic_year_source": "https://www.unitestudents.com/about-us/how-to-book",
+    "next_academic_year_checked": "2026-11-02",
+    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies"
   },
   {
     "name": "Waterside",
@@ -981,7 +1006,7 @@
     "price_checked": "2026-10-31",
     "pricing_status": "2026/27: 3 priced grades with 15 contract-specific quotes, 2 enquiry-only/sold out; separate 2027/28 data stored in next_academic_year_room_grades",
     "room_grades_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
-    "room_grades_source_checked": "2026-10-27",
+    "room_grades_source_checked": "2026-11-02",
     "room_grades": [
       {
         "name": "Classic 4 Bed Ensuite",
@@ -1102,26 +1127,26 @@
         "weekly_from": 260,
         "availability": "Advertised",
         "contract_weeks": [
-          44,
-          37,
+          43,
+          36,
           34,
           28,
-          9
+          8
         ],
         "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-studio",
-        "checked": "2026-10-30",
+        "checked": "2026-11-02",
         "price_note": "From price across listed contract options; not an individual contract rate",
         "availability_checked": "2026-10-30",
         "rates": [
           {
-            "weeks": 44,
+            "weeks": 43,
             "weekly": 260,
             "check_in": "2026-11-02",
             "check_out": "2027-09-04",
             "booking_cta": "Book Now; unit availability unverified"
           },
           {
-            "weeks": 37,
+            "weeks": 36,
             "weekly": 290,
             "check_in": "2026-11-02",
             "check_out": "2027-07-17",
@@ -1142,17 +1167,58 @@
             "booking_cta": "Book Now; unit availability unverified"
           },
           {
-            "weeks": 9,
+            "weeks": 8,
             "weekly": 320,
             "check_in": "2026-11-02",
             "check_out": "2027-01-02",
             "booking_cta": "Book Now; unit availability unverified"
           }
         ],
-        "rate_checked": "2026-10-31",
-        "rate_note": "Explicit 2026/27 grade-detail contract rates; 2 Nov 2026 or 4 Jan 2027 starts, £99 deposit. Distinct from 2027/28 room grades.",
+        "rate_checked": "2026-11-02",
+        "rate_note": "Current 2026/27 grade-detail shows 43/36/34/28/8-week terms; prices unchanged at £260/£290/£290/£290/£320. Historical 44/37/9 labels retained as snapshot.",
         "listing_reviewed_on": "2026-11-01",
-        "listing_review_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter"
+        "listing_review_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
+        "previous_rates_snapshot": {
+          "observed_on": "2026-10-31",
+          "rates": [
+            {
+              "weeks": 44,
+              "weekly": 260,
+              "check_in": "2026-11-02",
+              "check_out": "2027-09-04",
+              "booking_cta": "Book Now; unit availability unverified"
+            },
+            {
+              "weeks": 37,
+              "weekly": 290,
+              "check_in": "2026-11-02",
+              "check_out": "2027-07-17",
+              "booking_cta": "Book Now; unit availability unverified"
+            },
+            {
+              "weeks": 34,
+              "weekly": 290,
+              "check_in": "2027-01-04",
+              "check_out": "2027-08-30",
+              "booking_cta": "Book Now; unit availability unverified"
+            },
+            {
+              "weeks": 28,
+              "weekly": 290,
+              "check_in": "2027-01-04",
+              "check_out": "2027-07-19",
+              "booking_cta": "Book Now; unit availability unverified"
+            },
+            {
+              "weeks": 9,
+              "weekly": 320,
+              "check_in": "2026-11-02",
+              "check_out": "2027-01-02",
+              "booking_cta": "Book Now; unit availability unverified"
+            }
+          ],
+          "note": "Prior rolling-tenancy labels 44/37/34/28/9; operator grade page now lists 43/36/34/28/8."
+        }
       },
       {
         "name": "Deluxe Studio",
@@ -1185,7 +1251,7 @@
         "listing_review_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter"
       }
     ],
-    "last_operator_check": "2026-11-01",
+    "last_operator_check": "2026-11-02",
     "last_operator_check_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
     "next_academic_year": "2027/28",
     "next_academic_year_room_grades": [
@@ -1211,9 +1277,9 @@
         ],
         "deposit_gbp": 99,
         "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-5-bed-ensuite",
-        "checked": "2026-11-01",
+        "checked": "2026-11-02",
         "availability": "Operator grade-detail shows Book Now CTA; final unit availability not confirmed",
-        "source_note": "Explicit 2027/28 operator grade-detail contracts and Book Now CTA rechecked 1 Nov 2026; unit-level allocation still unverified."
+        "source_note": "2027/28 operator grade-detail 51/44-week prices rechecked 2 Nov 2026; booking CTA shown, final unit allocation unverified."
       },
       {
         "name": "Classic 3 Bed Ensuite",
@@ -1237,9 +1303,9 @@
         ],
         "deposit_gbp": 99,
         "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-bed-ensuite-3",
-        "checked": "2026-11-01",
+        "checked": "2026-11-02",
         "availability": "Operator grade-detail shows Book Now CTA; final unit availability not confirmed",
-        "source_note": "Explicit 2027/28 operator grade-detail contracts and Book Now CTA rechecked 1 Nov 2026; unit-level allocation still unverified."
+        "source_note": "2027/28 operator grade-detail 51/44-week prices rechecked 2 Nov 2026; booking CTA shown, final unit allocation unverified."
       },
       {
         "name": "5 Bed Ensuite - Courtyard View",
@@ -1263,9 +1329,9 @@
         ],
         "deposit_gbp": 99,
         "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/5-bed-ensuite-courtyard-view",
-        "checked": "2026-11-01",
+        "checked": "2026-11-02",
         "availability": "Operator grade-detail shows Book Now CTA; final unit availability not confirmed",
-        "source_note": "Explicit 2027/28 operator grade-detail contracts and Book Now CTA rechecked 1 Nov 2026; unit-level allocation still unverified."
+        "source_note": "2027/28 operator grade-detail 51/44-week prices rechecked 2 Nov 2026; booking CTA shown, final unit allocation unverified."
       },
       {
         "name": "4 Bed Ensuite - Courtyard View",
@@ -1289,9 +1355,9 @@
         ],
         "deposit_gbp": 99,
         "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/4-bed-ensuite-courtyard-view",
-        "checked": "2026-11-01",
+        "checked": "2026-11-02",
         "availability": "Operator grade-detail shows Book Now CTA; final unit availability not confirmed",
-        "source_note": "Explicit 2027/28 operator grade-detail contracts and Book Now CTA rechecked 1 Nov 2026; unit-level allocation still unverified."
+        "source_note": "2027/28 operator grade-detail 51/44-week prices rechecked 2 Nov 2026; booking CTA shown, final unit allocation unverified."
       },
       {
         "name": "Deluxe Studio - Courtyard View",
@@ -1315,19 +1381,19 @@
         ],
         "deposit_gbp": 99,
         "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/deluxe-studio-courtyard-view",
-        "checked": "2026-11-01",
+        "checked": "2026-11-02",
         "availability": "Operator grade-detail shows Book Now CTA; final unit availability not confirmed",
-        "source_note": "Explicit 2027/28 operator grade-detail contracts and Book Now CTA rechecked 1 Nov 2026; unit-level allocation still unverified."
+        "source_note": "2027/28 operator grade-detail 51/44-week prices rechecked 2 Nov 2026; booking CTA shown, final unit allocation unverified."
       }
     ],
-    "next_academic_year_status": "Five distinct 2027/28 room grades with 51/44-week operator prices and Book Now CTAs independently verified 31 Oct 2026; other 2027/28 grades not yet verified",
-    "next_academic_year_checked": "2026-10-31",
+    "next_academic_year_status": "Five 2027/28 grades, ten 51/44-week contract prices and £99 deposit reconfirmed 2 Nov 2026; no price change",
+    "next_academic_year_checked": "2026-11-02",
     "next_academic_year_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-5-bed-ensuite",
     "latest_operator_audit": {
-      "date": "2026-11-01",
-      "official_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
-      "scope": "Public property page and accessible 2026/27 room listing; 2027/28 signals checked where exposed",
-      "note": "Five 2026/27 grade statuses reviewed; five separate 2027/28 grade pages and 51/44-week rates reconfirmed; no new rates."
+      "date": "2026-11-02",
+      "official_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-studio",
+      "scope": "Five 2027/28 grade-detail pages and three 2026/27 grade-detail pages checked",
+      "note": "Five 2027/28 grades and ten prices unchanged; Classic Studio 2026/27 rolling terms now 43/36/34/28/8 weeks, while Classic Ensuite and Classic 4 Bed Ensuite detail pages still show 44/37/34/28/9. Property summary is inconsistent with two grade-detail pages."
     }
   },
   {
@@ -2472,13 +2538,13 @@
     ],
     "bills_included": true,
     "offer": null,
-    "status": "Operator advertises en-suite rooms and studios; indexed 2026/27 booking quotes found, but live bookability and current rates unverified",
+    "status": "Official building verified; ten grade records including eight indexed related-room snapshots. Current grade prices and availability inaccessible.",
     "uob_walk_min": 14,
     "source": "https://www.iqstudentaccommodation.com/bristol/iq-bristol",
     "checked": "2026-10-30",
     "academic_year": "2026/27",
     "price_checked": null,
-    "pricing_status": "Current live 2026/27 prices not verified: accessible official HTML omits room quote controls. Search-index snapshots below are historical observations only, not current advertised rates.",
+    "pricing_status": "No current live quote verified; all indexed operator price snapshots are historical, not displayed as current.",
     "room_grades": [
       {
         "name": "Gold Studio",
@@ -2548,10 +2614,122 @@
           "booking_fee_gbp": 325,
           "verification": "Historical indexed operator text only; live booking interface not independently accessible. Not a current verified price."
         }
+      },
+      {
+        "name": "Platinum Studio",
+        "weekly_from": null,
+        "availability": "Current unit availability not independently verified",
+        "indexed_operator_grade_snapshot": {
+          "from_weekly_gbp": 355,
+          "source": "https://www.iqstudentaccommodation.com/bristol/iq-bristol/gold-studio",
+          "observed_on": "2026-11-02",
+          "source_crawl": "October 2026 indexed official related-room cards; live HTML omits pricing",
+          "academic_year": "2026/27 context; room-specific academic year not independently shown in related card",
+          "verification": "Historical indexed operator card only; not current price or booking confirmation"
+        },
+        "checked": "2026-11-02"
+      },
+      {
+        "name": "Silver Studio",
+        "weekly_from": null,
+        "availability": "Current unit availability not independently verified",
+        "indexed_operator_grade_snapshot": {
+          "from_weekly_gbp": 339,
+          "source": "https://www.iqstudentaccommodation.com/bristol/iq-bristol/gold-studio",
+          "observed_on": "2026-11-02",
+          "source_crawl": "October 2026 indexed official related-room cards; live HTML omits pricing",
+          "academic_year": "2026/27 context; room-specific academic year not independently shown in related card",
+          "verification": "Historical indexed operator card only; not current price or booking confirmation"
+        },
+        "checked": "2026-11-02"
+      },
+      {
+        "name": "Silver Studio Plus",
+        "weekly_from": null,
+        "availability": "Current unit availability not independently verified",
+        "indexed_operator_grade_snapshot": {
+          "from_weekly_gbp": 352,
+          "source": "https://www.iqstudentaccommodation.com/bristol/iq-bristol/gold-studio",
+          "observed_on": "2026-11-02",
+          "source_crawl": "October 2026 indexed official related-room cards; live HTML omits pricing",
+          "academic_year": "2026/27 context; room-specific academic year not independently shown in related card",
+          "verification": "Historical indexed operator card only; not current price or booking confirmation"
+        },
+        "checked": "2026-11-02"
+      },
+      {
+        "name": "Bronze Studio Plus",
+        "weekly_from": null,
+        "availability": "Current unit availability not independently verified",
+        "indexed_operator_grade_snapshot": {
+          "from_weekly_gbp": 350,
+          "source": "https://www.iqstudentaccommodation.com/bristol/iq-bristol/gold-studio",
+          "observed_on": "2026-11-02",
+          "source_crawl": "October 2026 indexed official related-room cards; live HTML omits pricing",
+          "academic_year": "2026/27 context; room-specific academic year not independently shown in related card",
+          "verification": "Historical indexed operator card only; not current price or booking confirmation"
+        },
+        "checked": "2026-11-02"
+      },
+      {
+        "name": "Gold En Suite",
+        "weekly_from": null,
+        "availability": "Current unit availability not independently verified",
+        "indexed_operator_grade_snapshot": {
+          "from_weekly_gbp": 295,
+          "source": "https://www.iqstudentaccommodation.com/bristol/iq-bristol/gold-studio",
+          "observed_on": "2026-11-02",
+          "source_crawl": "October 2026 indexed official related-room cards; live HTML omits pricing",
+          "academic_year": "2026/27 context; room-specific academic year not independently shown in related card",
+          "verification": "Historical indexed operator card only; not current price or booking confirmation"
+        },
+        "checked": "2026-11-02"
+      },
+      {
+        "name": "Gold En Suite Plus",
+        "weekly_from": null,
+        "availability": "Current unit availability not independently verified",
+        "indexed_operator_grade_snapshot": {
+          "from_weekly_gbp": 293,
+          "source": "https://www.iqstudentaccommodation.com/bristol/iq-bristol/gold-studio",
+          "observed_on": "2026-11-02",
+          "source_crawl": "October 2026 indexed official related-room cards; live HTML omits pricing",
+          "academic_year": "2026/27 context; room-specific academic year not independently shown in related card",
+          "verification": "Historical indexed operator card only; not current price or booking confirmation"
+        },
+        "checked": "2026-11-02"
+      },
+      {
+        "name": "Gold Studio Plus",
+        "weekly_from": null,
+        "availability": "Current unit availability not independently verified",
+        "indexed_operator_grade_snapshot": {
+          "from_weekly_gbp": 329,
+          "source": "https://www.iqstudentaccommodation.com/bristol/iq-bristol/gold-studio",
+          "observed_on": "2026-11-02",
+          "source_crawl": "October 2026 indexed official related-room cards; live HTML omits pricing",
+          "academic_year": "2026/27 context; room-specific academic year not independently shown in related card",
+          "verification": "Historical indexed operator card only; not current price or booking confirmation"
+        },
+        "checked": "2026-11-02"
+      },
+      {
+        "name": "Diamond Studio",
+        "weekly_from": null,
+        "availability": "Current unit availability not independently verified",
+        "indexed_operator_grade_snapshot": {
+          "from_weekly_gbp": 405,
+          "source": "https://www.iqstudentaccommodation.com/bristol/iq-bristol/gold-studio",
+          "observed_on": "2026-11-02",
+          "source_crawl": "October 2026 indexed official related-room cards; live HTML omits pricing",
+          "academic_year": "2026/27 context; room-specific academic year not independently shown in related card",
+          "verification": "Historical indexed operator card only; not current price or booking confirmation"
+        },
+        "checked": "2026-11-02"
       }
     ],
     "next_academic_year_status": "2027/28 prices not verified",
-    "last_operator_check": "2026-11-01",
+    "last_operator_check": "2026-11-02",
     "last_operator_check_source": "https://www.iqstudentaccommodation.com/bristol/iq-bristol",
     "latest_operator_audit": {
       "date": "2026-11-01",
@@ -3035,15 +3213,26 @@
     "room_types": [],
     "bills_included": null,
     "offer": null,
-    "status": "Named on Unite Students' official Bristol property directory; individual booking details not verified",
+    "status": "Rooms allocated by University of the West of England; not directly bookable on Unite property page",
     "uob_walk_min": null,
-    "source": "https://www.unitestudents.com/student-accommodation/bristol",
-    "checked": "2026-11-01",
+    "source": "https://www.unitestudents.com/student-accommodation/bristol/cherry-court",
+    "checked": "2026-11-02",
     "academic_year": null,
     "price_checked": null,
-    "pricing_status": "No current operator room-grade or academic-year price verified",
+    "pricing_status": "University-allocated; no current room-grade tariffs verified",
     "room_grades": [],
-    "next_academic_year_status": "Not verified"
+    "next_academic_year_status": "2027/28 individual prices not verified",
+    "booking_route": "University allocation",
+    "allocation_university": "University of the West of England",
+    "last_operator_check": "2026-11-02",
+    "last_operator_check_source": "https://www.unitestudents.com/student-accommodation/bristol/cherry-court",
+    "latest_operator_audit": {
+      "date": "2026-11-02",
+      "official_source": "https://www.unitestudents.com/student-accommodation/bristol/cherry-court",
+      "scope": "Official property or grade page accessed",
+      "note": "University allocation explicitly confirmed: University of the West of England. No direct booking price."
+    },
+    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies"
   },
   {
     "name": "Nelson House and Drake House",
@@ -3053,15 +3242,26 @@
     "room_types": [],
     "bills_included": null,
     "offer": null,
-    "status": "Named on Unite Students' official Bristol property directory; individual booking details not verified",
+    "status": "Rooms allocated by University of the West of England; not directly bookable on Unite property page",
     "uob_walk_min": null,
-    "source": "https://www.unitestudents.com/student-accommodation/bristol",
-    "checked": "2026-11-01",
+    "source": "https://www.unitestudents.com/student-accommodation/bristol/nelson-house-and-drake-house",
+    "checked": "2026-11-02",
     "academic_year": null,
     "price_checked": null,
-    "pricing_status": "No current operator room-grade or academic-year price verified",
+    "pricing_status": "University-allocated; no current room-grade tariffs verified",
     "room_grades": [],
-    "next_academic_year_status": "Not verified"
+    "next_academic_year_status": "2027/28 individual prices not verified",
+    "booking_route": "University allocation",
+    "allocation_university": "University of the West of England",
+    "last_operator_check": "2026-11-02",
+    "last_operator_check_source": "https://www.unitestudents.com/student-accommodation/bristol/nelson-house-and-drake-house",
+    "latest_operator_audit": {
+      "date": "2026-11-02",
+      "official_source": "https://www.unitestudents.com/student-accommodation/bristol/nelson-house-and-drake-house",
+      "scope": "Official property or grade page accessed",
+      "note": "University allocation explicitly confirmed: University of the West of England. No direct booking price."
+    },
+    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies"
   },
   {
     "name": "Unite House",
@@ -3071,15 +3271,26 @@
     "room_types": [],
     "bills_included": null,
     "offer": null,
-    "status": "Named on Unite Students' official Bristol property directory; individual booking details not verified",
+    "status": "Rooms allocated by University of Bristol; not directly bookable on Unite property page",
     "uob_walk_min": null,
-    "source": "https://www.unitestudents.com/student-accommodation/bristol",
-    "checked": "2026-11-01",
+    "source": "https://www.unitestudents.com/student-accommodation/bristol/unite-house",
+    "checked": "2026-11-02",
     "academic_year": null,
     "price_checked": null,
-    "pricing_status": "No current operator room-grade or academic-year price verified",
+    "pricing_status": "University-allocated; no current room-grade tariffs verified",
     "room_grades": [],
-    "next_academic_year_status": "Not verified"
+    "next_academic_year_status": "2027/28 individual prices not verified",
+    "booking_route": "University allocation",
+    "allocation_university": "University of Bristol",
+    "last_operator_check": "2026-11-02",
+    "last_operator_check_source": "https://www.unitestudents.com/student-accommodation/bristol/unite-house",
+    "latest_operator_audit": {
+      "date": "2026-11-02",
+      "official_source": "https://www.unitestudents.com/student-accommodation/bristol/unite-house",
+      "scope": "Official property or grade page accessed",
+      "note": "University allocation explicitly confirmed: University of Bristol. No direct booking price."
+    },
+    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies"
   },
   {
     "name": "Orchard Heights",
@@ -3089,15 +3300,29 @@
     "room_types": [],
     "bills_included": null,
     "offer": null,
-    "status": "Named on Unite Students' official Bristol property directory; individual booking details not verified",
+    "status": "Rooms allocated by University of Bristol; not directly bookable on Unite property page",
     "uob_walk_min": null,
-    "source": "https://www.unitestudents.com/student-accommodation/bristol",
-    "checked": "2026-11-01",
+    "source": "https://www.unitestudents.com/student-accommodation/bristol/orchard-heights",
+    "checked": "2026-11-02",
     "academic_year": null,
     "price_checked": null,
-    "pricing_status": "No current operator room-grade or academic-year price verified",
+    "pricing_status": "University-allocated; no current room-grade tariffs verified",
     "room_grades": [],
-    "next_academic_year_status": "Not verified"
+    "next_academic_year_status": "2027/28 planned external facade/building works Mon-Fri 09:00-17:00; noise and reduced daylight warned by operator; allocated by University of Bristol",
+    "booking_route": "University allocation",
+    "allocation_university": "University of Bristol",
+    "last_operator_check": "2026-11-02",
+    "last_operator_check_source": "https://www.unitestudents.com/student-accommodation/bristol/orchard-heights",
+    "latest_operator_audit": {
+      "date": "2026-11-02",
+      "official_source": "https://www.unitestudents.com/student-accommodation/bristol/orchard-heights",
+      "scope": "Official property or grade page accessed",
+      "note": "University allocation explicitly confirmed: University of Bristol. No direct booking price."
+    },
+    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies",
+    "next_academic_year_source": "https://www.unitestudents.com/student-accommodation/bristol/orchard-heights",
+    "next_academic_year_checked": "2026-11-02",
+    "next_academic_year_notice": "Operator warns of weekday external facade works and possible reduced daylight during 2027/28."
   },
   {
     "name": "Blenheim Court",
@@ -3125,15 +3350,26 @@
     "room_types": [],
     "bills_included": null,
     "offer": null,
-    "status": "Named on Unite Students' official Bristol property directory; individual booking details not verified",
+    "status": "Rooms allocated by University of Bristol; not directly bookable on Unite property page",
     "uob_walk_min": null,
-    "source": "https://www.unitestudents.com/student-accommodation/bristol",
-    "checked": "2026-11-01",
+    "source": "https://www.unitestudents.com/student-accommodation/bristol/chantry-court",
+    "checked": "2026-11-02",
     "academic_year": null,
     "price_checked": null,
-    "pricing_status": "No current operator room-grade or academic-year price verified",
+    "pricing_status": "University-allocated; no current room-grade tariffs verified",
     "room_grades": [],
-    "next_academic_year_status": "Not verified"
+    "next_academic_year_status": "2027/28 individual prices not verified",
+    "booking_route": "University allocation",
+    "allocation_university": "University of Bristol",
+    "last_operator_check": "2026-11-02",
+    "last_operator_check_source": "https://www.unitestudents.com/student-accommodation/bristol/chantry-court",
+    "latest_operator_audit": {
+      "date": "2026-11-02",
+      "official_source": "https://www.unitestudents.com/student-accommodation/bristol/chantry-court",
+      "scope": "Official property or grade page accessed",
+      "note": "University allocation explicitly confirmed: University of Bristol. No direct booking price."
+    },
+    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies"
   },
   {
     "name": "Waverley House",
