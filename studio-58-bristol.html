@@ -1,0 +1,34 @@
+<!doctype html><html lang="en-GB"><head><script>/* Browser analytics exclusion: runs before GA4. */(function () {
+  var key = 'sab_exclude_analytics';
+  var measurement = 'G-Q8XVFCXB8H';
+  var params = new URLSearchParams(window.location.search);
+  var action = params.get('exclude_me');
+  var excluded = false;
+  var saved = true;
+  try {
+    if (action === '1') localStorage.setItem(key, '1');
+    if (action === '0') localStorage.removeItem(key);
+    excluded = localStorage.getItem(key) === '1';
+  } catch (_) {
+    saved = false;
+    excluded = action === '1';
+  }
+  window['ga-disable-' + measurement] = excluded;
+  if (action !== '1' && action !== '0') return;
+  document.addEventListener('DOMContentLoaded', function () {
+    var notice = document.createElement('div');
+    notice.setAttribute('role', 'status');
+    notice.style.cssText = 'padding:20px;background:#123b32;color:white;font:600 17px/1.5 system-ui;text-align:center';
+    notice.textContent = !saved
+      ? 'Browser storage is blocked. This setting could not be saved. Enable website storage and open this link again.'
+      : excluded
+        ? 'Your visits are excluded from Google Analytics in this browser. Browse normally from here.'
+        : 'Google Analytics is enabled again in this browser.';
+    document.body.insertBefore(notice, document.body.firstChild);
+    if (saved && window.history && window.history.replaceState) {
+      params.delete('exclude_me');
+      var query = params.toString();
+      window.history.replaceState(null, '', window.location.pathname + (query ? '?' + query : '') + window.location.hash);
+    }
+  });
+})();</script><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Studio 58 Bristol | 2026/27 Studio Prices & Contract Lengths</title><meta name="description" content="Studio 58 Bristol: official 2026/27 Standard, Classic, Premium and Premium Plus studio prices, with verified Classic Studio contract rates."><link rel="canonical" href="https://studentaccommodationbristol.com/studio-58-bristol.html"><link rel="stylesheet" href="/styles.css"><meta name="robots" content="index,follow"><script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8XVFCXB8H"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-Q8XVFCXB8H');</script></head><body><header><nav class="nav"><a class="brand" href="/">Student Accommodation Bristol</a><div class="navlinks"><a href="/properties.html">Properties</a><a href="/student-accommodation-bristol-2027-28.html">2027/28</a></div></nav></header><main class="page"><div class="wrap prose"><div class="breadcrumbs"><a href="/">Home</a> / <a href="/properties.html">Properties</a> / Studio 58</div><div class="eyebrow">Homes for Students · Dighton Street, BS2</div><h1>Studio 58 Bristol: room prices and contracts</h1><p class="lead">Four self-contained studio categories in Bristol city centre. All figures below relate to 2026/27 and were checked against the operator's official grade pages on 2 November 2026.</p><div class="notice">The operator shows a 2027/28 selector, but no next-year room-grade prices have been independently confirmed. Do not confuse the 2026/27 rolling-term prices with September 2027 contracts. A grade-level from-price does not confirm an available unit.</div><table><thead><tr><th>Room grade</th><th>2026/27 from</th><th>Verified contracts</th></tr></thead><tbody><tr><td><a href="https://wearehomesforstudents.com/student-accommodation/bristol/studio-58/standard-studio">Standard Studio</a></td><td>£199/week</td><td>Grade from-price only; exact contract quotes not confirmed</td></tr><tr><td><a href="https://wearehomesforstudents.com/student-accommodation/bristol/studio-58/classic-studio">Classic Studio</a></td><td>£225/week</td><td>43, 36, 33 and 9 weeks at £225/week</td></tr><tr><td><a href="https://wearehomesforstudents.com/student-accommodation/bristol/studio-58/premium-studio">Premium Studio</a></td><td>£235/week</td><td>Grade from-price only; exact contract quotes not confirmed</td></tr><tr><td><a href="https://wearehomesforstudents.com/student-accommodation/bristol/studio-58/premium-plus-studio">Premium Plus Studio</a></td><td>£245/week</td><td>Grade from-price only; exact contract quotes not confirmed</td></tr></tbody></table><h2>Classic Studio: confirmed 2026/27 contracts</h2><p>The operator advertises four Book Now options, all at £225/week, with a £150 deposit. Final room allocation remains subject to the booking process.</p><table><thead><tr><th>Length</th><th>Dates</th><th>Weekly rent</th></tr></thead><tbody><tr><td>43 weeks</td><td>2026-11-02 to 2027-08-28</td><td>£225</td></tr><tr><td>36 weeks</td><td>2026-11-02 to 2027-07-10</td><td>£225</td></tr><tr><td>33 weeks</td><td>2027-01-09 to 2027-08-28</td><td>£225</td></tr><tr><td>9 weeks</td><td>2026-11-02 to 2027-01-02</td><td>£225</td></tr></tbody></table><p><a class="cta outbound" href="https://wearehomesforstudents.com/student-accommodation/bristol/studio-58?utm_source=studentaccommodationbristol&utm_medium=referral&utm_campaign=property_guide" target="_blank" rel="noopener">Check Studio 58 with Homes for Students ↗</a></p></div></main><footer><div class="wrap">Independent guide. Prices and availability can change. Source checked 2 November 2026.</div></footer><script defer src="/provider-tracking.js"></script></body></html>
