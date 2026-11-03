@@ -10,7 +10,7 @@
     ],
     "bills_included": true,
     "offer": "£1,000 cashback offer advertised on operator room list for selected 2026/27 grades; terms and eligibility apply",
-    "status": "Seven 2026/27 room grades currently shown; five historical grades not on current list. Final unit-level availability unverified.",
+    "status": "Twelve grades displayed in 2026/27 operator room list; some sold out or contact-only. Grade-level status differs from room-list CTA.",
     "uob_walk_min": null,
     "source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/prs?utm_source=studentaccommodationbristol&utm_medium=referral&utm_campaign=property_guide",
     "checked": "2026-10-30",
@@ -41,9 +41,9 @@
         "room_listing_checked": "2026-10-30",
         "listing_reviewed_on": "2026-11-01",
         "listing_review_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
-        "current_listing_status": "Displayed on official 2026/27 room list; unit-level availability not established",
+        "current_listing_status": "Displayed on operator 2026/27 room list; check individual grade for booking status",
         "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
-        "current_listing_checked": "2026-11-01",
+        "current_listing_checked": "2026-11-03",
         "room_list_price_note": "Operator room-list price range; do not infer which weekly rate belongs to each contract without checking grade detail"
       },
       {
@@ -75,9 +75,9 @@
           44,
           51
         ],
-        "current_listing_status": "Displayed on official 2026/27 room list; unit-level availability not established",
+        "current_listing_status": "Displayed on operator 2026/27 room list; check individual grade for booking status",
         "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
-        "current_listing_checked": "2026-11-01",
+        "current_listing_checked": "2026-11-03",
         "room_list_price_note": "Operator room-list price range; do not infer which weekly rate belongs to each contract without checking grade detail"
       },
       {
@@ -108,9 +108,9 @@
           44,
           51
         ],
-        "current_listing_status": "Displayed on official 2026/27 room list; unit-level availability not established",
+        "current_listing_status": "Displayed on operator 2026/27 room list; check individual grade for booking status",
         "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
-        "current_listing_checked": "2026-11-01",
+        "current_listing_checked": "2026-11-03",
         "room_list_price_note": "Operator room-list price range; do not infer which weekly rate belongs to each contract without checking grade detail"
       },
       {
@@ -141,9 +141,9 @@
           44,
           51
         ],
-        "current_listing_status": "Displayed on official 2026/27 room list; unit-level availability not established",
+        "current_listing_status": "Displayed on operator 2026/27 room list; check individual grade for booking status",
         "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
-        "current_listing_checked": "2026-11-01",
+        "current_listing_checked": "2026-11-03",
         "room_list_price_note": "Operator room-list price range; do not infer which weekly rate belongs to each contract without checking grade detail"
       },
       {
@@ -174,9 +174,9 @@
           44,
           51
         ],
-        "current_listing_status": "Displayed on official 2026/27 room list; unit-level availability not established",
+        "current_listing_status": "Displayed on operator 2026/27 room list; check individual grade for booking status",
         "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
-        "current_listing_checked": "2026-11-01",
+        "current_listing_checked": "2026-11-03",
         "room_list_price_note": "Operator room-list price range; do not infer which weekly rate belongs to each contract without checking grade detail"
       },
       {
@@ -207,9 +207,9 @@
           44,
           51
         ],
-        "current_listing_status": "Displayed on official 2026/27 room list; unit-level availability not established",
+        "current_listing_status": "Displayed on operator 2026/27 room list; check individual grade for booking status",
         "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
-        "current_listing_checked": "2026-11-01",
+        "current_listing_checked": "2026-11-03",
         "room_list_price_note": "Operator room-list price range; do not infer which weekly rate belongs to each contract without checking grade detail"
       },
       {
@@ -228,9 +228,9 @@
         "room_listing_checked": "2026-10-30",
         "listing_reviewed_on": "2026-11-01",
         "listing_review_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
-        "current_listing_status": "Displayed on official 2026/27 room list; unit-level availability not established",
+        "current_listing_status": "Displayed on operator 2026/27 room list; check individual grade for booking status",
         "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
-        "current_listing_checked": "2026-11-01",
+        "current_listing_checked": "2026-11-03",
         "room_list_price_note": "Operator room-list price range; do not infer which weekly rate belongs to each contract without checking grade detail"
       },
       {
@@ -243,9 +243,9 @@
           }
         ],
         "source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/aps",
-        "current_listing_status": "Not displayed in current operator 2026/27 room list; historical grade record retained, not current advertised availability",
+        "current_listing_status": "Displayed on operator 2026/27 room list; check individual grade for booking status",
         "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
-        "current_listing_checked": "2026-11-01"
+        "current_listing_checked": "2026-11-03"
       },
       {
         "name": "Accessible Deluxe En Suite",
@@ -257,9 +257,9 @@
           }
         ],
         "source": "https://www.thisisfresh.com/bristol/croft-court/gradedetail/desa",
-        "current_listing_status": "Not displayed in current operator 2026/27 room list; historical grade record retained, not current advertised availability",
+        "current_listing_status": "Displayed on operator 2026/27 room list; check individual grade for booking status",
         "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
-        "current_listing_checked": "2026-11-01"
+        "current_listing_checked": "2026-11-03"
       },
       {
         "name": "Deluxe Loft En Suite",
@@ -270,9 +270,9 @@
             "status": "Contact provider"
           }
         ],
-        "current_listing_status": "Not displayed in current operator 2026/27 room list; historical grade record retained, not current advertised availability",
+        "current_listing_status": "Displayed on operator 2026/27 room list; check individual grade for booking status",
         "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
-        "current_listing_checked": "2026-11-01"
+        "current_listing_checked": "2026-11-03"
       },
       {
         "name": "Loft Studio",
@@ -283,9 +283,9 @@
             "status": "Contact provider"
           }
         ],
-        "current_listing_status": "Not displayed in current operator 2026/27 room list; historical grade record retained, not current advertised availability",
+        "current_listing_status": "Displayed on operator 2026/27 room list; check individual grade for booking status",
         "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
-        "current_listing_checked": "2026-11-01"
+        "current_listing_checked": "2026-11-03"
       },
       {
         "name": "Loft En Suite",
@@ -296,26 +296,26 @@
             "status": "Contact provider"
           }
         ],
-        "current_listing_status": "Not displayed in current operator 2026/27 room list; historical grade record retained, not current advertised availability",
+        "current_listing_status": "Displayed on operator 2026/27 room list; check individual grade for booking status",
         "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
-        "current_listing_checked": "2026-11-01"
+        "current_listing_checked": "2026-11-03"
       }
     ],
     "room_grades_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
     "room_grades_source_checked": "2026-10-27",
     "operator_page_summary_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
     "next_academic_year_status": "2027/28 selector visible; no verified 2027/28 prices",
-    "last_operator_check": "2026-11-01",
+    "last_operator_check": "2026-11-03",
     "last_operator_check_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
     "latest_operator_audit": {
-      "date": "2026-11-01",
+      "date": "2026-11-03",
       "official_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
-      "scope": "Seven live room-list grades and five historical unlisted records; 2026/27 selector and 2027/28 selector visible",
-      "note": "Seven room-list weekly price ranges rechecked; do not equate displayed room-list CTAs with unit-level availability. 2027/28 rates not independently verified."
+      "scope": "All twelve 2026/27 grades visible on official listing; contract-level booking status must be checked on grade detail pages",
+      "note": "Correction to prior seven-grade classification. 2027/28 grade prices not verified."
     },
-    "currently_listed_room_grade_count": 7,
-    "historical_unlisted_room_grade_count": 5,
-    "current_listing_checked": "2026-11-01",
+    "currently_listed_room_grade_count": 12,
+    "historical_unlisted_room_grade_count": 0,
+    "current_listing_checked": "2026-11-03",
     "current_listing_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
     "offer_checked": "2026-11-01",
     "offer_source": "https://www.thisisfresh.com/bristol/croft-court/rooms"
