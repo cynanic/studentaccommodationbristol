@@ -1314,8 +1314,8 @@
         "listing_review_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter"
       }
     ],
-    "last_operator_check": "2026-11-04",
-    "last_operator_check_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-bed-ensuite-3",
+    "last_operator_check": "2026-11-05",
+    "last_operator_check_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/5-bed-ensuite-courtyard-view",
     "next_academic_year": "2027/28",
     "next_academic_year_room_grades": [
       {
@@ -1392,9 +1392,9 @@
         ],
         "deposit_gbp": 99,
         "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/5-bed-ensuite-courtyard-view",
-        "checked": "2026-11-02",
+        "checked": "2026-11-05",
         "availability": "Operator grade-detail shows Book Now CTA; final unit availability not confirmed",
-        "source_note": "2027/28 operator grade-detail 51/44-week prices rechecked 2 Nov 2026; booking CTA shown, final unit allocation unverified."
+        "source_note": "Official operator 2027/28 grade page checked 5 Nov 2026: £174 for 51 weeks and £178 for 44 weeks, £99 deposit, Book Now CTA; unit allocation not independently confirmed."
       },
       {
         "name": "4 Bed Ensuite - Courtyard View",
@@ -1449,8 +1449,8 @@
         "source_note": "Official 2027/28 grade-detail rechecked 4 Nov 2026: both 51- and 44-week rates unchanged; £99 deposit; Book Now CTA, not proof of final unit availability."
       }
     ],
-    "next_academic_year_status": "Three of five 2027/28 grade-detail pages rechecked 4 Nov 2026: six contract prices unchanged; two grades not rechecked today. One stale source URL corrected.",
-    "next_academic_year_checked": "2026-11-04",
+    "next_academic_year_status": "5 Bed Ensuite Courtyard View 2027/28 rates reconfirmed 5 Nov; four other next-year grades retain earlier dated checks.",
+    "next_academic_year_checked": "2026-11-05",
     "next_academic_year_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-5-bed-ensuite",
     "latest_operator_audit": {
       "date": "2026-11-04",
