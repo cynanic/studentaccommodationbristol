@@ -1340,9 +1340,9 @@
         ],
         "deposit_gbp": 99,
         "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-5-bed-ensuite",
-        "checked": "2026-11-02",
+        "checked": "2026-11-06",
         "availability": "Operator grade-detail shows Book Now CTA; final unit availability not confirmed",
-        "source_note": "2027/28 operator grade-detail 51/44-week prices rechecked 2 Nov 2026; booking CTA shown, final unit allocation unverified."
+        "source_note": "Official 2027/28 operator grade page rechecked 6 Nov 2026: 51/44-week rates unchanged; £99 deposit; Book Now CTA, unit inventory unverified."
       },
       {
         "name": "Classic 3 Bed Ensuite",
@@ -1366,9 +1366,9 @@
         ],
         "deposit_gbp": 99,
         "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-bed-ensuite-3",
-        "checked": "2026-11-04",
+        "checked": "2026-11-06",
         "availability": "Operator grade-detail shows Book Now CTA; final unit availability not confirmed",
-        "source_note": "Official 2027/28 grade-detail rechecked 4 Nov 2026: both 51- and 44-week rates unchanged; £99 deposit; Book Now CTA, not proof of final unit availability."
+        "source_note": "Official 2027/28 operator grade page rechecked 6 Nov 2026: 51/44-week rates unchanged; £99 deposit; Book Now CTA, unit inventory unverified."
       },
       {
         "name": "5 Bed Ensuite - Courtyard View",
@@ -1392,9 +1392,9 @@
         ],
         "deposit_gbp": 99,
         "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/5-bed-ensuite-courtyard-view",
-        "checked": "2026-11-05",
+        "checked": "2026-11-06",
         "availability": "Operator grade-detail shows Book Now CTA; final unit availability not confirmed",
-        "source_note": "Official operator 2027/28 grade page checked 5 Nov 2026: £174 for 51 weeks and £178 for 44 weeks, £99 deposit, Book Now CTA; unit allocation not independently confirmed."
+        "source_note": "Official 2027/28 operator grade page rechecked 6 Nov 2026: 51/44-week rates unchanged; £99 deposit; Book Now CTA, unit inventory unverified."
       },
       {
         "name": "4 Bed Ensuite - Courtyard View",
@@ -1417,10 +1417,10 @@
           }
         ],
         "deposit_gbp": 99,
-        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/bed-ensuite-courtyard-view-4",
-        "checked": "2026-11-04",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/4-bed-ensuite-courtyard-view",
+        "checked": "2026-11-06",
         "availability": "Operator grade-detail shows Book Now CTA; final unit availability not confirmed",
-        "source_note": "2027/28 official grade-detail rechecked 4 Nov 2026: £174 51 weeks and £178 44 weeks, £99 deposit, Book Now CTA; unit-level availability not independently confirmed. Corrected stale URL slug."
+        "source_note": "Official 2027/28 operator grade page rechecked 6 Nov 2026: 51/44-week rates unchanged; £99 deposit; Book Now CTA, unit inventory unverified."
       },
       {
         "name": "Deluxe Studio - Courtyard View",
@@ -1444,19 +1444,18 @@
         ],
         "deposit_gbp": 99,
         "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/deluxe-studio-courtyard-view",
-        "checked": "2026-11-04",
+        "checked": "2026-11-06",
         "availability": "Operator grade-detail shows Book Now CTA; final unit availability not confirmed",
-        "source_note": "Official 2027/28 grade-detail rechecked 4 Nov 2026: both 51- and 44-week rates unchanged; £99 deposit; Book Now CTA, not proof of final unit availability."
+        "source_note": "Official 2027/28 operator grade page rechecked 6 Nov 2026: 51/44-week rates unchanged; £99 deposit; Book Now CTA, unit inventory unverified."
       }
     ],
     "next_academic_year_status": "5 Bed Ensuite Courtyard View 2027/28 rates reconfirmed 5 Nov; four other next-year grades retain earlier dated checks.",
-    "next_academic_year_checked": "2026-11-05",
+    "next_academic_year_checked": "2026-11-06",
     "next_academic_year_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-5-bed-ensuite",
     "latest_operator_audit": {
-      "date": "2026-11-04",
-      "official_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-bed-ensuite-3",
-      "scope": "Three 2027/28 grade pages (6 rates) and three distinct 2026/27 grade pages inspected",
-      "note": "2027/28 rates unchanged. 2026/27 current page variants disagree with stored rolling contracts; retain previously verified historical rates until exact booking route is reconciled. Official URLs /classic-4-bed-ensuite and /classic-bed-ensuite-4 have different rate schedules, so do not merge them."
+      "checked": "2026-11-06",
+      "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
+      "finding": "Five distinct 2027/28 grades and ten 51/44-week rates unchanged on official grade pages; £99 deposit; booking CTA not unit-level availability. Separate 2026/27 rolling contracts remain unresolved."
     }
   },
   {
@@ -2078,36 +2077,56 @@
         "name": "Ensuite with Balcony",
         "weekly_from": 294,
         "contract_weeks": [
-          44,
-          37
+          43,
+          36
         ],
         "availability": "Advertised; booking status requires confirmation",
         "academic_year": "2026/27",
         "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house/ensuite-with-balcony",
-        "checked": "2026-10-30",
+        "checked": "2026-11-06",
         "price_note": "From price across contract options, not confirmed price for each term",
-        "availability_checked": "2026-10-30",
+        "availability_checked": "2026-11-06",
         "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
         "rates": [
           {
-            "weeks": 44,
+            "weeks": 43,
             "weekly": 294,
-            "check_in": "2026-11-02",
+            "check_in": "2026-11-09",
             "check_out": "2027-09-04",
             "booking_cta": "Book Now; final unit availability unverified"
           },
           {
-            "weeks": 37,
+            "weeks": 36,
             "weekly": 304,
-            "check_in": "2026-11-02",
+            "check_in": "2026-11-09",
             "check_out": "2027-07-17",
             "booking_cta": "Book Now; final unit availability unverified"
           }
         ],
-        "rate_checked": "2026-10-31",
-        "rate_note": "Operator grade-detail 2026/27 rates for 2 Nov 2026 move-in; 44 and 37 week options, £99 deposit. Booking CTA is not proof of final unit availability; operator page retrieved 31 Oct (web cache may lag).",
+        "rate_checked": "2026-11-06",
+        "rate_note": "Official grade-detail 6 Nov 2026: 43 weeks £294 and 36 weeks £304, 9 Nov start, £99 deposit. Historical 44/37-week rates retained in previous_rates_snapshot.",
         "listing_reviewed_on": "2026-11-01",
-        "listing_review_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house"
+        "listing_review_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "previous_rates_snapshot": {
+          "observed_on": "2026-10-31",
+          "rates": [
+            {
+              "weeks": 44,
+              "weekly": 294,
+              "check_in": "2026-11-02",
+              "check_out": "2027-09-04",
+              "booking_cta": "Book Now; final unit availability unverified"
+            },
+            {
+              "weeks": 37,
+              "weekly": 304,
+              "check_in": "2026-11-02",
+              "check_out": "2027-07-17",
+              "booking_cta": "Book Now; final unit availability unverified"
+            }
+          ],
+          "note": "Previous 2 November move-in schedule replaced by operator 9 November move-in schedule, checked 6 November."
+        }
       },
       {
         "name": "Premium Ensuite",
@@ -2515,10 +2534,10 @@
     "contract_rates_source_checked": "2026-10-31",
     "last_operator_check_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house/classic-ensuite",
     "latest_operator_audit": {
-      "date": "2026-11-05",
-      "official_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house/classic-ensuite",
-      "scope": "Classic Ensuite 2026/27 contract rates and advertised delayed opening",
-      "note": "Two rolling contract labels changed from 44/37 to 43/36 with 9 Nov start; weekly prices unchanged. Other grades not rechecked."
+      "checked": "2026-11-06",
+      "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+      "finding": "Operator property listing shows 43/36-week 2026/27 terms across priced grades and £1,500 cashback for new 26/27 bookings. Grade-detail Ensuite with Balcony 43/36-week contracts updated. Property headline Classic Ensuite from £288 differs from previously checked grade-detail £278; preserve both pending reconciliation. 2027/28 grade prices not verified. Operator expects opening on or before 28 Nov 2026.",
+      "availability": "Property lists 14 rooms available, but no individual unit inventory verified"
     }
   },
   {
