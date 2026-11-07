@@ -1455,8 +1455,13 @@
     "latest_operator_audit": {
       "checked": "2026-11-06",
       "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
-      "finding": "Five distinct 2027/28 grades and ten 51/44-week rates unchanged on official grade pages; £99 deposit; booking CTA not unit-level availability. Separate 2026/27 rolling contracts remain unresolved."
-    }
+      "finding": "Five distinct 2027/28 grades and ten 51/44-week rates unchanged on official grade pages; £99 deposit; booking CTA not unit-level availability. Separate 2026/27 rolling contracts remain unresolved.",
+      "date": "2026-11-07",
+      "findings": "Property overview advertises £500 Refer A Friend specifically for new 27/28 bookings. 2026/27 overview shows 3 room grades available: Classic 4 Bed Ensuite £180 from, Classic Ensuite £180 from, Classic Studio £260 from; rolling terms 43/36/34/28/8 weeks. Grade-detail contract-rate reconciliation still required; do not replace older grade-specific rates based on summary alone."
+    },
+    "next_academic_year_offer": "£500 Refer A Friend for qualifying new 2027/28 academic-year bookings; operator terms apply. This is a referral incentive, not a rent discount or cashback to every booker.",
+    "next_academic_year_offer_checked": "2026-11-07",
+    "next_academic_year_offer_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter"
   },
   {
     "name": "New Bridewell",
