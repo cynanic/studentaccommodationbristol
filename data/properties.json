@@ -304,14 +304,14 @@
     "room_grades_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
     "room_grades_source_checked": "2026-10-27",
     "operator_page_summary_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
-    "next_academic_year_status": "2027/28 selector visible; no verified 2027/28 prices",
-    "last_operator_check": "2026-11-03",
+    "next_academic_year_status": "Official rooms page states 'Book now for September 2027' and offers 2027/28 year filter; individual grade-specific 2027/28 rates not independently isolated from year-filtered page, so do not assign unfiltered prices to either year.",
+    "last_operator_check": "2026-11-09",
     "last_operator_check_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
     "latest_operator_audit": {
-      "date": "2026-11-03",
+      "date": "2026-11-09",
       "official_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
-      "scope": "All twelve 2026/27 grades visible on official listing; contract-level booking status must be checked on grade detail pages",
-      "note": "Correction to prior seven-grade classification. 2027/28 grade prices not verified."
+      "scope": "Public room overview and academic-year controls",
+      "note": "Explicit September 2027 booking invitation and 2026/27 vs 2027/28 filters. Public unfiltered page shows headline price ranges but year assignment cannot be independently isolated; existing 2026/27 rate records preserved pending year-filtered verification."
     },
     "currently_listed_room_grade_count": 12,
     "historical_unlisted_room_grade_count": 0,
@@ -337,7 +337,7 @@
     "source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
     "checked": "2026-10-30",
     "academic_year": "2026/27",
-    "price_checked": "2026-10-30",
+    "price_checked": "2026-11-09",
     "pricing_status": "operator-advertised from rates",
     "room_grades": [
       {
@@ -345,11 +345,11 @@
         "weekly_from": 199,
         "availability": "Almost gone",
         "source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
-        "checked": "2026-10-30",
+        "checked": "2026-11-09",
         "advertised_incentive": "Nintendo Switch 2 promotional graphic; subject to terms",
-        "availability_checked": "2026-10-30",
+        "availability_checked": "2026-11-09",
         "availability_source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
-        "listing_reviewed_on": "2026-11-01",
+        "listing_reviewed_on": "2026-11-09",
         "listing_review_source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter"
       },
       {
@@ -357,11 +357,11 @@
         "weekly_from": 269,
         "availability": "Almost gone",
         "source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
-        "checked": "2026-10-30",
+        "checked": "2026-11-09",
         "advertised_incentive": "Nintendo Switch 2 promotional graphic; subject to terms",
-        "availability_checked": "2026-10-30",
+        "availability_checked": "2026-11-09",
         "availability_source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
-        "listing_reviewed_on": "2026-11-01",
+        "listing_reviewed_on": "2026-11-09",
         "listing_review_source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter"
       },
       {
@@ -369,23 +369,23 @@
         "weekly_from": 369,
         "availability": "Fully booked / wait list",
         "source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
-        "checked": "2026-10-30",
+        "checked": "2026-11-09",
         "advertised_incentive": "MacBook Neo promotional graphic; studio category fully booked",
-        "availability_checked": "2026-10-30",
+        "availability_checked": "2026-11-09",
         "availability_source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
-        "listing_reviewed_on": "2026-11-01",
+        "listing_reviewed_on": "2026-11-09",
         "listing_review_source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter"
       }
     ],
     "room_grades_source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
-    "room_grades_source_checked": "2026-10-26",
-    "last_operator_check": "2026-11-01",
+    "room_grades_source_checked": "2026-11-09",
+    "last_operator_check": "2026-11-09",
     "last_operator_check_source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
     "latest_operator_audit": {
-      "date": "2026-11-02",
-      "official_source": "https://www.studentroost.co.uk/",
-      "scope": "Operator homepage and 2027/28 policy; Zinc Quarter property page timed out",
-      "note": "2027/28 VIP list reconfirmed sitewide, 2027/28 cancellation policy published October 2026; no Zinc Quarter prices reconfirmed."
+      "date": "2026-11-09",
+      "official_source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
+      "scope": "2026/27 operator property overview, 3 categories; prices, status and promotional graphics",
+      "note": "Townhouse £199/week almost gone, ensuite £269/week almost gone, studio £369/week fully booked/wait list. Nintendo Switch 2 graphics on townhouse/ensuite; MacBook Neo on studios. No contract-specific quote or 2027/28 rate established."
     },
     "next_academic_year_status": "Student Roost sitewide 2027/28 rooms coming soon and VIP list live; Zinc Quarter grade-specific prices and booking status not confirmed",
     "next_academic_year_source": "https://www.studentroost.co.uk/",
@@ -1314,8 +1314,8 @@
         "listing_review_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter"
       }
     ],
-    "last_operator_check": "2026-11-05",
-    "last_operator_check_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/5-bed-ensuite-courtyard-view",
+    "last_operator_check": "2026-11-09",
+    "last_operator_check_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
     "next_academic_year": "2027/28",
     "next_academic_year_room_grades": [
       {
@@ -1453,9 +1453,10 @@
     "next_academic_year_checked": "2026-11-08",
     "next_academic_year_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-bed-ensuite-3",
     "latest_operator_audit": {
-      "checked": "2026-11-08",
-      "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-bed-ensuite-3",
-      "finding": "Four 2027/28 grade pages checked; eight 51/44-week rates unchanged. Classic 5 Bed Ensuite not rechecked today. 2026/27 operator pages have conflicting historical/rolling contract schedules; no 2026/27 rates overwritten."
+      "date": "2026-11-09",
+      "official_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
+      "scope": "2026/27 operator overview, 3 available room categories and two sold-out categories; 2027/28 referral offer",
+      "note": "2026/27 overview Classic 4 Bed Ensuite £180 from, Classic Ensuite £180 from, Classic Studio £260 from; 43/36/34/28/8 week options shown. Deluxe Studio sold out; Accessible Ensuite listed sold out. £500 Refer A Friend explicitly for new 2027/28 bookings. Existing 2027/28 grade-specific prices not rechecked in this audit."
     },
     "next_academic_year_offer": "£500 Refer A Friend for qualifying new 2027/28 academic-year bookings; operator terms apply. This is a referral incentive, not a rent discount or cashback to every booker.",
     "next_academic_year_offer_checked": "2026-11-07",
