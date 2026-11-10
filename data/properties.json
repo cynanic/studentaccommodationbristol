@@ -1339,10 +1339,10 @@
           }
         ],
         "deposit_gbp": 99,
-        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-5-bed-ensuite",
-        "checked": "2026-11-06",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-bed-ensuite-5",
+        "checked": "2026-11-10",
         "availability": "Operator grade-detail shows Book Now CTA; final unit availability not confirmed",
-        "source_note": "Official 2027/28 operator grade page rechecked 6 Nov 2026: 51/44-week rates unchanged; £99 deposit; Book Now CTA, unit inventory unverified."
+        "source_note": "10 Nov 2026: corrected source to explicitly labelled 2027/28 Classic 5 Bed Ensuite grade-detail page (51 weeks £170; 44 weeks £174; £99 deposit; Book Now CTA). Former /classic-5-bed-ensuite URL instead shows a 2026/27 Classic Ensuite at £158/£168; do not conflate these distinct grades or academic years."
       },
       {
         "name": "Classic 3 Bed Ensuite",
@@ -1449,14 +1449,14 @@
         "source_note": "Official 2027/28 operator grade page checked 8 Nov 2026: 51/44-week prices unchanged, £99 deposit, Book Now CTA; unit inventory unverified."
       }
     ],
-    "next_academic_year_status": "5 Bed Ensuite Courtyard View 2027/28 rates reconfirmed 5 Nov; four other next-year grades retain earlier dated checks.",
-    "next_academic_year_checked": "2026-11-08",
-    "next_academic_year_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-bed-ensuite-3",
+    "next_academic_year_status": "Classic 5 Bed Ensuite 2027/28 51/44-week prices reconfirmed 10 Nov 2026; four other 2027/28 grades retain checks from 8 Nov.",
+    "next_academic_year_checked": "2026-11-10",
+    "next_academic_year_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-bed-ensuite-5",
     "latest_operator_audit": {
-      "date": "2026-11-09",
-      "official_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
-      "scope": "2026/27 operator overview, 3 available room categories and two sold-out categories; 2027/28 referral offer",
-      "note": "2026/27 overview Classic 4 Bed Ensuite £180 from, Classic Ensuite £180 from, Classic Studio £260 from; 43/36/34/28/8 week options shown. Deluxe Studio sold out; Accessible Ensuite listed sold out. £500 Refer A Friend explicitly for new 2027/28 bookings. Existing 2027/28 grade-specific prices not rechecked in this audit."
+      "date": "2026-11-10",
+      "official_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-bed-ensuite-5",
+      "scope": "2027/28 Classic 5 Bed Ensuite: 2 contract rates; 2026/27 similarly named Classic Ensuite compared for identity disambiguation",
+      "note": "2027/28 Classic 5 Bed Ensuite £170/51w and £174/44w; £99 deposit, Book Now CTA, unit inventory unverified. Old /classic-5-bed-ensuite URL serves 2026/27 Classic Ensuite £158/51w and £168/44w. Separate grades and years. Other 83 properties not fully checked."
     },
     "next_academic_year_offer": "£500 Refer A Friend for qualifying new 2027/28 academic-year bookings; operator terms apply. This is a referral incentive, not a rent discount or cashback to every booker.",
     "next_academic_year_offer_checked": "2026-11-07",
