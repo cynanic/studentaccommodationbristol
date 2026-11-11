@@ -387,9 +387,51 @@
       "scope": "2026/27 operator property overview, 3 categories; prices, status and promotional graphics",
       "note": "Townhouse £199/week almost gone, ensuite £269/week almost gone, studio £369/week fully booked/wait list. Nintendo Switch 2 graphics on townhouse/ensuite; MacBook Neo on studios. No contract-specific quote or 2027/28 rate established."
     },
-    "next_academic_year_status": "Student Roost sitewide 2027/28 rooms coming soon and VIP list live; Zinc Quarter grade-specific prices and booking status not confirmed",
-    "next_academic_year_source": "https://www.studentroost.co.uk/",
-    "next_academic_year_checked": "2026-11-02"
+    "next_academic_year_status": "2027/28 qualifying new-customer bookings and existing-resident rebookings have published incentives; room-grade prices and actual availability not verified",
+    "next_academic_year_source": "https://www.studentroost.co.uk/terms-and-conditions/marketing-terms-and-conditions",
+    "next_academic_year_checked": "2026-11-11",
+    "offers_2027_28": [
+      {
+        "audience": "new customers",
+        "type": "cashback",
+        "amount_gbp": 250,
+        "code": "DL250",
+        "minimum_weeks": 40,
+        "booking_from": "2026-11-09",
+        "booking_until": "2027-01-31",
+        "property_allocation_limit": 8,
+        "remaining_allocation": "not verified",
+        "source": "https://www.studentroost.co.uk/terms-and-conditions/marketing-terms-and-conditions",
+        "checked": "2026-11-11",
+        "note": "Pre-paid virtual payment card after qualifying check-in; nomination/referral agreements excluded. Cannot generally combine with other promotions."
+      },
+      {
+        "audience": "existing 2026/27 residents",
+        "type": "rebooking cashback",
+        "amount_gbp": 350,
+        "code": "RB350",
+        "minimum_weeks": 40,
+        "booking_from": "2026-11-02",
+        "booking_until": "2027-01-31",
+        "property_allocation_limit": 13,
+        "remaining_allocation": "not verified",
+        "source": "https://www.studentroost.co.uk/terms-and-conditions/marketing-terms-and-conditions",
+        "checked": "2026-11-11",
+        "note": "Qualifying rebookings only, subject to tenancy and account conditions."
+      },
+      {
+        "audience": "existing residents rebooking together",
+        "type": "group reward",
+        "reward": "£500 Amazon gift card per qualifying cluster flat, not per person",
+        "minimum_group_size": 4,
+        "minimum_weeks": 40,
+        "booking_from": "2026-11-02",
+        "booking_until": "2027-01-31",
+        "source": "https://www.studentroost.co.uk/terms-and-conditions/marketing-terms-and-conditions",
+        "checked": "2026-11-11",
+        "note": "Studios and apartments excluded; subject to allocation and eligibility."
+      }
+    ]
   },
   {
     "name": "Avon Point",
