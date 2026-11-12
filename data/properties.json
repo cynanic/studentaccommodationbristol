@@ -389,7 +389,7 @@
     },
     "next_academic_year_status": "2027/28 qualifying new-customer bookings and existing-resident rebookings have published incentives; room-grade prices and actual availability not verified",
     "next_academic_year_source": "https://www.studentroost.co.uk/terms-and-conditions/marketing-terms-and-conditions",
-    "next_academic_year_checked": "2026-11-11",
+    "next_academic_year_checked": "2026-11-12",
     "offers_2027_28": [
       {
         "audience": "new customers",
@@ -430,6 +430,17 @@
         "source": "https://www.studentroost.co.uk/terms-and-conditions/marketing-terms-and-conditions",
         "checked": "2026-11-11",
         "note": "Studios and apartments excluded; subject to allocation and eligibility."
+      },
+      {
+        "audience": "existing 2026/27 residents",
+        "type": "national rebooking prize draw",
+        "reward": "Chance to win annual 2027/28 rent paid; two winners across eligible Student Roost properties, not guaranteed cashback",
+        "minimum_weeks": 40,
+        "booking_from": "2026-11-02",
+        "booking_until": "2026-11-30",
+        "source": "https://www.studentroost.co.uk/terms-and-conditions/marketing-terms-and-conditions",
+        "checked": "2026-11-12",
+        "note": "Win Your Rent 27/28. Eligible current residents rebooking for 2027/28 automatically entered; qualifying referrals during the entry period earn three additional entries each. Home Park and nomination/referral/agent agreement bookings excluded. Draw scheduled 16 December 2026. Zinc Quarter is not named as an excluded property. This is a national prize draw, not a Zinc Quarter-specific allocation or guaranteed rent discount."
       }
     ]
   },
