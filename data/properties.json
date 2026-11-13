@@ -382,14 +382,14 @@
     "last_operator_check": "2026-11-09",
     "last_operator_check_source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
     "latest_operator_audit": {
-      "date": "2026-11-09",
-      "official_source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
-      "scope": "2026/27 operator property overview, 3 categories; prices, status and promotional graphics",
-      "note": "Townhouse £199/week almost gone, ensuite £269/week almost gone, studio £369/week fully booked/wait list. Nintendo Switch 2 graphics on townhouse/ensuite; MacBook Neo on studios. No contract-specific quote or 2027/28 rate established."
+      "date": "2026-11-13",
+      "official_source": "https://www.studentroost.co.uk/terms-and-conditions/marketing-terms-and-conditions",
+      "scope": "2027/28 operator national promotion terms; Zinc Quarter £250 new customer, £350 rebooking, group reward, national prize draw and newly recorded £250/£250 referral",
+      "note": "Rechecked £250 new-customer DL250 Zinc Quarter limit 8, £350 existing-resident RB350 Zinc Quarter limit 13; added national £250 each qualifying referral offer. No 2027/28 room grade rent or live unit availability verified. 2026/27 grade prices and statuses untouched."
     },
     "next_academic_year_status": "2027/28 qualifying new-customer bookings and existing-resident rebookings have published incentives; room-grade prices and actual availability not verified",
     "next_academic_year_source": "https://www.studentroost.co.uk/terms-and-conditions/marketing-terms-and-conditions",
-    "next_academic_year_checked": "2026-11-12",
+    "next_academic_year_checked": "2026-11-13",
     "offers_2027_28": [
       {
         "audience": "new customers",
@@ -441,6 +441,17 @@
         "source": "https://www.studentroost.co.uk/terms-and-conditions/marketing-terms-and-conditions",
         "checked": "2026-11-12",
         "note": "Win Your Rent 27/28. Eligible current residents rebooking for 2027/28 automatically entered; qualifying referrals during the entry period earn three additional entries each. Home Park and nomination/referral/agent agreement bookings excluded. Draw scheduled 16 December 2026. Zinc Quarter is not named as an excluded property. This is a national prize draw, not a Zinc Quarter-specific allocation or guaranteed rent discount."
+      },
+      {
+        "audience": "qualifying referrer and new referred student",
+        "type": "referral cashback",
+        "reward": "£250 cashback to qualifying referrer and £250 to qualifying referred student, separately; not automatic for all bookings",
+        "minimum_weeks": 30,
+        "booking_from": "2026-11-09",
+        "booking_until": "2027-01-31",
+        "source": "https://www.studentroost.co.uk/terms-and-conditions/marketing-terms-and-conditions",
+        "checked": "2026-11-13",
+        "note": "Referred student must be a new 2027/28 customer and use referrer's form at booking; check-in and other eligibility conditions apply. Agent, nomination and referral-agreement bookings excluded. The operator's national terms do not list Zinc Quarter as excluded; individual room eligibility and remaining availability are unverified."
       }
     ]
   },
