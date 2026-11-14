@@ -308,10 +308,10 @@
     "last_operator_check": "2026-11-09",
     "last_operator_check_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
     "latest_operator_audit": {
-      "date": "2026-11-09",
+      "date": "2026-11-14",
       "official_source": "https://www.thisisfresh.com/bristol/croft-court/rooms",
-      "scope": "Public room overview and academic-year controls",
-      "note": "Explicit September 2027 booking invitation and 2026/27 vs 2027/28 filters. Public unfiltered page shows headline price ranges but year assignment cannot be independently isolated; existing 2026/27 rate records preserved pending year-filtered verification."
+      "scope": "2026/27 and 2027/28 academic-year selector and unfiltered room overview, not individually year-filtered prices",
+      "note": "Page explicitly invites bookings for September 2027; unfiltered list shows room grade ranges including Classic En Suite £280–£295, Deluxe Studio £385–£420, Premium Studio £375–£380, City Studio £345–£360 and Premium En Suite £285–£300 for 44/51 weeks. Year cannot be isolated from text view, so these are NOT stored as 2027/28 prices and prior verified 2026/27 records are preserved. Unit inventory unverified."
     },
     "currently_listed_room_grade_count": 12,
     "historical_unlisted_room_grade_count": 0,
@@ -382,10 +382,10 @@
     "last_operator_check": "2026-11-09",
     "last_operator_check_source": "https://www.studentroost.co.uk/locations/bristol/zinc-quarter",
     "latest_operator_audit": {
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "official_source": "https://www.studentroost.co.uk/terms-and-conditions/marketing-terms-and-conditions",
-      "scope": "2027/28 operator national promotion terms; Zinc Quarter £250 new customer, £350 rebooking, group reward, national prize draw and newly recorded £250/£250 referral",
-      "note": "Rechecked £250 new-customer DL250 Zinc Quarter limit 8, £350 existing-resident RB350 Zinc Quarter limit 13; added national £250 each qualifying referral offer. No 2027/28 room grade rent or live unit availability verified. 2026/27 grade prices and statuses untouched."
+      "scope": "2027/28 new-customer £250 cashback terms; Zinc Quarter eligibility and allocation limit",
+      "note": "Official terms continue to list Zinc Quarter for DL250 £250 new-customer cashback, minimum 40 weeks, bookings 9 Nov 2026 to 31 Jan 2027, property allocation cap 8. Remaining allocation unverified. Other offers and 2027/28 room prices not comprehensively rechecked today; 2026/27 grades unchanged."
     },
     "next_academic_year_status": "2027/28 qualifying new-customer bookings and existing-resident rebookings have published incentives; room-grade prices and actual availability not verified",
     "next_academic_year_source": "https://www.studentroost.co.uk/terms-and-conditions/marketing-terms-and-conditions",
@@ -402,7 +402,7 @@
         "property_allocation_limit": 8,
         "remaining_allocation": "not verified",
         "source": "https://www.studentroost.co.uk/terms-and-conditions/marketing-terms-and-conditions",
-        "checked": "2026-11-11",
+        "checked": "2026-11-14",
         "note": "Pre-paid virtual payment card after qualifying check-in; nomination/referral agreements excluded. Cannot generally combine with other promotions."
       },
       {
@@ -1404,8 +1404,8 @@
         ],
         "deposit_gbp": 99,
         "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-bed-ensuite-5",
-        "checked": "2026-11-10",
-        "availability": "Operator grade-detail shows Book Now CTA; final unit availability not confirmed",
+        "checked": "2026-11-14",
+        "availability": "Operator displays Book Now for both 2027/28 contracts; actual remaining unit inventory unverified",
         "source_note": "10 Nov 2026: corrected source to explicitly labelled 2027/28 Classic 5 Bed Ensuite grade-detail page (51 weeks £170; 44 weeks £174; £99 deposit; Book Now CTA). Former /classic-5-bed-ensuite URL instead shows a 2026/27 Classic Ensuite at £158/£168; do not conflate these distinct grades or academic years."
       },
       {
@@ -1514,13 +1514,13 @@
       }
     ],
     "next_academic_year_status": "Classic 5 Bed Ensuite 2027/28 51/44-week prices reconfirmed 10 Nov 2026; four other 2027/28 grades retain checks from 8 Nov.",
-    "next_academic_year_checked": "2026-11-10",
+    "next_academic_year_checked": "2026-11-14",
     "next_academic_year_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-bed-ensuite-5",
     "latest_operator_audit": {
-      "date": "2026-11-10",
+      "date": "2026-11-14",
       "official_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-bed-ensuite-5",
-      "scope": "2027/28 Classic 5 Bed Ensuite: 2 contract rates; 2026/27 similarly named Classic Ensuite compared for identity disambiguation",
-      "note": "2027/28 Classic 5 Bed Ensuite £170/51w and £174/44w; £99 deposit, Book Now CTA, unit inventory unverified. Old /classic-5-bed-ensuite URL serves 2026/27 Classic Ensuite £158/51w and £168/44w. Separate grades and years. Other 83 properties not fully checked."
+      "scope": "2027/28 Classic 5 Bed Ensuite: 51-week and 44-week contract prices and booking CTAs",
+      "note": "Both prices unchanged at £170/51 weeks and £174/44 weeks, £99 deposit, starts 11 Sep 2027. Book Now links visible, actual available units unverified. Other four 2027/28 grades not rechecked."
     },
     "next_academic_year_offer": "£500 Refer A Friend for qualifying new 2027/28 academic-year bookings; operator terms apply. This is a referral incentive, not a rent discount or cashback to every booker.",
     "next_academic_year_offer_checked": "2026-11-07",
