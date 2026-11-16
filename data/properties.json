@@ -1138,28 +1138,28 @@
       {
         "name": "Classic 4 Bed Ensuite",
         "weekly_from": 180,
-        "availability": "Advertised",
+        "availability": "Book Now links advertised; actual unit availability unverified",
         "contract_weeks": [
-          44,
-          37,
+          43,
+          36,
           34,
           28,
-          9
+          8
         ],
-        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-4-bed-ensuite",
-        "checked": "2026-10-30",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-bed-ensuite-4",
+        "checked": "2026-11-16",
         "price_note": "From price across listed contract options; not an individual contract rate",
-        "availability_checked": "2026-10-30",
+        "availability_checked": "2026-11-16",
         "rates": [
           {
-            "weeks": 44,
+            "weeks": 43,
             "weekly": 180,
             "check_in": "2026-11-02",
             "check_out": "2027-09-04",
             "booking_cta": "Book Now; unit availability unverified"
           },
           {
-            "weeks": 37,
+            "weeks": 36,
             "weekly": 185,
             "check_in": "2026-11-02",
             "check_out": "2027-07-17",
@@ -1180,15 +1180,15 @@
             "booking_cta": "Book Now; unit availability unverified"
           },
           {
-            "weeks": 9,
+            "weeks": 8,
             "weekly": 200,
             "check_in": "2026-11-02",
             "check_out": "2027-01-02",
             "booking_cta": "Book Now; unit availability unverified"
           }
         ],
-        "rate_checked": "2026-10-31",
-        "rate_note": "Explicit 2026/27 grade-detail contract rates; 2 Nov 2026 or 4 Jan 2027 starts, £99 deposit. Distinct from 2027/28 room grades.",
+        "rate_checked": "2026-11-16",
+        "rate_note": "2026/27 operator grade page accessed 16 Nov 2026; 43/36/34/28/8-week options; £99 deposit. Search-index snapshot may lag live booking engine. Booking CTA not proof of unit stock.",
         "listing_reviewed_on": "2026-11-01",
         "listing_review_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter"
       },
@@ -1378,8 +1378,8 @@
         "listing_review_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter"
       }
     ],
-    "last_operator_check": "2026-11-09",
-    "last_operator_check_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter",
+    "last_operator_check": "2026-11-16",
+    "last_operator_check_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-propeller-quarter/classic-bed-ensuite-4",
     "next_academic_year": "2027/28",
     "next_academic_year_room_grades": [
       {
