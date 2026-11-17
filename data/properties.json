@@ -2065,21 +2065,261 @@
         "listing_review_source": "https://www.thisisfresh.com/bristol/glassworks/rooms"
       }
     ],
-    "next_academic_year": {
-      "academic_year": "2027/28",
-      "status": "Year selectable on operator page; no verified room-grade prices",
-      "checked": "2026-10-28",
-      "source": "https://www.thisisfresh.com/bristol/glassworks/rooms"
-    },
-    "next_academic_year_status": "2027/28 selector visible; no verified 2027/28 price or bookability",
-    "last_operator_check": "2026-11-01",
-    "last_operator_check_source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
+    "next_academic_year": "2027/28",
+    "next_academic_year_status": "15 named grades with operator-advertised 51-week 2027/28 rates; booking CTAs visible, remaining unit inventory unverified",
+    "last_operator_check": "2026-11-17",
+    "last_operator_check_source": "https://www.thisisfresh.com/bristol/glassworks/rooms?academicYear=138&accomodationType=2",
     "latest_operator_audit": {
-      "date": "2026-11-01",
-      "official_source": "https://www.thisisfresh.com/bristol/glassworks/rooms",
-      "scope": "Public property page and accessible 2026/27 room listing; 2027/28 signals checked where exposed",
-      "note": "Fifteen 2026/27 grades listed; headline ranges unchanged; 2027/28 selector but no next-year price confirmed."
-    }
+      "date": "2026-11-17",
+      "academic_year": "2027/28",
+      "grades_checked": 15,
+      "prices_verified": 15,
+      "contract_weeks": 51,
+      "booking_status": "Select Your Room shown for all 15 grades; inventory not confirmed",
+      "source": "https://www.thisisfresh.com/bristol/glassworks/rooms?academicYear=138&accomodationType=2"
+    },
+    "room_grades_2027_28": [
+      {
+        "name": "Bronze En Suite",
+        "academic_year": "2027/28",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 290,
+            "start": "2027-09-04",
+            "end": "2028-08-25",
+            "advertised_status": "Select Your Room",
+            "unit_availability": "not independently confirmed"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms?academicYear=138&accomodationType=2",
+        "checked": "2026-11-17"
+      },
+      {
+        "name": "Silver En Suite",
+        "academic_year": "2027/28",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 315,
+            "start": "2027-09-04",
+            "end": "2028-08-25",
+            "advertised_status": "Select Your Room",
+            "unit_availability": "not independently confirmed"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms?academicYear=138&accomodationType=2",
+        "checked": "2026-11-17"
+      },
+      {
+        "name": "Skyline Silver En Suite",
+        "academic_year": "2027/28",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 320,
+            "start": "2027-09-04",
+            "end": "2028-08-25",
+            "advertised_status": "Select Your Room",
+            "unit_availability": "not independently confirmed"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms?academicYear=138&accomodationType=2",
+        "checked": "2026-11-17"
+      },
+      {
+        "name": "Bronze Studio",
+        "academic_year": "2027/28",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 345,
+            "start": "2027-09-04",
+            "end": "2028-08-25",
+            "advertised_status": "Select Your Room",
+            "unit_availability": "not independently confirmed"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms?academicYear=138&accomodationType=2",
+        "checked": "2026-11-17"
+      },
+      {
+        "name": "Gold Studio",
+        "academic_year": "2027/28",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 400,
+            "start": "2027-09-04",
+            "end": "2028-08-25",
+            "advertised_status": "Select Your Room",
+            "unit_availability": "not independently confirmed"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms?academicYear=138&accomodationType=2",
+        "checked": "2026-11-17"
+      },
+      {
+        "name": "Platinum Studio",
+        "academic_year": "2027/28",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 420,
+            "start": "2027-09-04",
+            "end": "2028-08-25",
+            "advertised_status": "Select Your Room",
+            "unit_availability": "not independently confirmed"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms?academicYear=138&accomodationType=2",
+        "checked": "2026-11-17"
+      },
+      {
+        "name": "Silver Studio",
+        "academic_year": "2027/28",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 355,
+            "start": "2027-09-04",
+            "end": "2028-08-25",
+            "advertised_status": "Select Your Room",
+            "unit_availability": "not independently confirmed"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms?academicYear=138&accomodationType=2",
+        "checked": "2026-11-17"
+      },
+      {
+        "name": "Garden En Suite",
+        "academic_year": "2027/28",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 250,
+            "start": "2027-09-04",
+            "end": "2028-08-25",
+            "advertised_status": "Select Your Room",
+            "unit_availability": "not independently confirmed"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms?academicYear=138&accomodationType=2",
+        "checked": "2026-11-17"
+      },
+      {
+        "name": "Skyline Bronze Studio",
+        "academic_year": "2027/28",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 355,
+            "start": "2027-09-04",
+            "end": "2028-08-25",
+            "advertised_status": "Select Your Room",
+            "unit_availability": "not independently confirmed"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms?academicYear=138&accomodationType=2",
+        "checked": "2026-11-17"
+      },
+      {
+        "name": "Skyline Platinum Studio",
+        "academic_year": "2027/28",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 430,
+            "start": "2027-09-04",
+            "end": "2028-08-25",
+            "advertised_status": "Select Your Room",
+            "unit_availability": "not independently confirmed"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms?academicYear=138&accomodationType=2",
+        "checked": "2026-11-17"
+      },
+      {
+        "name": "Skyline Silver Studio",
+        "academic_year": "2027/28",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 370,
+            "start": "2027-09-04",
+            "end": "2028-08-25",
+            "advertised_status": "Select Your Room",
+            "unit_availability": "not independently confirmed"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms?academicYear=138&accomodationType=2",
+        "checked": "2026-11-17"
+      },
+      {
+        "name": "Twodio",
+        "academic_year": "2027/28",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 320,
+            "start": "2027-09-04",
+            "end": "2028-08-25",
+            "advertised_status": "Select Your Room",
+            "unit_availability": "not independently confirmed"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms?academicYear=138&accomodationType=2",
+        "checked": "2026-11-17"
+      },
+      {
+        "name": "Skyline Bronze En Suite",
+        "academic_year": "2027/28",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 315,
+            "start": "2027-09-04",
+            "end": "2028-08-25",
+            "advertised_status": "Select Your Room",
+            "unit_availability": "not independently confirmed"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms?academicYear=138&accomodationType=2",
+        "checked": "2026-11-17"
+      },
+      {
+        "name": "Garden Twodio",
+        "academic_year": "2027/28",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 310,
+            "start": "2027-09-04",
+            "end": "2028-08-25",
+            "advertised_status": "Select Your Room",
+            "unit_availability": "not independently confirmed"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms?academicYear=138&accomodationType=2",
+        "checked": "2026-11-17"
+      },
+      {
+        "name": "Skyline Twodio",
+        "academic_year": "2027/28",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 330,
+            "start": "2027-09-04",
+            "end": "2028-08-25",
+            "advertised_status": "Select Your Room",
+            "unit_availability": "not independently confirmed"
+          }
+        ],
+        "source": "https://www.thisisfresh.com/bristol/glassworks/rooms?academicYear=138&accomodationType=2",
+        "checked": "2026-11-17"
+      }
+    ]
   },
   {
     "name": "The Quarter House",
