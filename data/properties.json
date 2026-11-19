@@ -2819,17 +2819,29 @@
         "name": "Accessible Ensuite",
         "weekly_from": null,
         "contract_weeks": [
-          44,
-          37
+          41
         ],
-        "availability": "Available on request / enquire only",
+        "availability": "Available on request; Enquire CTA, no weekly price advertised",
         "academic_year": "2026/27",
-        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
-        "checked": "2026-10-30",
-        "availability_checked": "2026-10-30",
-        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house/accessible-ensuite",
+        "checked": "2026-11-19",
+        "availability_checked": "2026-11-19",
+        "availability_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house/accessible-ensuite",
         "listing_reviewed_on": "2026-11-01",
-        "listing_review_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house"
+        "listing_review_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+        "previous_contract_snapshot": {
+          "observed_on": "2026-10-30",
+          "contract_weeks": [
+            44,
+            37
+          ],
+          "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
+          "note": "Previously recorded 44/37-week terms; replaced by operator grade-specific 41-week enquiry-only listing."
+        },
+        "price_note": "2026/27 Accessible Ensuite: 41 weeks, 23 Nov 2026 to 4 Sep 2027; price available on request; do not infer a weekly rate.",
+        "rates": [],
+        "contract_start": "2026-11-23",
+        "contract_end": "2027-09-04"
       },
       {
         "name": "Accessible Studio",
@@ -2854,9 +2866,9 @@
       "checked": "2026-10-28",
       "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house"
     },
-    "last_operator_check": "2026-11-05",
+    "last_operator_check": "2026-11-19",
     "contract_rates_source_checked": "2026-10-31",
-    "last_operator_check_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house/classic-ensuite",
+    "last_operator_check_source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house/accessible-ensuite",
     "latest_operator_audit": {
       "checked": "2026-11-06",
       "source": "https://prestigestudentliving.com/student-accommodation/bristol/the-quarter-house",
