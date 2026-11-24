@@ -539,15 +539,39 @@
     "last_operator_check": "2026-11-02",
     "last_operator_check_source": "https://www.iqstudentaccommodation.com/bristol/water-lane-house",
     "latest_operator_audit": {
-      "date": "2026-11-02",
-      "official_source": "https://www.iqstudentaccommodation.com/bristol/water-lane-house",
-      "scope": "Official property or grade page accessed",
-      "note": "Studio-only property confirmed; dynamic pricing omitted from accessible official HTML. Historical headline archived, not displayed as current."
+      "date": "2026-11-24",
+      "official_source": "https://www.iqstudentaccommodation.com/bristol/water-lane-house/diamond-studio-plus",
+      "scope": "2027/28 Diamond Studio Plus only",
+      "note": "One grade-specific operator snapshot retrieved 24 November 2026, crawled approximately one week earlier; other grades and live inventory unverified."
     },
     "historical_headline_from_price_gbp": 288,
     "historical_headline_checked": "2026-10-13",
     "historical_offer": "Previously recorded cashback up to £600; not reverified 2026-10-25",
-    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies"
+    "verification_status": "Official operator property identity confirmed; grade/contract completeness varies",
+    "next_academic_year": "2027/28",
+    "next_academic_year_status": "One grade-specific operator snapshot retrieved 24 November 2026, crawled approximately one week earlier; other grades and live inventory unverified.",
+    "room_grades_2027_28": [
+      {
+        "name": "Diamond Studio Plus",
+        "academic_year": "2027/28",
+        "rates": [
+          {
+            "weeks": 51,
+            "weekly": 489,
+            "start": "2027-09-04",
+            "end": "2028-08-26",
+            "advertised_status": "Limited availability; Select your room",
+            "unit_availability": "not independently confirmed",
+            "booking_fee_gbp": 349,
+            "cashback_gbp": 300,
+            "cashback_minimum_weeks": 36
+          }
+        ],
+        "source": "https://www.iqstudentaccommodation.com/bristol/water-lane-house/diamond-studio-plus",
+        "checked": "2026-11-24",
+        "evidence_note": "Operator search snapshot crawled approximately one week before retrieval; not live booking-engine confirmation."
+      }
+    ]
   },
   {
     "name": "Cathedral Park",
